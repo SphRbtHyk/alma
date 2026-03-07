@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="13"><wds lnum="L1"><w n="1-179">
+				<text>ego</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-180">
+				<text>sum</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-181">
+				<text>pastor</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-182">
+				<text>bonus</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-183">
+				<text>et</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-184">
+				<text>cognosco</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-185">
+				<text>oues</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-186">
+				<text>meas</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-187">
+				<text>et</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-188">
+				<text>cognoscunt</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-189">
+				<text>me</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-190">
+				<text>mee</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-191">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-181">
+				<text>ego</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-182">
+				<text>sum</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-183">
+				<text>pastor</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-184">
+				<text>bonus</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-185">
+				<text>et</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-186">
+				<text>agnosco</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-187">
+				<text>meas</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-188">
+				<text>et</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-189">
+				<text>agnoscent</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-190">
+				<text>me</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-191">
+				<text>mee</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-192">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

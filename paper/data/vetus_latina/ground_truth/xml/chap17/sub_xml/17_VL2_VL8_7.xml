@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-116">
+				<text>ego</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-117">
+				<text>dedi</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-118">
+				<text>illis</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-119">
+				<text>uerbum</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-120">
+				<text>tuum</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-121">
+				<text>et</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-122">
+				<text>seculum</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-123">
+				<text>odit</text>
+				<refs nrefs="2-125 2-126" />
+			</w>
+			<w n="1-124">
+				<text>eos</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-125">
+				<text>quia</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-126">
+				<text>non</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-127">
+				<text>sunt</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-128">
+				<text>de</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-129">
+				<text>seculo</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-130">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-118">
+				<text>ego</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-119">
+				<text>dedi</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-120">
+				<text>eis</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-121">
+				<text>sermonem</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-122">
+				<text>tuum</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-123">
+				<text>et</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-124">
+				<text>mundus</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-125">
+				<text>odio</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-126">
+				<text>habuit</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-127">
+				<text>eos</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-128">
+				<text>quia</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-129">
+				<text>non</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-130">
+				<text>sunt</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-131">
+				<text>de</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-132">
+				<text>mundo</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-133">
+				<text>sicut</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-134">
+				<text>ego</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-135">
+				<text>non</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-136">
+				<text>sum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-137">
+				<text>de</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-138">
+				<text>mundo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-139">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

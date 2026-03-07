@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-236">
+				<text>cohors</text>
+				<refs nrefs="2-249" />
+			</w>
+			<w n="1-237">
+				<text>itaque</text>
+				<refs nrefs="2-250" />
+			</w>
+			<w n="1-238">
+				<text>et</text>
+				<refs nrefs="2-251" />
+			</w>
+			<w n="1-239">
+				<text>tribunus</text>
+				<refs nrefs="2-252" />
+			</w>
+			<w n="1-240">
+				<text>et</text>
+				<refs nrefs="2-253" />
+			</w>
+			<w n="1-241">
+				<text>ministeria</text>
+				<refs nrefs="2-254" />
+			</w>
+			<w n="1-242">
+				<text>iudeorum</text>
+				<refs nrefs="2-255" />
+			</w>
+			<w n="1-243">
+				<text>conprehenderunt</text>
+				<refs nrefs="2-256" />
+			</w>
+			<w n="1-244">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-249">
+				<text>cohors</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-250">
+				<text>igitur</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-251">
+				<text>et</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-252">
+				<text>tribunus</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-253">
+				<text>et</text>
+				<refs nrefs="1-240" />
+			</w>
+			<w n="2-254">
+				<text>ministri</text>
+				<refs nrefs="1-241" />
+			</w>
+			<w n="2-255">
+				<text>iudeorum</text>
+				<refs nrefs="1-242" />
+			</w>
+			<w n="2-256">
+				<text>conprehenderunt</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-257">
+				<text>iesum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-258">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-259">
+				<text>adligauerunt</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-260">
+				<text>eum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-261">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

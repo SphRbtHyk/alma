@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="11"><wds lnum="L1"><w n="1-186">
+				<text>et</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-187">
+				<text>non</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-188">
+				<text>uultis</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-189">
+				<text>ad</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-190">
+				<text>me</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-191">
+				<text>uenire</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-192">
+				<text>ut</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-193">
+				<text>uitam</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-194">
+				<text>eternam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-195">
+				<text>habeatis</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-196">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-185">
+				<text>et</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-186">
+				<text>non</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-187">
+				<text>uultis</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-188">
+				<text>ad</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-189">
+				<text>me</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-190">
+				<text>uenire</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-191">
+				<text>ut</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-192">
+				<text>uitam</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-193">
+				<text>habeatis</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-194">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

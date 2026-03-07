@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="15"><wds lnum="L1"><w n="1-274">
+				<text>τοτε</text>
+				<refs nrefs="2-269" />
+			</w>
+			<w n="1-275">
+				<text>ουν</text>
+				<refs nrefs="2-270" />
+			</w>
+			<w n="1-276">
+				<text>ειπεν</text>
+				<refs nrefs="2-271" />
+			</w>
+			<w n="1-277">
+				<text>αυτοις</text>
+				<refs nrefs="2-272" />
+			</w>
+			<w n="1-278">
+				<text>ο</text>
+				<refs nrefs="2-273" />
+			</w>
+			<w n="1-279">
+				<text>ιησους</text>
+				<refs nrefs="2-274" />
+			</w>
+			<w n="1-280">
+				<text>παρρησια</text>
+				<refs nrefs="2-275" />
+			</w>
+			<w n="1-281">
+				<text>λαζαρος</text>
+				<refs nrefs="2-276" />
+			</w>
+			<w n="1-282">
+				<text>ο</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-283">
+				<text>φιλος</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-284">
+				<text>ημων</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-285">
+				<text>απεθανεν</text>
+				<refs nrefs="2-277" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-269">
+				<text>τοτε</text>
+				<refs nrefs="1-274" />
+			</w>
+			<w n="2-270">
+				<text>ουν</text>
+				<refs nrefs="1-275" />
+			</w>
+			<w n="2-271">
+				<text>ειπεν</text>
+				<refs nrefs="1-276" />
+			</w>
+			<w n="2-272">
+				<text>αυτοις</text>
+				<refs nrefs="1-277" />
+			</w>
+			<w n="2-273">
+				<text>ο</text>
+				<refs nrefs="1-278" />
+			</w>
+			<w n="2-274">
+				<text>ιησους</text>
+				<refs nrefs="1-279" />
+			</w>
+			<w n="2-275">
+				<text>παρρησια</text>
+				<refs nrefs="1-280" />
+			</w>
+			<w n="2-276">
+				<text>λαζαρος</text>
+				<refs nrefs="1-281" />
+			</w>
+			<w n="2-277">
+				<text>απεθα</text>
+				<refs nrefs="1-285" />
+			</w>
+		</wds></sentence></aligned-text>

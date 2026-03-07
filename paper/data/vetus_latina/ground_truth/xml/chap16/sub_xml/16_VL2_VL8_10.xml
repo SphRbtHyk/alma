@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-156">
+				<text>cum</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-157">
+				<text>uenerit</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-158">
+				<text>ille</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-159">
+				<text>spiritus</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-160">
+				<text>ueritatis</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-161">
+				<text>inducet</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-162">
+				<text>uobis</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-163">
+				<text>ueritatem</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-164">
+				<text>omnem</text>
+				<refs nrefs="2-175 2-176" />
+			</w>
+			<w n="1-165">
+				<text>non</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-166">
+				<text>enim</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-167">
+				<text>loquetur</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-168">
+				<text>ab</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-169">
+				<text>se</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-170">
+				<text>sed</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-171">
+				<text>que</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-172">
+				<text>audit</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-173">
+				<text>loquitur</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-174">
+				<text>et</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-175">
+				<text>futura</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-176">
+				<text>nun</text>
+				<refs nrefs="2-189 2-190" />
+			</w>
+			<w n="1-177">
+				<text>tiauit</text>
+				<refs nrefs="2-189 2-190" />
+			</w>
+			<w n="1-178">
+				<text>uobis</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-179">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-167">
+				<text>cum</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-168">
+				<text>enim</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-169">
+				<text>uenerit</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-170">
+				<text>ille</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-171">
+				<text>spiritus</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-172">
+				<text>ueritatis</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-173">
+				<text>deducet</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-174">
+				<text>uos</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-175">
+				<text>in</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-176">
+				<text>omni</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-177">
+				<text>ueritate</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-178">
+				<text>non</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-179">
+				<text>enim</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-180">
+				<text>loquitur</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-181">
+				<text>a</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-182">
+				<text>semetipso</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-183">
+				<text>sed</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-184">
+				<text>quicumque</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-185">
+				<text>audierit</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-186">
+				<text>loquitur</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-187">
+				<text>que</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-188">
+				<text>uentura</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-189">
+				<text>sunt</text>
+				<refs nrefs="1-176 1-177" />
+			</w>
+			<w n="2-190">
+				<text>adnuntiauit</text>
+				<refs nrefs="1-176 1-177" />
+			</w>
+			<w n="2-191">
+				<text>uobis</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-192">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

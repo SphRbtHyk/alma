@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>sed</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>quoniam</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3">
+				<text>ista</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-4">
+				<text>locutus</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-5">
+				<text>sum</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-6">
+				<text>uobis</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-7">
+				<text>tristitia</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-8">
+				<text>impleuit</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-9">
+				<text>cor</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-10">
+				<text>uestrum</text>
+				<refs nrefs="2-10" />
+			</w>
+			<w n="1-11">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>sed</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>quia</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3">
+				<text>hec</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-4">
+				<text>locutus</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-5">
+				<text>sum</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-6">
+				<text>uobis</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-7">
+				<text>tristitia</text>
+				<refs nrefs="1-7" />
+			</w>
+			<w n="2-8">
+				<text>inpleuit</text>
+				<refs nrefs="1-8" />
+			</w>
+			<w n="2-9">
+				<text>cor</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-10">
+				<text>uestrum</text>
+				<refs nrefs="1-10" />
+			</w>
+			<w n="2-11">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-192">
+				<text>et</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-193">
+				<text>iesus</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-194">
+				<text>ait</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-195">
+				<text>illis</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-196">
+				<text>soluite</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-197">
+				<text>templum</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-198">
+				<text>istut</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-199">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-200">
+				<text>in</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-201">
+				<text>tribus</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-202">
+				<text>diebus</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-203">
+				<text>restaurabo</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-204">
+				<text>illud</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-205">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-188">
+				<text>respondit</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-189">
+				<text>iesus</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-190">
+				<text>et</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-191">
+				<text>dixit</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-192">
+				<text>eis</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-193">
+				<text>soluite</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-194">
+				<text>templum</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-195">
+				<text>hoc</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-196">
+				<text>in</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-197">
+				<text>tribus</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-198">
+				<text>diebus</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-199">
+				<text>excitabo</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-200">
+				<text>illud</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-201">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

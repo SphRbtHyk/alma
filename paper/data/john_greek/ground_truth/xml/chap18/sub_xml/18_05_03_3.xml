@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="3"><wds lnum="L1"><w n="1-35">
+				<text>ο</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-36">
+				<text>ουν</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-37">
+				<text>αρχιερευς</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-38">
+				<text>ηρωτησεν</text>
+				<refs nrefs="2-37" />
+			</w>
+			<w n="1-39">
+				<text>τον</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-40">
+				<text>ιν</text>
+				<refs nrefs="2-39" />
+			</w>
+			<w n="1-41">
+				<text>περι</text>
+				<refs nrefs="2-40" />
+			</w>
+			<w n="1-42">
+				<text>των</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-43">
+				<text>μαθητων</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-44">
+				<text>αυτου</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-45">
+				<text>και</text>
+				<refs nrefs="2-44" />
+			</w>
+			<w n="1-46">
+				<text>περι</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-47">
+				<text>της</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-48">
+				<text>διδαχης</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-49">
+				<text>αυτου</text>
+				<refs nrefs="2-48" />
+			</w>
+			<w n="1-50">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-34">
+				<text>ο</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-35">
+				<text>ουν</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-36">
+				<text>αρχιερευς</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-37">
+				<text>ηρωτησεν</text>
+				<refs nrefs="1-38" />
+			</w>
+			<w n="2-38">
+				<text>τον</text>
+				<refs nrefs="1-39" />
+			</w>
+			<w n="2-39">
+				<text>ιν</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-40">
+				<text>περι</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-41">
+				<text>των</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-42">
+				<text>μαθητων</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-43">
+				<text>αυτου</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-44">
+				<text>και</text>
+				<refs nrefs="1-45" />
+			</w>
+			<w n="2-45">
+				<text>περι</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-46">
+				<text>της</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-47">
+				<text>διδαχης</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-48">
+				<text>αυτου</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-49">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

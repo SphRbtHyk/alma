@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="2"><wds lnum="L1"><w n="1-11">
+				<text>et</text>
+				<refs nrefs="2-12" />
+			</w>
+			<w n="1-12">
+				<text>quidquid</text>
+				<refs nrefs="2-13" />
+			</w>
+			<w n="1-13">
+				<text>petieritis</text>
+				<refs nrefs="2-14" />
+			</w>
+			<w n="1-14">
+				<text>in</text>
+				<refs nrefs="2-15" />
+			</w>
+			<w n="1-15">
+				<text>nomine</text>
+				<refs nrefs="2-16" />
+			</w>
+			<w n="1-16">
+				<text>meo</text>
+				<refs nrefs="2-17" />
+			</w>
+			<w n="1-17">
+				<text>hoc</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-18">
+				<text>faciam</text>
+				<refs nrefs="2-19" />
+			</w>
+			<w n="1-19">
+				<text>ut</text>
+				<refs nrefs="2-20" />
+			</w>
+			<w n="1-20">
+				<text>magnificetur</text>
+				<refs nrefs="2-21" />
+			</w>
+			<w n="1-21">
+				<text>pater</text>
+				<refs nrefs="2-22" />
+			</w>
+			<w n="1-22">
+				<text>in</text>
+				<refs nrefs="2-23" />
+			</w>
+			<w n="1-23">
+				<text>filio</text>
+				<refs nrefs="2-24" />
+			</w>
+			<w n="1-24">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-12">
+				<text>et</text>
+				<refs nrefs="1-11" />
+			</w>
+			<w n="2-13">
+				<text>quodcumque</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-14">
+				<text>petieritis</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-15">
+				<text>in</text>
+				<refs nrefs="1-14" />
+			</w>
+			<w n="2-16">
+				<text>nomine</text>
+				<refs nrefs="1-15" />
+			</w>
+			<w n="2-17">
+				<text>meo</text>
+				<refs nrefs="1-16" />
+			</w>
+			<w n="2-18">
+				<text>ego</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-19">
+				<text>faciam</text>
+				<refs nrefs="1-18" />
+			</w>
+			<w n="2-20">
+				<text>ut</text>
+				<refs nrefs="1-19" />
+			</w>
+			<w n="2-21">
+				<text>clarificetur</text>
+				<refs nrefs="1-20" />
+			</w>
+			<w n="2-22">
+				<text>pater</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-23">
+				<text>in</text>
+				<refs nrefs="1-22" />
+			</w>
+			<w n="2-24">
+				<text>filio</text>
+				<refs nrefs="1-23" />
+			</w>
+			<w n="2-25">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

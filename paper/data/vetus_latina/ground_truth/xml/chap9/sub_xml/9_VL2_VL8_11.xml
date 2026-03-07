@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-174">
+				<text>respondit</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-175">
+				<text>ille</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-176">
+				<text>homo</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-177">
+				<text>et</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-178">
+				<text>dixit</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-179">
+				<text>hoc</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-180">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-181">
+				<text>mirabile</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-182">
+				<text>est</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-183">
+				<text>quoniam</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-184">
+				<text>uos</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-185">
+				<text>nescitis</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-186">
+				<text>unde</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-187">
+				<text>sit</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-188">
+				<text>et</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-189">
+				<text>aperuit</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-190">
+				<text>oculos</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-191">
+				<text>meos</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-192">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-182">
+				<text>respondit</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-183">
+				<text>ille</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-184">
+				<text>homo</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-185">
+				<text>et</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-186">
+				<text>dixit</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-187">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-188">
+				<text>hoc</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-189">
+				<text>mirabile</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-190">
+				<text>est</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-191">
+				<text>quia</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-192">
+				<text>uos</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-193">
+				<text>nescitis</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-194">
+				<text>unde</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-195">
+				<text>sit</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-196">
+				<text>et</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-197">
+				<text>aperuit</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-198">
+				<text>oculus</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-199">
+				<text>meos</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-200">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

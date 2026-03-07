@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="15"><wds lnum="L1"><w n="1-280">
+				<text>qui</text>
+				<refs nrefs="2-269" />
+			</w>
+			<w n="1-281">
+				<text>desusum</text>
+				<refs nrefs="2-271" />
+			</w>
+			<w n="1-282">
+				<text>uenit</text>
+				<refs nrefs="2-272" />
+			</w>
+			<w n="1-283">
+				<text>super</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-284">
+				<text>omnes</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-285">
+				<text>est</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-286">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-287">
+				<text>est</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-288">
+				<text>super</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-289">
+				<text>terram</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-290">
+				<text>de</text>
+				<refs nrefs="2-273" />
+			</w>
+			<w n="1-291">
+				<text>terra</text>
+				<refs nrefs="2-274" />
+			</w>
+			<w n="1-292">
+				<text>est</text>
+				<refs nrefs="2-275" />
+			</w>
+			<w n="1-293">
+				<text>et</text>
+				<refs nrefs="2-276" />
+			</w>
+			<w n="1-294">
+				<text>de</text>
+				<refs nrefs="2-277" />
+			</w>
+			<w n="1-295">
+				<text>terra</text>
+				<refs nrefs="2-278" />
+			</w>
+			<w n="1-296">
+				<text>loquitur</text>
+				<refs nrefs="2-279" />
+			</w>
+			<w n="1-297">
+				<text>nam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-298">
+				<text>qui</text>
+				<refs nrefs="2-280" />
+			</w>
+			<w n="1-299">
+				<text>de</text>
+				<refs nrefs="2-281" />
+			</w>
+			<w n="1-300">
+				<text>celo</text>
+				<refs nrefs="2-282" />
+			</w>
+			<w n="1-301">
+				<text>uenit</text>
+				<refs nrefs="2-283" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-269">
+				<text>qui</text>
+				<refs nrefs="1-280" />
+			</w>
+			<w n="2-270">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-271">
+				<text>desursum</text>
+				<refs nrefs="1-281" />
+			</w>
+			<w n="2-272">
+				<text>uenit</text>
+				<refs nrefs="1-282" />
+			</w>
+			<w n="2-273">
+				<text>de</text>
+				<refs nrefs="1-290" />
+			</w>
+			<w n="2-274">
+				<text>terra</text>
+				<refs nrefs="1-291" />
+			</w>
+			<w n="2-275">
+				<text>est</text>
+				<refs nrefs="1-292" />
+			</w>
+			<w n="2-276">
+				<text>et</text>
+				<refs nrefs="1-293" />
+			</w>
+			<w n="2-277">
+				<text>de</text>
+				<refs nrefs="1-294" />
+			</w>
+			<w n="2-278">
+				<text>terra</text>
+				<refs nrefs="1-295" />
+			</w>
+			<w n="2-279">
+				<text>loquitur</text>
+				<refs nrefs="1-296" />
+			</w>
+			<w n="2-280">
+				<text>qui</text>
+				<refs nrefs="1-298" />
+			</w>
+			<w n="2-281">
+				<text>de</text>
+				<refs nrefs="1-299" />
+			</w>
+			<w n="2-282">
+				<text>celo</text>
+				<refs nrefs="1-300" />
+			</w>
+			<w n="2-283">
+				<text>uenit</text>
+				<refs nrefs="1-301" />
+			</w>
+		</wds></sentence></aligned-text>

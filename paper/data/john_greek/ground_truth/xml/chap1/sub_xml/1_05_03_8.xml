@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="8"><wds lnum="L1"><w n="1-115">
+				<text>εγενετο</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-116">
+				<text>ανθρωπος</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-117">
+				<text>απεσταλμενος</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-118">
+				<text>παρα</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-119">
+				<text>ε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-120">
+				<text>ονομα</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-121">
+				<text>αυτω</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-122">
+				<text>ιωαννη</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-123">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-115">
+				<text>εγενετο</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-116">
+				<text>ανθρωπος</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-117">
+				<text>απεσταλμενος</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-118">
+				<text>παρα</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-119">
+				<text>θεου</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-120">
+				<text>ονομα</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-121">
+				<text>αυτω</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-122">
+				<text>ιωανης</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-123">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

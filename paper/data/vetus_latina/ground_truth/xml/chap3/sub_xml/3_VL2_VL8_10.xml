@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-191">
+				<text>qui</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-192">
+				<text>autem</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-193">
+				<text>facit</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-194">
+				<text>ueritatem</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-195">
+				<text>uenit</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-196">
+				<text>ad</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-197">
+				<text>lumen</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-198">
+				<text>ut</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-199">
+				<text>manifestetur</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-200">
+				<text>opera</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-201">
+				<text>eius</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-202">
+				<text>quoniam</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-203">
+				<text>in</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-204">
+				<text>deo</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-205">
+				<text>sunt</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-206">
+				<text>operata</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-207">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-177">
+				<text>qui</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-178">
+				<text>autem</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-179">
+				<text>facit</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-180">
+				<text>ueritatem</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-181">
+				<text>uenit</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-182">
+				<text>ad</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-183">
+				<text>lucem</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-184">
+				<text>ut</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-185">
+				<text>manifestentur</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-186">
+				<text>opera</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-187">
+				<text>eius</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-188">
+				<text>quia</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-189">
+				<text>in</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-190">
+				<text>deo</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-191">
+				<text>sunt</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-192">
+				<text>facta</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-193">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

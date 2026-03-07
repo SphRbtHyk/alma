@@ -1,0 +1,13 @@
+source_index,source_text,target_index,target_text
+0,nunc,0,nunc
+1,iudicium,1,iudicium
+2,est,2,est
+3,huius,-,-
+4,mundi,3,mundi
+5,nunc,5,nunc
+6,princeps,6,princeps
+-,-,4,est
+7,huius,-,-
+8,mundi,7,mundi
+9,mittetur,8,dimittetur
+10,deorsum,9,deorsum

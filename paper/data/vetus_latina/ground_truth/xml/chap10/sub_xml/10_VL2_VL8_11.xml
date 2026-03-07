@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-144">
+				<text>sicut</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-145">
+				<text>agnoscit</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-146">
+				<text>me</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-147">
+				<text>pater</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-148">
+				<text>et</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-149">
+				<text>ego</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-150">
+				<text>agnosco</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-151">
+				<text>patrem</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-152">
+				<text>et</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-153">
+				<text>animam</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-154">
+				<text>meam</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-155">
+				<text>ponam</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-156">
+				<text>pro</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-157">
+				<text>ouibus</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-158">
+				<text>meis</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-159">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-146">
+				<text>sicut</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-147">
+				<text>cognoscit</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-148">
+				<text>me</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-149">
+				<text>pater</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-150">
+				<text>et</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-151">
+				<text>ego</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-152">
+				<text>agnosco</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-153">
+				<text>patrem</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-154">
+				<text>et</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-155">
+				<text>animam</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-156">
+				<text>meam</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-157">
+				<text>pono</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-158">
+				<text>pro</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-159">
+				<text>ouibus</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-160">
+				<text>meis</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-161">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

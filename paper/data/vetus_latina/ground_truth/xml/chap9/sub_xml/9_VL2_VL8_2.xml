@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="2"><wds lnum="L1"><w n="1-19">
+				<text>dicebant</text>
+				<refs nrefs="2-19" />
+			</w>
+			<w n="1-20">
+				<text>ergo</text>
+				<refs nrefs="2-20" />
+			</w>
+			<w n="1-21">
+				<text>quidam</text>
+				<refs nrefs="2-23" />
+			</w>
+			<w n="1-22">
+				<text>de</text>
+				<refs nrefs="2-21" />
+			</w>
+			<w n="1-23">
+				<text>fariseis</text>
+				<refs nrefs="2-22" />
+			</w>
+			<w n="1-24">
+				<text>non</text>
+				<refs nrefs="2-24" />
+			</w>
+			<w n="1-25">
+				<text>est</text>
+				<refs nrefs="2-25" />
+			</w>
+			<w n="1-26">
+				<text>hic</text>
+				<refs nrefs="2-26" />
+			</w>
+			<w n="1-27">
+				<text>a</text>
+				<refs nrefs="2-27" />
+			</w>
+			<w n="1-28">
+				<text>deo</text>
+				<refs nrefs="2-28" />
+			</w>
+			<w n="1-29">
+				<text>qui</text>
+				<refs nrefs="2-30" />
+			</w>
+			<w n="1-30">
+				<text>sabbatum</text>
+				<refs nrefs="2-31" />
+			</w>
+			<w n="1-31">
+				<text>non</text>
+				<refs nrefs="2-32" />
+			</w>
+			<w n="1-32">
+				<text>obserbat</text>
+				<refs nrefs="2-33" />
+			</w>
+			<w n="1-33">
+				<text>alii</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-34">
+				<text>dicebant</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-35">
+				<text>quomodo</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-36">
+				<text>potest</text>
+				<refs nrefs="2-37" />
+			</w>
+			<w n="1-37">
+				<text>homo</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-38">
+				<text>peccator</text>
+				<refs nrefs="2-39" />
+			</w>
+			<w n="1-39">
+				<text>talia</text>
+				<refs nrefs="2-40" />
+			</w>
+			<w n="1-40">
+				<text>signa</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-41">
+				<text>facere</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-42">
+				<text>et</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-43">
+				<text>schisma</text>
+				<refs nrefs="2-44" />
+			</w>
+			<w n="1-44">
+				<text>erat</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-45">
+				<text>in</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-46">
+				<text>illis</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-47">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-19">
+				<text>dicebant</text>
+				<refs nrefs="1-19" />
+			</w>
+			<w n="2-20">
+				<text>ergo</text>
+				<refs nrefs="1-20" />
+			</w>
+			<w n="2-21">
+				<text>ex</text>
+				<refs nrefs="1-22" />
+			</w>
+			<w n="2-22">
+				<text>phariseis</text>
+				<refs nrefs="1-23" />
+			</w>
+			<w n="2-23">
+				<text>quidam</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-24">
+				<text>non</text>
+				<refs nrefs="1-24" />
+			</w>
+			<w n="2-25">
+				<text>est</text>
+				<refs nrefs="1-25" />
+			</w>
+			<w n="2-26">
+				<text>hic</text>
+				<refs nrefs="1-26" />
+			</w>
+			<w n="2-27">
+				<text>a</text>
+				<refs nrefs="1-27" />
+			</w>
+			<w n="2-28">
+				<text>deo</text>
+				<refs nrefs="1-28" />
+			</w>
+			<w n="2-29">
+				<text>homo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-30">
+				<text>qui</text>
+				<refs nrefs="1-29" />
+			</w>
+			<w n="2-31">
+				<text>sabbatum</text>
+				<refs nrefs="1-30" />
+			</w>
+			<w n="2-32">
+				<text>non</text>
+				<refs nrefs="1-31" />
+			</w>
+			<w n="2-33">
+				<text>custodit</text>
+				<refs nrefs="1-32" />
+			</w>
+			<w n="2-34">
+				<text>alii</text>
+				<refs nrefs="1-33" />
+			</w>
+			<w n="2-35">
+				<text>dicebant</text>
+				<refs nrefs="1-34" />
+			</w>
+			<w n="2-36">
+				<text>quomodo</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-37">
+				<text>potest</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-38">
+				<text>homo</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-39">
+				<text>peccator</text>
+				<refs nrefs="1-38" />
+			</w>
+			<w n="2-40">
+				<text>hoc</text>
+				<refs nrefs="1-39" />
+			</w>
+			<w n="2-41">
+				<text>facere</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-42">
+				<text>signa</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-43">
+				<text>et</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-44">
+				<text>scisma</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-45">
+				<text>erat</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-46">
+				<text>in</text>
+				<refs nrefs="1-45" />
+			</w>
+			<w n="2-47">
+				<text>eis</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-48">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

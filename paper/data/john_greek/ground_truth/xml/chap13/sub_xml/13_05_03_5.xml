@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="5"><wds lnum="L1"><w n="1-64">
+				<text>και</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-65">
+				<text>ο</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-66">
+				<text>θεος</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-67">
+				<text>δοξασει</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-68">
+				<text>αυτον</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-69">
+				<text>εν</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-70">
+				<text>εαυτω</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-71">
+				<text>και</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-72">
+				<text>ευθυς</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-73">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-74">
+				<text>συ</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-75">
+				<text>ε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-76">
+				<text>δοξασει</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-77">
+				<text>αυτον</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-78">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-62">
+				<text>και</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-63">
+				<text>ο</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-64">
+				<text>θεος</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-65">
+				<text>δοξασει</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-66">
+				<text>αυτον</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-67">
+				<text>εν</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-68">
+				<text>αυτω</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-69">
+				<text>και</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-70">
+				<text>ευθυς</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-71">
+				<text>δοξασει</text>
+				<refs nrefs="1-76" />
+			</w>
+			<w n="2-72">
+				<text>αυτον</text>
+				<refs nrefs="1-77" />
+			</w>
+			<w n="2-73">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-131">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-132">
+				<text>ego</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-133">
+				<text>pro</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-134">
+				<text>eis</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-135">
+				<text>rogo</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-136">
+				<text>non</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-137">
+				<text>pro</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-138">
+				<text>seculo</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-139">
+				<text>rogo</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-140">
+				<text>sed</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-141">
+				<text>pro</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-142">
+				<text>eis</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-143">
+				<text>quos</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-144">
+				<text>mihi</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-145">
+				<text>dedisti</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-146">
+				<text>quia</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-147">
+				<text>tui</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-148">
+				<text>sunt</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-149">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-140">
+				<text>ego</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-141">
+				<text>rogo</text>
+				<refs nrefs="1-135" />
+			</w>
+			<w n="2-142">
+				<text>pro</text>
+				<refs nrefs="1-133" />
+			</w>
+			<w n="2-143">
+				<text>eis</text>
+				<refs nrefs="1-134" />
+			</w>
+			<w n="2-144">
+				<text>non</text>
+				<refs nrefs="1-136" />
+			</w>
+			<w n="2-145">
+				<text>pro</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-146">
+				<text>mundo</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-147">
+				<text>rogo</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-148">
+				<text>sed</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-149">
+				<text>pro</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-150">
+				<text>his</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-151">
+				<text>quos</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-152">
+				<text>mihi</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-153">
+				<text>dedisti</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-154">
+				<text>quia</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-155">
+				<text>tui</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-156">
+				<text>sunt</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-157">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

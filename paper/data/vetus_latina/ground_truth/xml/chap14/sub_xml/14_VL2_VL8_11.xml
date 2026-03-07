@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-152">
+				<text>in</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-153">
+				<text>domo</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-154">
+				<text>patris</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-155">
+				<text>mei</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-156">
+				<text>multe</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-157">
+				<text>sunt</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-158">
+				<text>mansiones</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-159">
+				<text>si</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-160">
+				<text>quo</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-161">
+				<text>minus</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-162">
+				<text>dixissem</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-163">
+				<text>uobis</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-164">
+				<text>eo</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-165">
+				<text>parare</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-166">
+				<text>uobis</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-167">
+				<text>locum</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-168">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-173">
+				<text>in</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-174">
+				<text>domo</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-175">
+				<text>patris</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-176">
+				<text>mei</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-177">
+				<text>mansiones</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-178">
+				<text>multe</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-179">
+				<text>sunt</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-180">
+				<text>si</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-181">
+				<text>quo</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-182">
+				<text>minus</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-183">
+				<text>dixissem</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-184">
+				<text>uobis</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-185">
+				<text>quia</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-186">
+				<text>uado</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-187">
+				<text>parare</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-188">
+				<text>uobis</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-189">
+				<text>locum</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-190">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

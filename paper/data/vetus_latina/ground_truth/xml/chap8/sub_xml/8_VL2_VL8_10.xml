@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-146">
+				<text>et</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-147">
+				<text>non</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-148">
+				<text>cognouerunt</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-149">
+				<text>quia</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-150">
+				<text>patrem</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-151">
+				<text>illis</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-152">
+				<text>dicebat</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-153">
+				<text>deum</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-154">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-151">
+				<text>et</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-152">
+				<text>non</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-153">
+				<text>cognouerunt</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-154">
+				<text>quia</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-155">
+				<text>patrem</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-156">
+				<text>eis</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-157">
+				<text>dicebat</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-158">
+				<text>deum</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-159">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

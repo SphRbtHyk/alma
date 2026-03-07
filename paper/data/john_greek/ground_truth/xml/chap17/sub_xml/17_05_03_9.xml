@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="9"><wds lnum="L1"><w n="1-151">
+				<text>καγω</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-152">
+				<text>την</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-153">
+				<text>δοξαν</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-154">
+				<text>ην</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-155">
+				<text>εδωκας</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-156">
+				<text>μοι</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-157">
+				<text>δεδωκα</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-158">
+				<text>αυτοις</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-159">
+				<text>ινα</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-160">
+				<text>ωσιν</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-161">
+				<text>το</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-162">
+				<text>εν</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-163">
+				<text>καθως</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-164">
+				<text>ημεις</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-165">
+				<text>εν</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-166">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-147">
+				<text>καγω</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-148">
+				<text>την</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-149">
+				<text>δοξαν</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-150">
+				<text>ην</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-151">
+				<text>δεδωκας</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-152">
+				<text>μοι</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-153">
+				<text>δεδωκα</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-154">
+				<text>αυτοις</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-155">
+				<text>ινα</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-156">
+				<text>ωσιν</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-157">
+				<text>εν</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-158">
+				<text>καθως</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-159">
+				<text>ημεις</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-160">
+				<text>εν</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-161">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

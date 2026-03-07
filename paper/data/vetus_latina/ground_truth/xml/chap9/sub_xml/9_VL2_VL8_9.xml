@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="9"><wds lnum="L1"><w n="1-151">
+				<text>ali</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-152">
+				<text>dicebant</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-153">
+				<text>hic</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-154">
+				<text>est</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-155">
+				<text>ali</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-156">
+				<text>dicebant</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-157">
+				<text>similis</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-158">
+				<text>est</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-159">
+				<text>illi</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-160">
+				<text>ille</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-161">
+				<text>autem</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-162">
+				<text>dicebat</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-163">
+				<text>ego</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-164">
+				<text>sum</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-165">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-155">
+				<text>alii</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-156">
+				<text>dicebant</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-157">
+				<text>hic</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-158">
+				<text>est</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-159">
+				<text>alii</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-160">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-161">
+				<text>dicebant</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-162">
+				<text>quia</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-163">
+				<text>similis</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-164">
+				<text>est</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-165">
+				<text>ei</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-166">
+				<text>ille</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-167">
+				<text>autem</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-168">
+				<text>dicebat</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-169">
+				<text>ego</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-170">
+				<text>sum</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-171">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

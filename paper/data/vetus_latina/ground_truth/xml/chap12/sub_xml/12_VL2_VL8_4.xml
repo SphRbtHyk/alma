@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-41">
+				<text>hoc</text>
+				<refs nrefs="2-48" />
+			</w>
+			<w n="1-42">
+				<text>autem</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-43">
+				<text>dixit</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-44">
+				<text>non</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-45">
+				<text>quod</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-46">
+				<text>de</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-47">
+				<text>pauperibus</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-48">
+				<text>cura</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-49">
+				<text>illi</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-50">
+				<text>esset</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-51">
+				<text>sed</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-52">
+				<text>quia</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-53">
+				<text>fur</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-54">
+				<text>erat</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-55">
+				<text>et</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-56">
+				<text>loculum</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-57">
+				<text>habebat</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-58">
+				<text>et</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-59">
+				<text>que</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-60">
+				<text>mitteban</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-61">
+				<text>tur</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-62">
+				<text>auferebat</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-63">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-46">
+				<text>dixit</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-47">
+				<text>autem</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-48">
+				<text>hoc</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-49">
+				<text>non</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-50">
+				<text>quod</text>
+				<refs nrefs="1-45" />
+			</w>
+			<w n="2-51">
+				<text>de</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-52">
+				<text>pauperibus</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-53">
+				<text>cura</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-54">
+				<text>illi</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-55">
+				<text>esset</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-56">
+				<text>sed</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-57">
+				<text>quia</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-58">
+				<text>fur</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-59">
+				<text>erat</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-60">
+				<text>et</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-61">
+				<text>loculus</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-62">
+				<text>habebat</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-63">
+				<text>et</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-64">
+				<text>que</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-65">
+				<text>mittebantur</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-66">
+				<text>exportabat</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-67">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

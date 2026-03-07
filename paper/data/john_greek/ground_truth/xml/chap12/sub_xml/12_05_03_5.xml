@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="5"><wds lnum="L1"><w n="1-89">
+				<text>εβουλευσαντο</text>
+				<refs nrefs="2-89" />
+			</w>
+			<w n="1-90">
+				<text>δε</text>
+				<refs nrefs="2-90" />
+			</w>
+			<w n="1-91">
+				<text>οι</text>
+				<refs nrefs="2-92" />
+			</w>
+			<w n="1-92">
+				<text>αρχιερεις</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-93">
+				<text>ινα</text>
+				<refs nrefs="2-94" />
+			</w>
+			<w n="1-94">
+				<text>και</text>
+				<refs nrefs="2-95" />
+			</w>
+			<w n="1-95">
+				<text>τον</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-96">
+				<text>λαζαρον</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-97">
+				<text>αποκτεινωσιν</text>
+				<refs nrefs="2-98" />
+			</w>
+			<w n="1-98">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-89">
+				<text>εβουλευσαντο</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-90">
+				<text>δε</text>
+				<refs nrefs="1-90" />
+			</w>
+			<w n="2-91">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-92">
+				<text>οι</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-93">
+				<text>αρχιερεις</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-94">
+				<text>ινα</text>
+				<refs nrefs="1-93" />
+			</w>
+			<w n="2-95">
+				<text>και</text>
+				<refs nrefs="1-94" />
+			</w>
+			<w n="2-96">
+				<text>τον</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-97">
+				<text>λαζαρον</text>
+				<refs nrefs="1-96" />
+			</w>
+			<w n="2-98">
+				<text>αποκτεινωσιν</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-99">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

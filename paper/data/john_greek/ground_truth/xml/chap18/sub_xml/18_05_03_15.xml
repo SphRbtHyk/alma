@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="15"><wds lnum="L1"><w n="1-300">
+				<text>και</text>
+				<refs nrefs="2-296" />
+			</w>
+			<w n="1-301">
+				<text>ηγαγον</text>
+				<refs nrefs="2-297" />
+			</w>
+			<w n="1-302">
+				<text>προς</text>
+				<refs nrefs="2-298" />
+			</w>
+			<w n="1-303">
+				<text>ανναν</text>
+				<refs nrefs="2-299" />
+			</w>
+			<w n="1-304">
+				<text>πρωτον</text>
+				<refs nrefs="2-300" />
+			</w>
+			<w n="1-305">
+				<text>ην</text>
+				<refs nrefs="2-301" />
+			</w>
+			<w n="1-306">
+				<text>γαρ</text>
+				<refs nrefs="2-302" />
+			</w>
+			<w n="1-307">
+				<text>πενθερος</text>
+				<refs nrefs="2-303" />
+			</w>
+			<w n="1-308">
+				<text>του</text>
+				<refs nrefs="2-304" />
+			</w>
+			<w n="1-309">
+				<text>καιφα</text>
+				<refs nrefs="2-305" />
+			</w>
+			<w n="1-310">
+				<text>ος</text>
+				<refs nrefs="2-306" />
+			</w>
+			<w n="1-311">
+				<text>ην</text>
+				<refs nrefs="2-307" />
+			</w>
+			<w n="1-312">
+				<text>αρχιερευς</text>
+				<refs nrefs="2-308" />
+			</w>
+			<w n="1-313">
+				<text>του</text>
+				<refs nrefs="2-309" />
+			</w>
+			<w n="1-314">
+				<text>ενιαυτου</text>
+				<refs nrefs="2-310" />
+			</w>
+			<w n="1-315">
+				<text>εκεινου</text>
+				<refs nrefs="2-311" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-296">
+				<text>και</text>
+				<refs nrefs="1-300" />
+			</w>
+			<w n="2-297">
+				<text>ηγαγον</text>
+				<refs nrefs="1-301" />
+			</w>
+			<w n="2-298">
+				<text>προς</text>
+				<refs nrefs="1-302" />
+			</w>
+			<w n="2-299">
+				<text>ανναν</text>
+				<refs nrefs="1-303" />
+			</w>
+			<w n="2-300">
+				<text>πρωτον</text>
+				<refs nrefs="1-304" />
+			</w>
+			<w n="2-301">
+				<text>ην</text>
+				<refs nrefs="1-305" />
+			</w>
+			<w n="2-302">
+				<text>γαρ</text>
+				<refs nrefs="1-306" />
+			</w>
+			<w n="2-303">
+				<text>πενθερος</text>
+				<refs nrefs="1-307" />
+			</w>
+			<w n="2-304">
+				<text>του</text>
+				<refs nrefs="1-308" />
+			</w>
+			<w n="2-305">
+				<text>καιαφα</text>
+				<refs nrefs="1-309" />
+			</w>
+			<w n="2-306">
+				<text>ος</text>
+				<refs nrefs="1-310" />
+			</w>
+			<w n="2-307">
+				<text>ην</text>
+				<refs nrefs="1-311" />
+			</w>
+			<w n="2-308">
+				<text>αρχιερευς</text>
+				<refs nrefs="1-312" />
+			</w>
+			<w n="2-309">
+				<text>του</text>
+				<refs nrefs="1-313" />
+			</w>
+			<w n="2-310">
+				<text>ενιαυτου</text>
+				<refs nrefs="1-314" />
+			</w>
+			<w n="2-311">
+				<text>εκεινου</text>
+				<refs nrefs="1-315" />
+			</w>
+		</wds></sentence></aligned-text>

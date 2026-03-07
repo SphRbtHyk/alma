@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-241">
+				<text>sicut</text>
+				<refs nrefs="2-254" />
+			</w>
+			<w n="1-242">
+				<text>dilexit</text>
+				<refs nrefs="2-255" />
+			</w>
+			<w n="1-243">
+				<text>me</text>
+				<refs nrefs="2-256" />
+			</w>
+			<w n="1-244">
+				<text>pater</text>
+				<refs nrefs="2-257" />
+			</w>
+			<w n="1-245">
+				<text>et</text>
+				<refs nrefs="2-258" />
+			</w>
+			<w n="1-246">
+				<text>ego</text>
+				<refs nrefs="2-259" />
+			</w>
+			<w n="1-247">
+				<text>uos</text>
+				<refs nrefs="2-260" />
+			</w>
+			<w n="1-248">
+				<text>dilexi</text>
+				<refs nrefs="2-261" />
+			</w>
+			<w n="1-249">
+				<text>manete</text>
+				<refs nrefs="2-262" />
+			</w>
+			<w n="1-250">
+				<text>in</text>
+				<refs nrefs="2-263" />
+			</w>
+			<w n="1-251">
+				<text>caritate</text>
+				<refs nrefs="2-264" />
+			</w>
+			<w n="1-252">
+				<text>mea</text>
+				<refs nrefs="2-265" />
+			</w>
+			<w n="1-253">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-254">
+				<text>sicut</text>
+				<refs nrefs="1-241" />
+			</w>
+			<w n="2-255">
+				<text>dilexit</text>
+				<refs nrefs="1-242" />
+			</w>
+			<w n="2-256">
+				<text>me</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-257">
+				<text>pater</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-258">
+				<text>et</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-259">
+				<text>ego</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-260">
+				<text>uos</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-261">
+				<text>dilexi</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-262">
+				<text>manete</text>
+				<refs nrefs="1-249" />
+			</w>
+			<w n="2-263">
+				<text>in</text>
+				<refs nrefs="1-250" />
+			</w>
+			<w n="2-264">
+				<text>delectione</text>
+				<refs nrefs="1-251" />
+			</w>
+			<w n="2-265">
+				<text>mea</text>
+				<refs nrefs="1-252" />
+			</w>
+			<w n="2-266">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

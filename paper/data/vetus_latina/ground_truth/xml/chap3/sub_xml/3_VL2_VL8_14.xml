@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-266">
+				<text>si</text>
+				<refs nrefs="2-256" />
+			</w>
+			<w n="1-267">
+				<text>terrestria</text>
+				<refs nrefs="2-257" />
+			</w>
+			<w n="1-268">
+				<text>dixi</text>
+				<refs nrefs="2-258" />
+			</w>
+			<w n="1-269">
+				<text>uobis</text>
+				<refs nrefs="2-259" />
+			</w>
+			<w n="1-270">
+				<text>et</text>
+				<refs nrefs="2-260" />
+			</w>
+			<w n="1-271">
+				<text>non</text>
+				<refs nrefs="2-261" />
+			</w>
+			<w n="1-272">
+				<text>creditis</text>
+				<refs nrefs="2-262" />
+			</w>
+			<w n="1-273">
+				<text>quomodo</text>
+				<refs nrefs="2-263" />
+			</w>
+			<w n="1-274">
+				<text>si</text>
+				<refs nrefs="2-264" />
+			</w>
+			<w n="1-275">
+				<text>celestia</text>
+				<refs nrefs="2-266" />
+			</w>
+			<w n="1-276">
+				<text>locutus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-277">
+				<text>fuero</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-278">
+				<text>credetis</text>
+				<refs nrefs="2-267" />
+			</w>
+			<w n="1-279">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-256">
+				<text>si</text>
+				<refs nrefs="1-266" />
+			</w>
+			<w n="2-257">
+				<text>terrena</text>
+				<refs nrefs="1-267" />
+			</w>
+			<w n="2-258">
+				<text>dixi</text>
+				<refs nrefs="1-268" />
+			</w>
+			<w n="2-259">
+				<text>uobis</text>
+				<refs nrefs="1-269" />
+			</w>
+			<w n="2-260">
+				<text>et</text>
+				<refs nrefs="1-270" />
+			</w>
+			<w n="2-261">
+				<text>non</text>
+				<refs nrefs="1-271" />
+			</w>
+			<w n="2-262">
+				<text>creditis</text>
+				<refs nrefs="1-272" />
+			</w>
+			<w n="2-263">
+				<text>quomodo</text>
+				<refs nrefs="1-273" />
+			</w>
+			<w n="2-264">
+				<text>si</text>
+				<refs nrefs="1-274" />
+			</w>
+			<w n="2-265">
+				<text>dixero</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-266">
+				<text>celestia</text>
+				<refs nrefs="1-275" />
+			</w>
+			<w n="2-267">
+				<text>creditis</text>
+				<refs nrefs="1-278" />
+			</w>
+			<w n="2-268">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

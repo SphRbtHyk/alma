@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="3"><wds lnum="L1"><w n="1-43">
+				<text>και</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-44">
+				<text>ηρωτησαν</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-45">
+				<text>αυτον</text>
+				<refs nrefs="2-44" />
+			</w>
+			<w n="1-46">
+				<text>οι</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-47">
+				<text>μαθηται</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-48">
+				<text>ραββει</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-49">
+				<text>τις</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-50">
+				<text>ημαρτεν</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-51">
+				<text>ουτος</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-52">
+				<text>η</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-53">
+				<text>οι</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-54">
+				<text>γονεις</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-55">
+				<text>αυτου</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-56">
+				<text>ινα</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-57">
+				<text>τυφλος</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-58">
+				<text>γεννηθη</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-59">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-42">
+				<text>και</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-43">
+				<text>ηρωτησαν</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-44">
+				<text>αυτον</text>
+				<refs nrefs="1-45" />
+			</w>
+			<w n="2-45">
+				<text>οι</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-46">
+				<text>μαθηται</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-47">
+				<text>αυτου</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-48">
+				<text>λεγοντες</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-49">
+				<text>ραββει</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-50">
+				<text>τις</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-51">
+				<text>ημαρτεν</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-52">
+				<text>ουτος</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-53">
+				<text>η</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-54">
+				<text>οι</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-55">
+				<text>οι</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-56">
+				<text>γονεις</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-57">
+				<text>αυτου</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-58">
+				<text>ινα</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-59">
+				<text>τυφλος</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-60">
+				<text>γεννηθη</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-61">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

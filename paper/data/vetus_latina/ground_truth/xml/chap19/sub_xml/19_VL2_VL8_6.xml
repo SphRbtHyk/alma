@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="6"><wds lnum="L1"><w n="1-97">
+				<text>et</text>
+				<refs nrefs="2-94" />
+			</w>
+			<w n="1-98">
+				<text>ferens</text>
+				<refs nrefs="2-95" />
+			</w>
+			<w n="1-99">
+				<text>sibi</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-100">
+				<text>crucem</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-101">
+				<text>exiuit</text>
+				<refs nrefs="2-99" />
+			</w>
+			<w n="1-102">
+				<text>in</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-103">
+				<text>locum</text>
+				<refs nrefs="2-101" />
+			</w>
+			<w n="1-104">
+				<text>qui</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-105">
+				<text>dicitur</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-106">
+				<text>caluarie</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-107">
+				<text>locus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-108">
+				<text>nominatus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-109">
+				<text>qui</text>
+				<refs nrefs="2-106" />
+			</w>
+			<w n="1-110">
+				<text>dicitur</text>
+				<refs nrefs="2-106" />
+			</w>
+			<w n="1-111">
+				<text>hebreice</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-112">
+				<text>gulgotha</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-113">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-94">
+				<text>et</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-95">
+				<text>baiulans</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-96">
+				<text>sibi</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-97">
+				<text>crucem</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-98">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-99">
+				<text>uenit</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-100">
+				<text>in</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-101">
+				<text>locum</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-102">
+				<text>qui</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-103">
+				<text>dicitur</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-104">
+				<text>caluarie</text>
+				<refs nrefs="1-106" />
+			</w>
+			<w n="2-105">
+				<text>quod</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-106">
+				<text>adpellatur</text>
+				<refs nrefs="1-109 1-110" />
+			</w>
+			<w n="2-107">
+				<text>hebreice</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-108">
+				<text>golgotha</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-109">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

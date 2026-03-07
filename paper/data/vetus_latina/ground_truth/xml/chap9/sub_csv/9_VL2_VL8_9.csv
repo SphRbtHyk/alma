@@ -1,0 +1,17 @@
+source_index,source_text,target_index,target_text
+0,ali,0,alii
+1,dicebant,1,dicebant
+2,hic,2,hic
+3,est,3,est
+4,ali,4,alii
+5,dicebant,6,dicebant
+6,similis,8,similis
+7,est,9,est
+8,illi,10,ei
+-,-,5,autem
+9,ille,11,ille
+10,autem,12,autem
+-,-,7,quia
+11,dicebat,13,dicebat
+12,ego,14,ego
+13,sum,15,sum

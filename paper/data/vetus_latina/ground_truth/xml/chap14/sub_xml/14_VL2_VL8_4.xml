@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-42">
+				<text>non</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-43">
+				<text>relinquam</text>
+				<refs nrefs="2-44 2-45" />
+			</w>
+			<w n="1-44">
+				<text>uos</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-45">
+				<text>orfanos</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-46">
+				<text>uenio</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-47">
+				<text>ad</text>
+				<refs nrefs="2-48" />
+			</w>
+			<w n="1-48">
+				<text>uos</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-49">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-43">
+				<text>non</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-44">
+				<text>uos</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-45">
+				<text>relinquam</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-46">
+				<text>orfanos</text>
+				<refs nrefs="1-45" />
+			</w>
+			<w n="2-47">
+				<text>uenio</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-48">
+				<text>ad</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-49">
+				<text>uos</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-50">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

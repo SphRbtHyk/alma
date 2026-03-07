@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-54">
+				<text>ην</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-55">
+				<text>δε</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-56">
+				<text>ανθρωπος</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-57">
+				<text>εκει</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-58">
+				<text>τριακοντα</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-59">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-60">
+				<text>οκτω</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-61">
+				<text>ετη</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-62">
+				<text>εχων</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-63">
+				<text>εν</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-64">
+				<text>τη</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-65">
+				<text>ασθενια</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-66">
+				<text>αυτου</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-67">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-55">
+				<text>ην</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-56">
+				<text>δε</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-57">
+				<text>τις</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-58">
+				<text>ανθρωπος</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-59">
+				<text>εκει</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-60">
+				<text>τριακοντα</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-61">
+				<text>οκτω</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-62">
+				<text>ετη</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-63">
+				<text>εχων</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-64">
+				<text>εν</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-65">
+				<text>τη</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-66">
+				<text>ασθενεια</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-67">
+				<text>αυτου</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-68">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

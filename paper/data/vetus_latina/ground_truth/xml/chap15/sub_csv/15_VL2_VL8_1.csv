@@ -1,0 +1,14 @@
+source_index,source_text,target_index,target_text
+0,et,0,et
+1,uos,1,uos
+2,testis,2,testimonium
+2,testis,3,perhibebitis
+3,estis,2,testimonium
+3,estis,3,perhibebitis
+-,-,4,de
+4,quoniam,6,qui
+-,-,5,me
+5,ab,7,ab
+6,initio,8,initio
+7,mecum,9,mecum
+8,estis,10,estis

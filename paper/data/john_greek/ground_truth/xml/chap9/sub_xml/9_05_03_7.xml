@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="7"><wds lnum="L1"><w n="1-112">
+				<text>ουκ</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-113">
+				<text>επιστευσαν</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-114">
+				<text>οι</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-115">
+				<text>ιουδαιοι</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-116">
+				<text>περι</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-117">
+				<text>αυτου</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-118">
+				<text>εως</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-119">
+				<text>ου</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-120">
+				<text>εφωνησαν</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-121">
+				<text>τους</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-122">
+				<text>γονεις</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-123">
+				<text>του</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-124">
+				<text>αναβλεψαντος</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-125">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-114">
+				<text>ουκ</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-115">
+				<text>επιστευσαν</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-116">
+				<text>ουν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-117">
+				<text>οι</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-118">
+				<text>ιουδαιοι</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-119">
+				<text>περι</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-120">
+				<text>αυτου</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-121">
+				<text>οτι</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-122">
+				<text>ην</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-123">
+				<text>τυφλος</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-124">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-125">
+				<text>ανεβλεψεν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-126">
+				<text>εως</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-127">
+				<text>οτου</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-128">
+				<text>εφωνησαν</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-129">
+				<text>τους</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-130">
+				<text>γονεις</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-131">
+				<text>αυτου</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-132">
+				<text>του</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-133">
+				<text>αναβλεψαντος</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-134">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

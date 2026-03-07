@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="3"><wds lnum="L1"><w n="1-34">
+				<text>quoniam</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-35">
+				<text>de</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-36">
+				<text>plenitudine</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-37">
+				<text>eius</text>
+				<refs nrefs="2-37" />
+			</w>
+			<w n="1-38">
+				<text>nos</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-39">
+				<text>omnes</text>
+				<refs nrefs="2-39" />
+			</w>
+			<w n="1-40">
+				<text>accepimus</text>
+				<refs nrefs="2-40" />
+			</w>
+			<w n="1-41">
+				<text>gratiam</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-42">
+				<text>pro</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-43">
+				<text>gratia</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-44">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-34">
+				<text>quoniam</text>
+				<refs nrefs="1-34" />
+			</w>
+			<w n="2-35">
+				<text>de</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-36">
+				<text>plenitudine</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-37">
+				<text>eius</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-38">
+				<text>nos</text>
+				<refs nrefs="1-38" />
+			</w>
+			<w n="2-39">
+				<text>omnes</text>
+				<refs nrefs="1-39" />
+			</w>
+			<w n="2-40">
+				<text>accepimus</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-41">
+				<text>gratiam</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-42">
+				<text>pro</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-43">
+				<text>gratia</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-44">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

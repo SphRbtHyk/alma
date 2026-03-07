@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="9"><wds lnum="L1"><w n="1-153">
+				<text>εγω</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-154">
+				<text>ηδειν</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-155">
+				<text>οτι</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-156">
+				<text>παντοτε</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-157">
+				<text>μου</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-158">
+				<text>ακουεις</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-159">
+				<text>αλλα</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-160">
+				<text>δια</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-161">
+				<text>τον</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-162">
+				<text>οχλον</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-163">
+				<text>τον</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-164">
+				<text>περιεστωτα</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-165">
+				<text>ειπον</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-166">
+				<text>ινα</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-167">
+				<text>πιστευσωσιν</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-168">
+				<text>οτι</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-169">
+				<text>συ</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-170">
+				<text>με</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-171">
+				<text>απεστειλας</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-172">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-151">
+				<text>εγω</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-152">
+				<text>δε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-153">
+				<text>ηδειν</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-154">
+				<text>οτι</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-155">
+				<text>παντοτε</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-156">
+				<text>μου</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-157">
+				<text>ακουεις</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-158">
+				<text>αλλα</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-159">
+				<text>δια</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-160">
+				<text>τον</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-161">
+				<text>οχλον</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-162">
+				<text>τον</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-163">
+				<text>περιεστωτα</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-164">
+				<text>ειπον</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-165">
+				<text>ινα</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-166">
+				<text>πιστευσωσιν</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-167">
+				<text>οτι</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-168">
+				<text>συ</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-169">
+				<text>με</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-170">
+				<text>απεστειλας</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-171">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

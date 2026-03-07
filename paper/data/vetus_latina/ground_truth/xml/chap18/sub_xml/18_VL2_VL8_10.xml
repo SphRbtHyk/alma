@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-201">
+				<text>exclamauerunt</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-202">
+				<text>omnes</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-203">
+				<text>noli</text>
+				<refs nrefs="2-216" />
+			</w>
+			<w n="1-204">
+				<text>istum</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-205">
+				<text>sed</text>
+				<refs nrefs="2-218" />
+			</w>
+			<w n="1-206">
+				<text>barabban</text>
+				<refs nrefs="2-220" />
+			</w>
+			<w n="1-207">
+				<text>erat</text>
+				<refs nrefs="2-221" />
+			</w>
+			<w n="1-208">
+				<text>autem</text>
+				<refs nrefs="2-222" />
+			</w>
+			<w n="1-209">
+				<text>barabbas</text>
+				<refs nrefs="2-223" />
+			</w>
+			<w n="1-210">
+				<text>insignis</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-211">
+				<text>latro</text>
+				<refs nrefs="2-224" />
+			</w>
+			<w n="1-212">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-213">
+				<text>exclamauerunt</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-214">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-215">
+				<text>omnes</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-216">
+				<text>non</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-217">
+				<text>hunc</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-218">
+				<text>sed</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-219">
+				<text>rabbi</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-220">
+				<text>barabam</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-221">
+				<text>erat</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-222">
+				<text>autem</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-223">
+				<text>barabas</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-224">
+				<text>latro</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-225">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

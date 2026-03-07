@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-210">
+				<text>si</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-211">
+				<text>seculum</text>
+				<refs nrefs="2-218" />
+			</w>
+			<w n="1-212">
+				<text>uos</text>
+				<refs nrefs="2-219" />
+			</w>
+			<w n="1-213">
+				<text>odis</text>
+				<refs nrefs="2-220" />
+			</w>
+			<w n="1-214">
+				<text>scitote</text>
+				<refs nrefs="2-221" />
+			</w>
+			<w n="1-215">
+				<text>quoniam</text>
+				<refs nrefs="2-222" />
+			</w>
+			<w n="1-216">
+				<text>me</text>
+				<refs nrefs="2-223" />
+			</w>
+			<w n="1-217">
+				<text>primo</text>
+				<refs nrefs="2-224" />
+			</w>
+			<w n="1-218">
+				<text>odiit</text>
+				<refs nrefs="2-225 2-226" />
+			</w>
+			<w n="1-219">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-217">
+				<text>si</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-218">
+				<text>mundus</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-219">
+				<text>uos</text>
+				<refs nrefs="1-212" />
+			</w>
+			<w n="2-220">
+				<text>odit</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-221">
+				<text>scitote</text>
+				<refs nrefs="1-214" />
+			</w>
+			<w n="2-222">
+				<text>quia</text>
+				<refs nrefs="1-215" />
+			</w>
+			<w n="2-223">
+				<text>me</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-224">
+				<text>priorem</text>
+				<refs nrefs="1-217" />
+			</w>
+			<w n="2-225">
+				<text>odio</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-226">
+				<text>habuit</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-227">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

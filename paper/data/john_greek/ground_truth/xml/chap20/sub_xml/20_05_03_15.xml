@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="15"><wds lnum="L1"><w n="1-286">
+				<text>λεγει</text>
+				<refs nrefs="2-289" />
+			</w>
+			<w n="1-287">
+				<text>αυτη</text>
+				<refs nrefs="2-290" />
+			</w>
+			<w n="1-288">
+				<text>ιησους</text>
+				<refs nrefs="2-291" />
+			</w>
+			<w n="1-289">
+				<text>μαρια</text>
+				<refs nrefs="2-292" />
+			</w>
+			<w n="1-290">
+				<text>στραφεισα</text>
+				<refs nrefs="2-293" />
+			</w>
+			<w n="1-291">
+				<text>δε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-292">
+				<text>εκεινη</text>
+				<refs nrefs="2-294" />
+			</w>
+			<w n="1-293">
+				<text>λεγει</text>
+				<refs nrefs="2-295" />
+			</w>
+			<w n="1-294">
+				<text>αυτω</text>
+				<refs nrefs="2-296" />
+			</w>
+			<w n="1-295">
+				<text>εβραιστι</text>
+				<refs nrefs="2-297" />
+			</w>
+			<w n="1-296">
+				<text>ραββωνει</text>
+				<refs nrefs="2-298" />
+			</w>
+			<w n="1-297">
+				<text>ο</text>
+				<refs nrefs="2-299" />
+			</w>
+			<w n="1-298">
+				<text>λεγεται</text>
+				<refs nrefs="2-300" />
+			</w>
+			<w n="1-299">
+				<text>κυριε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-300">
+				<text>διδασκαλε</text>
+				<refs nrefs="2-301" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-289">
+				<text>λεγει</text>
+				<refs nrefs="1-286" />
+			</w>
+			<w n="2-290">
+				<text>αυτη</text>
+				<refs nrefs="1-287" />
+			</w>
+			<w n="2-291">
+				<text>ιησους</text>
+				<refs nrefs="1-288" />
+			</w>
+			<w n="2-292">
+				<text>μαριαμ</text>
+				<refs nrefs="1-289" />
+			</w>
+			<w n="2-293">
+				<text>στραφεισα</text>
+				<refs nrefs="1-290" />
+			</w>
+			<w n="2-294">
+				<text>εκεινη</text>
+				<refs nrefs="1-292" />
+			</w>
+			<w n="2-295">
+				<text>λεγει</text>
+				<refs nrefs="1-293" />
+			</w>
+			<w n="2-296">
+				<text>αυτω</text>
+				<refs nrefs="1-294" />
+			</w>
+			<w n="2-297">
+				<text>εβραιστι</text>
+				<refs nrefs="1-295" />
+			</w>
+			<w n="2-298">
+				<text>ραββουνει</text>
+				<refs nrefs="1-296" />
+			</w>
+			<w n="2-299">
+				<text>ο</text>
+				<refs nrefs="1-297" />
+			</w>
+			<w n="2-300">
+				<text>λεγεται</text>
+				<refs nrefs="1-298" />
+			</w>
+			<w n="2-301">
+				<text>διδασκαλε</text>
+				<refs nrefs="1-300" />
+			</w>
+		</wds></sentence></aligned-text>

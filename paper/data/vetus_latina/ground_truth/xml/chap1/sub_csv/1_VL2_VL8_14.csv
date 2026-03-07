@@ -1,0 +1,12 @@
+source_index,source_text,target_index,target_text
+0,alia,0,altera
+1,autem,3,stabat
+2,die,1,die
+3,stabat,3,stabat
+4,iohannis,4,iohannes
+5,et,5,et
+6,discipuli,6,ex
+6,discipuli,7,discipulis
+7,eius,8,eius
+8,duo,9,duo
+-,-,2,iterum

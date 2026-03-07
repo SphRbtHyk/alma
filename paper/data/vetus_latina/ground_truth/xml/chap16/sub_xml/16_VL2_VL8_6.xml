@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="6"><wds lnum="L1"><w n="1-86">
+				<text>omnia</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-87">
+				<text>que</text>
+				<refs nrefs="2-88" />
+			</w>
+			<w n="1-88">
+				<text>habet</text>
+				<refs nrefs="2-89" />
+			</w>
+			<w n="1-89">
+				<text>pater</text>
+				<refs nrefs="2-90" />
+			</w>
+			<w n="1-90">
+				<text>mea</text>
+				<refs nrefs="2-91" />
+			</w>
+			<w n="1-91">
+				<text>sunt</text>
+				<refs nrefs="2-92" />
+			</w>
+			<w n="1-92">
+				<text>propter</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-93">
+				<text>hoc</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-94">
+				<text>dixi</text>
+				<refs nrefs="2-94" />
+			</w>
+			<w n="1-95">
+				<text>uobis</text>
+				<refs nrefs="2-95" />
+			</w>
+			<w n="1-96">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-87">
+				<text>omnia</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-88">
+				<text>quecumque</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-89">
+				<text>habet</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-90">
+				<text>pater</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-91">
+				<text>mea</text>
+				<refs nrefs="1-90" />
+			</w>
+			<w n="2-92">
+				<text>sunt</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-93">
+				<text>propterea</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-94">
+				<text>dixi</text>
+				<refs nrefs="1-94" />
+			</w>
+			<w n="2-95">
+				<text>uobis</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-96">
+				<text>quia</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-97">
+				<text>de</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-98">
+				<text>meo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-99">
+				<text>adcipiet</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-100">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-101">
+				<text>adnuntiauit</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-102">
+				<text>uobis</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-103">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="14"><wds lnum="L1"><w n="1-242">
+				<text>περι</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-243">
+				<text>αμαρτειας</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-244">
+				<text>μεν</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-245">
+				<text>οτι</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-246">
+				<text>ου</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-247">
+				<text>πιστευουσιν</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-248">
+				<text>εις</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-249">
+				<text>εμε</text>
+				<refs nrefs="" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-241">
+				<text>περι</text>
+				<refs nrefs="1-242" />
+			</w>
+			<w n="2-242">
+				<text>αμαρτιας</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-243">
+				<text>μεν</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-244">
+				<text>οτι</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-245">
+				<text>ου</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-246">
+				<text>πιστευουσιν</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-247">
+				<text>εις</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-248">
+				<text>εμε</text>
+				<refs nrefs="" />
+			</w>
+		</wds></sentence></aligned-text>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-139">
+				<text>maledixerunt</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-140">
+				<text>illi</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-141">
+				<text>dicentes</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-142">
+				<text>tu</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-143">
+				<text>sis</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-144">
+				<text>discipulus</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-145">
+				<text>eius</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-146">
+				<text>nos</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-147">
+				<text>moysi</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-148">
+				<text>sumus</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-149">
+				<text>discentes</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-150">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-141">
+				<text>maledixerunt</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-142">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-143">
+				<text>ei</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-144">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-145">
+				<text>dixerunt</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-146">
+				<text>tu</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-147">
+				<text>discipulus</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-148">
+				<text>eius</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-149">
+				<text>est</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-150">
+				<text>nos</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-151">
+				<text>discipuli</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-152">
+				<text>moysi</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-153">
+				<text>sumus</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-154">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

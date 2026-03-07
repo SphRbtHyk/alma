@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="10"><wds lnum="L1"><w n="1-171">
+				<text>ραββει</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-172">
+				<text>ος</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-173">
+				<text>ην</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-174">
+				<text>μετα</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-175">
+				<text>σου</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-176">
+				<text>περαν</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-177">
+				<text>του</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-178">
+				<text>ιορδανου</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-179">
+				<text>ω</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-180">
+				<text>συ</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-181">
+				<text>μεμαρτυρηκας</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-182">
+				<text>ιδου</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-183">
+				<text>ουτος</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-184">
+				<text>βαπτιζει</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-185">
+				<text>και</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-186">
+				<text>παντες</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-187">
+				<text>ερχονται</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-188">
+				<text>προς</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-189">
+				<text>αυτον</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-190">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-172">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-173">
+				<text>ηλ</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-174">
+				<text>προς</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-175">
+				<text>τον</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-176">
+				<text>ιωανην</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-177">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-178">
+				<text>ειπον</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-179">
+				<text>αυτω</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-180">
+				<text>ραββει</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-181">
+				<text>ος</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-182">
+				<text>ην</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-183">
+				<text>μετα</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-184">
+				<text>σου</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-185">
+				<text>περαν</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-186">
+				<text>του</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-187">
+				<text>ιορδανου</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-188">
+				<text>ω</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-189">
+				<text>συ</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-190">
+				<text>μεμαρτυρηκας</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-191">
+				<text>ιδε</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-192">
+				<text>ουτος</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-193">
+				<text>βαπτιζει</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-194">
+				<text>και</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-195">
+				<text>παντες</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-196">
+				<text>ερχονται</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-197">
+				<text>προς</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-198">
+				<text>αυτον</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-199">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="14"><wds lnum="L1"><w n="1-225">
+				<text>erat</text>
+				<refs nrefs="2-227" />
+			</w>
+			<w n="1-226">
+				<text>autem</text>
+				<refs nrefs="2-228" />
+			</w>
+			<w n="1-227">
+				<text>quidam</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-228">
+				<text>homo</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-229">
+				<text>illic</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-230">
+				<text>xxx</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-231">
+				<text>et</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-232">
+				<text>uiii</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-233">
+				<text>annos</text>
+				<refs nrefs="2-234" />
+			</w>
+			<w n="1-234">
+				<text>habens</text>
+				<refs nrefs="2-235" />
+			</w>
+			<w n="1-235">
+				<text>in</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-236">
+				<text>infirmitate</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-237">
+				<text>sua</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-238">
+				<text>aridus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-239">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-227">
+				<text>erat</text>
+				<refs nrefs="1-225" />
+			</w>
+			<w n="2-228">
+				<text>autem</text>
+				<refs nrefs="1-226" />
+			</w>
+			<w n="2-229">
+				<text>ibi</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-230">
+				<text>homo</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-231">
+				<text>xxx</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-232">
+				<text>et</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-233">
+				<text>octo</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-234">
+				<text>annos</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-235">
+				<text>habens</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-236">
+				<text>in</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-237">
+				<text>infirmitate</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-238">
+				<text>sua</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-239">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

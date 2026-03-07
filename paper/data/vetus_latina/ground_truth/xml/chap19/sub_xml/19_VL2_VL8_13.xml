@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="13"><wds lnum="L1"><w n="1-213">
+				<text>iudei</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-214">
+				<text>ergo</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-215">
+				<text>quoniam</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-216">
+				<text>cena</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-217">
+				<text>pura</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-218">
+				<text>erat</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-219">
+				<text>ut</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-220">
+				<text>non</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-221">
+				<text>manerent</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-222">
+				<text>in</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-223">
+				<text>crucem</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-224">
+				<text>corpora</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-225">
+				<text>sabbato</text>
+				<refs nrefs="2-219" />
+			</w>
+			<w n="1-226">
+				<text>fuit</text>
+				<refs nrefs="2-220" />
+			</w>
+			<w n="1-227">
+				<text>enim</text>
+				<refs nrefs="2-221" />
+			</w>
+			<w n="1-228">
+				<text>dies</text>
+				<refs nrefs="2-223" />
+			</w>
+			<w n="1-229">
+				<text>magnus</text>
+				<refs nrefs="2-222" />
+			</w>
+			<w n="1-230">
+				<text>illius</text>
+				<refs nrefs="2-224" />
+			</w>
+			<w n="1-231">
+				<text>sabbati</text>
+				<refs nrefs="2-225" />
+			</w>
+			<w n="1-232">
+				<text>rogauerunt</text>
+				<refs nrefs="2-226" />
+			</w>
+			<w n="1-233">
+				<text>pilatum</text>
+				<refs nrefs="2-227" />
+			</w>
+			<w n="1-234">
+				<text>ut</text>
+				<refs nrefs="2-228" />
+			</w>
+			<w n="1-235">
+				<text>crura</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-236">
+				<text>eorum</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-237">
+				<text>frangerentur</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-238">
+				<text>et</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-239">
+				<text>auferrentur</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-240">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-206">
+				<text>iudei</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-207">
+				<text>ergo</text>
+				<refs nrefs="1-214" />
+			</w>
+			<w n="2-208">
+				<text>quoniam</text>
+				<refs nrefs="1-215" />
+			</w>
+			<w n="2-209">
+				<text>parasceuem</text>
+				<refs nrefs="1-217" />
+			</w>
+			<w n="2-210">
+				<text>cenam</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-211">
+				<text>parauerant</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-212">
+				<text>ne</text>
+				<refs nrefs="1-220" />
+			</w>
+			<w n="2-213">
+				<text>remaneret</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-214">
+				<text>in</text>
+				<refs nrefs="1-222" />
+			</w>
+			<w n="2-215">
+				<text>crucem</text>
+				<refs nrefs="1-223" />
+			</w>
+			<w n="2-216">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-217">
+				<text>corpora</text>
+				<refs nrefs="1-224" />
+			</w>
+			<w n="2-218">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-219">
+				<text>sabbato</text>
+				<refs nrefs="1-225" />
+			</w>
+			<w n="2-220">
+				<text>erat</text>
+				<refs nrefs="1-226" />
+			</w>
+			<w n="2-221">
+				<text>enim</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-222">
+				<text>magnus</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-223">
+				<text>dies</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-224">
+				<text>illius</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-225">
+				<text>sabbati</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-226">
+				<text>rogauerunt</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-227">
+				<text>pilatum</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-228">
+				<text>ut</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-229">
+				<text>frangeretur</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-230">
+				<text>eorum</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-231">
+				<text>crura</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-232">
+				<text>et</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-233">
+				<text>tollerentur</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-234">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="11"><wds lnum="L1"><w n="1-152">
+				<text>οτι</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-153">
+				<text>εκ</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-154">
+				<text>του</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-155">
+				<text>πληρωματος</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-156">
+				<text>αυτου</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-157">
+				<text>ημεις</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-158">
+				<text>παντες</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-159">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-154">
+				<text>οτι</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-155">
+				<text>εκ</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-156">
+				<text>του</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-157">
+				<text>πληρωματος</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-158">
+				<text>αυτου</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-159">
+				<text>ημεις</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-160">
+				<text>παντες</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-161">
+				<text>ελαβομεν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-162">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-163">
+				<text>χαριν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-164">
+				<text>αντι</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-165">
+				<text>χαριτος</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-166">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

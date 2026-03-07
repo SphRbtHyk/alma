@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>απηλθον</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>ουν</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3">
+				<text>παλιν</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-4">
+				<text>προς</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-5">
+				<text>εαυτους</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-6">
+				<text>οι</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-7">
+				<text>μαθηται</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-8">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>απηλθον</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>ουν</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3">
+				<text>παλιν</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-4">
+				<text>προς</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-5">
+				<text>αυτους</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-6">
+				<text>οι</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-7">
+				<text>μαθηται</text>
+				<refs nrefs="1-7" />
+			</w>
+			<w n="2-8">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

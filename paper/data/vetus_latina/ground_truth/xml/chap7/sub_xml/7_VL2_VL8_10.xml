@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-148">
+				<text>nemo</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-149">
+				<text>in</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-150">
+				<text>absconso</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-151">
+				<text>aliquid</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-152">
+				<text>facit</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-153">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-154">
+				<text>queret</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-155">
+				<text>in</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-156">
+				<text>auctoritate</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-157">
+				<text>esse</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-158">
+				<text>si</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-159">
+				<text>ista</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-160">
+				<text>facis</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-161">
+				<text>ostende</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-162">
+				<text>te</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-163">
+				<text>seculo</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-164">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-140">
+				<text>nemo</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-141">
+				<text>quid</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-142">
+				<text>facit</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-143">
+				<text>in</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-144">
+				<text>occulto</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-145">
+				<text>quid</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-146">
+				<text>facit</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-147">
+				<text>querit</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-148">
+				<text>ipse</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-149">
+				<text>in</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-150">
+				<text>palam</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-151">
+				<text>esse</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-152">
+				<text>si</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-153">
+				<text>hec</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-154">
+				<text>facis</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-155">
+				<text>manifesta</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-156">
+				<text>teipsum</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-157">
+				<text>huic</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-158">
+				<text>mundo</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-159">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

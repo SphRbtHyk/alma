@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>amodo</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>dico</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3">
+				<text>uobis</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-4">
+				<text>priusquam</text>
+				<refs nrefs="2-4 2-5" />
+			</w>
+			<w n="1-5">
+				<text>fiat</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-6">
+				<text>ut</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-7">
+				<text>credatis</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-8">
+				<text>cum</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-9">
+				<text>factum</text>
+				<refs nrefs="2-10" />
+			</w>
+			<w n="1-10">
+				<text>fuerit</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-11">
+				<text>quoniam</text>
+				<refs nrefs="2-12" />
+			</w>
+			<w n="1-12">
+				<text>ego</text>
+				<refs nrefs="2-13" />
+			</w>
+			<w n="1-13">
+				<text>sum</text>
+				<refs nrefs="2-14" />
+			</w>
+			<w n="1-14">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>amodo</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>dico</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3">
+				<text>uobis</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-4">
+				<text>prius</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-5">
+				<text>quam</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-6">
+				<text>fiat</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-7">
+				<text>ut</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-8">
+				<text>credatis</text>
+				<refs nrefs="1-7" />
+			</w>
+			<w n="2-9">
+				<text>cum</text>
+				<refs nrefs="1-8" />
+			</w>
+			<w n="2-10">
+				<text>factum</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-11">
+				<text>fuerit</text>
+				<refs nrefs="1-10" />
+			</w>
+			<w n="2-12">
+				<text>quia</text>
+				<refs nrefs="1-11" />
+			</w>
+			<w n="2-13">
+				<text>ego</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-14">
+				<text>sum</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-15">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

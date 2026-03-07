@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-65">
+				<text>ελαβοντα</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-66">
+				<text>βαια</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-67">
+				<text>των</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-68">
+				<text>φοινεικων</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-69">
+				<text>και</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-70">
+				<text>εξηλθον</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-71">
+				<text>εις</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-72">
+				<text>συναντησιν</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-73">
+				<text>αυτου</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-74">
+				<text>και</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-75">
+				<text>εκραυγαζον</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-76">
+				<text>λεγοντες</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-77">
+				<text>οσσανα</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-78">
+				<text>ευλογητος</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-79">
+				<text>ο</text>
+				<refs nrefs="2-78" />
+			</w>
+			<w n="1-80">
+				<text>ερχομενος</text>
+				<refs nrefs="2-79" />
+			</w>
+			<w n="1-81">
+				<text>εν</text>
+				<refs nrefs="2-80" />
+			</w>
+			<w n="1-82">
+				<text>ονοματι</text>
+				<refs nrefs="2-81" />
+			</w>
+			<w n="1-83">
+				<text>κυριου</text>
+				<refs nrefs="2-82" />
+			</w>
+			<w n="1-84">
+				<text>ο</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-85">
+				<text>βασιλευς</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-86">
+				<text>του</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-87">
+				<text>ιστραηλ</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-88">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-65">
+				<text>ελαβον</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-66">
+				<text>τα</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-67">
+				<text>βαια</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-68">
+				<text>των</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-69">
+				<text>φοινικων</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-70">
+				<text>και</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-71">
+				<text>εξηλθον</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-72">
+				<text>εις</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-73">
+				<text>υπαντησιν</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-74">
+				<text>αυτω</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-75">
+				<text>και</text>
+				<refs nrefs="1-74" />
+			</w>
+			<w n="2-76">
+				<text>εκραυγα</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-77">
+				<text>ωσανναευλογημενος</text>
+				<refs nrefs="1-77 1-78" />
+			</w>
+			<w n="2-78">
+				<text>ο</text>
+				<refs nrefs="1-79" />
+			</w>
+			<w n="2-79">
+				<text>ερχομενος</text>
+				<refs nrefs="1-80" />
+			</w>
+			<w n="2-80">
+				<text>εν</text>
+				<refs nrefs="1-81" />
+			</w>
+			<w n="2-81">
+				<text>ονοματι</text>
+				<refs nrefs="1-82" />
+			</w>
+			<w n="2-82">
+				<text>κυριου</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-83">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-84">
+				<text>ο</text>
+				<refs nrefs="1-84" />
+			</w>
+			<w n="2-85">
+				<text>βασιλευς</text>
+				<refs nrefs="1-85" />
+			</w>
+			<w n="2-86">
+				<text>του</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-87">
+				<text>ισραηλ</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-88">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

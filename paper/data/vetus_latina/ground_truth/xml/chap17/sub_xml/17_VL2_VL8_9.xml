@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="9"><wds lnum="L1"><w n="1-150">
+				<text>et</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-151">
+				<text>mea</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-152">
+				<text>omnia</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-153">
+				<text>tua</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-154">
+				<text>sunt</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-155">
+				<text>et</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-156">
+				<text>tua</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-157">
+				<text>mea</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-158">
+				<text>et</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-159">
+				<text>clarificatus</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-160">
+				<text>sum</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-161">
+				<text>in</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-162">
+				<text>illis</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-163">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-158">
+				<text>et</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-159">
+				<text>mea</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-160">
+				<text>omnia</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-161">
+				<text>tua</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-162">
+				<text>sunt</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-163">
+				<text>et</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-164">
+				<text>tua</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-165">
+				<text>mea</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-166">
+				<text>et</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-167">
+				<text>clarificatus</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-168">
+				<text>sum</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-169">
+				<text>in</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-170">
+				<text>eis</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-171">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

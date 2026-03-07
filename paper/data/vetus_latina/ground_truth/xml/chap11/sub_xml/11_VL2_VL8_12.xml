@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-151">
+				<text>ait</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-152">
+				<text>illis</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-153">
+				<text>hec</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-154">
+				<text>infirmitas</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-155">
+				<text>non</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-156">
+				<text>est</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-157">
+				<text>usque</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-158">
+				<text>ad</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-159">
+				<text>mortem</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-160">
+				<text>sed</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-161">
+				<text>pro</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-162">
+				<text>gloria</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-163">
+				<text>dei</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-164">
+				<text>est</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-165">
+				<text>ut</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-166">
+				<text>magnificetur</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-167">
+				<text>filius</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-168">
+				<text>dei</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-169">
+				<text>in</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-170">
+				<text>illo</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-171">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-158">
+				<text>audiuit</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-159">
+				<text>iesus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-160">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-161">
+				<text>ait</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-162">
+				<text>illi</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-163">
+				<text>hec</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-164">
+				<text>infirmitas</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-165">
+				<text>non</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-166">
+				<text>est</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-167">
+				<text>ad</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-168">
+				<text>mortem</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-169">
+				<text>sed</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-170">
+				<text>pro</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-171">
+				<text>gloriam</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-172">
+				<text>dei</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-173">
+				<text>ut</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-174">
+				<text>clarificetur</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-175">
+				<text>filius</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-176">
+				<text>eius</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-177">
+				<text>in</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-178">
+				<text>ipso</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-179">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-224">
+				<text>quamquam</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-225">
+				<text>iesus</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-226">
+				<text>ipse</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-227">
+				<text>non</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-228">
+				<text>baptizabat</text>
+				<refs nrefs="2-240" />
+			</w>
+			<w n="1-229">
+				<text>sed</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-230">
+				<text>discipuli</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-231">
+				<text>eius</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-232">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-236">
+				<text>quanquam</text>
+				<refs nrefs="1-224" />
+			</w>
+			<w n="2-237">
+				<text>ipse</text>
+				<refs nrefs="1-226" />
+			</w>
+			<w n="2-238">
+				<text>iesus</text>
+				<refs nrefs="1-225" />
+			</w>
+			<w n="2-239">
+				<text>non</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-240">
+				<text>baptizaret</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-241">
+				<text>sed</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-242">
+				<text>discipuli</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-243">
+				<text>eius</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-244">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

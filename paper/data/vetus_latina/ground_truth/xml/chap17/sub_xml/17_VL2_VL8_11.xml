@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-177">
+				<text>manifestaui</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-178">
+				<text>nomen</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-179">
+				<text>tuum</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-180">
+				<text>apud</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-181">
+				<text>homines</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-182">
+				<text>quos</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-183">
+				<text>dedisti</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-184">
+				<text>mihi</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-185">
+				<text>de</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-186">
+				<text>seculo</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-187">
+				<text>tui</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-188">
+				<text>fuerunt</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-189">
+				<text>et</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-190">
+				<text>mihi</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-191">
+				<text>eos</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-192">
+				<text>dedisti</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-193">
+				<text>et</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-194">
+				<text>uerbum</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-195">
+				<text>tuum</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-196">
+				<text>seruabi</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-197">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-187">
+				<text>manifestaui</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-188">
+				<text>tuum</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-189">
+				<text>nomen</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-190">
+				<text>hominibus</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-191">
+				<text>quos</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-192">
+				<text>dedisti</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-193">
+				<text>mihi</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-194">
+				<text>de</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-195">
+				<text>mundo</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-196">
+				<text>tui</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-197">
+				<text>erant</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-198">
+				<text>et</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-199">
+				<text>mihi</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-200">
+				<text>dedisti</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-201">
+				<text>eos</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-202">
+				<text>et</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-203">
+				<text>sermonem</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-204">
+				<text>tuum</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-205">
+				<text>seruaui</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-206">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

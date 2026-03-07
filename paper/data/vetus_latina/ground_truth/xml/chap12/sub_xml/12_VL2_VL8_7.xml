@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-92">
+				<text>nunc</text>
+				<refs nrefs="2-95" />
+			</w>
+			<w n="1-93">
+				<text>iudicium</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-94">
+				<text>est</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-95">
+				<text>huius</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-96">
+				<text>mundi</text>
+				<refs nrefs="2-98" />
+			</w>
+			<w n="1-97">
+				<text>nunc</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-98">
+				<text>princeps</text>
+				<refs nrefs="2-101" />
+			</w>
+			<w n="1-99">
+				<text>huius</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-100">
+				<text>mundi</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-101">
+				<text>mittetur</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-102">
+				<text>deorsum</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-103">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-95">
+				<text>nunc</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-96">
+				<text>iudicium</text>
+				<refs nrefs="1-93" />
+			</w>
+			<w n="2-97">
+				<text>est</text>
+				<refs nrefs="1-94" />
+			</w>
+			<w n="2-98">
+				<text>mundi</text>
+				<refs nrefs="1-96" />
+			</w>
+			<w n="2-99">
+				<text>est</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-100">
+				<text>nunc</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-101">
+				<text>princeps</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-102">
+				<text>mundi</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-103">
+				<text>dimittetur</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-104">
+				<text>deorsum</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-105">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

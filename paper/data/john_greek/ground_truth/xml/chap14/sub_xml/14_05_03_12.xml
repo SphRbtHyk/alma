@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="12"><wds lnum="L1"><w n="1-200">
+				<text>και</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-201">
+				<text>νυν</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-202">
+				<text>ειρηκα</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-203">
+				<text>υμειν</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-204">
+				<text>πριν</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-205">
+				<text>γενεσθαι</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-206">
+				<text>ινα</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-207">
+				<text>οταν</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-208">
+				<text>γενηται</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-209">
+				<text>πιστευσητε</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-210">
+				<text>μοι</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-211">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-190">
+				<text>και</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-191">
+				<text>νυν</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-192">
+				<text>ειρηκα</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-193">
+				<text>υμιν</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-194">
+				<text>πριν</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-195">
+				<text>γενεσθαι</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-196">
+				<text>ινα</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-197">
+				<text>οταν</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-198">
+				<text>γενηται</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-199">
+				<text>πιστευσητε</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-200">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="13"><wds lnum="L1"><w n="1-184">
+				<text>sed</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-185">
+				<text>hunc</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-186">
+				<text>nouimus</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-187">
+				<text>unde</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-188">
+				<text>sit</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-189">
+				<text>christus</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-190">
+				<text>cum</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-191">
+				<text>uenerit</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-192">
+				<text>nemo</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-193">
+				<text>scit</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-194">
+				<text>unde</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-195">
+				<text>sit</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-196">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-179">
+				<text>sed</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-180">
+				<text>hunc</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-181">
+				<text>scimus</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-182">
+				<text>unde</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-183">
+				<text>sit</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-184">
+				<text>christus</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-185">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-186">
+				<text>cum</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-187">
+				<text>uenerit</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-188">
+				<text>nemo</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-189">
+				<text>scit</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-190">
+				<text>unde</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-191">
+				<text>sit</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-192">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="15"><wds lnum="L1"><w n="1-242">
+				<text>et</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-243">
+				<text>iudei</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-244">
+				<text>responderunt</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-245">
+				<text>dicentes</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-246">
+				<text>ei</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-247">
+				<text>quod</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-248">
+				<text>signum</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-249">
+				<text>ostendes</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-250">
+				<text>nobis</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-251">
+				<text>quoniam</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-252">
+				<text>ista</text>
+				<refs nrefs="2-248" />
+			</w>
+			<w n="1-253">
+				<text>facis</text>
+				<refs nrefs="2-249" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-237">
+				<text>responderunt</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-238">
+				<text>ergo</text>
+				<refs nrefs="1-242" />
+			</w>
+			<w n="2-239">
+				<text>iudei</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-240">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-241">
+				<text>dixerunt</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-242">
+				<text>ei</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-243">
+				<text>quod</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-244">
+				<text>signum</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-245">
+				<text>ostendis</text>
+				<refs nrefs="1-249" />
+			</w>
+			<w n="2-246">
+				<text>nobis</text>
+				<refs nrefs="1-250" />
+			</w>
+			<w n="2-247">
+				<text>quia</text>
+				<refs nrefs="1-251" />
+			</w>
+			<w n="2-248">
+				<text>hec</text>
+				<refs nrefs="1-252" />
+			</w>
+			<w n="2-249">
+				<text>facis</text>
+				<refs nrefs="1-253" />
+			</w>
+		</wds></sentence></aligned-text>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-114">
+				<text>uos</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-115">
+				<text>enim</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-116">
+				<text>ipsi</text>
+				<refs nrefs="2-109" />
+			</w>
+			<w n="1-117">
+				<text>mihi</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-118">
+				<text>testes</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-119">
+				<text>estis</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-120">
+				<text>quoniam</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-121">
+				<text>dixi</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-122">
+				<text>eis</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-123">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-124">
+				<text>missi</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-125">
+				<text>sunt</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-126">
+				<text>ab</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-127">
+				<text>hierosolymis</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-128">
+				<text>ad</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-129">
+				<text>me</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-130">
+				<text>qui</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-131">
+				<text>non</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-132">
+				<text>sum</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-133">
+				<text>ego</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-134">
+				<text>christus</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-135">
+				<text>sed</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-136">
+				<text>quia</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-137">
+				<text>missus</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-138">
+				<text>sum</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-139">
+				<text>ante</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-140">
+				<text>ipsum</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-141">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-109">
+				<text>ipsi</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-110">
+				<text>uos</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-111">
+				<text>testimonium</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-112">
+				<text>mihi</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-113">
+				<text>perhibetis</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-114">
+				<text>quod</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-115">
+				<text>dixi</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-116">
+				<text>quia</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-117">
+				<text>non</text>
+				<refs nrefs="1-131" />
+			</w>
+			<w n="2-118">
+				<text>sum</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-119">
+				<text>christus</text>
+				<refs nrefs="1-134" />
+			</w>
+			<w n="2-120">
+				<text>sed</text>
+				<refs nrefs="1-135" />
+			</w>
+			<w n="2-121">
+				<text>quia</text>
+				<refs nrefs="1-136" />
+			</w>
+			<w n="2-122">
+				<text>missus</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-123">
+				<text>sum</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-124">
+				<text>ante</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-125">
+				<text>illum</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-126">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

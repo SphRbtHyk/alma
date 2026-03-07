@@ -1,0 +1,11 @@
+source_index,source_text,target_index,target_text
+0,illi,-,-
+1,itaque,-,-
+2,qui,1,qui
+3,missi,2,missi
+4,erant,3,fuerant
+5,de,4,ex
+6,leuuitis,-,-
+7,et,-,-
+8,fariseis,5,phariseis
+-,-,0,et

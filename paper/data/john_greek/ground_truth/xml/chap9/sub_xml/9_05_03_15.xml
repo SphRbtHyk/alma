@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="15"><wds lnum="L1"><w n="1-245">
+				<text>οταν</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-246">
+				<text>ω</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-247">
+				<text>εν</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-248">
+				<text>τω</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-249">
+				<text>κοσμω</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-250">
+				<text>φως</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-251">
+				<text>ειμει</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-252">
+				<text>του</text>
+				<refs nrefs="2-248" />
+			</w>
+			<w n="1-253">
+				<text>κοσμου</text>
+				<refs nrefs="2-249" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-241">
+				<text>οταν</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-242">
+				<text>εν</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-243">
+				<text>τω</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-244">
+				<text>κοσμω</text>
+				<refs nrefs="1-249" />
+			</w>
+			<w n="2-245">
+				<text>ω</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-246">
+				<text>φως</text>
+				<refs nrefs="1-250" />
+			</w>
+			<w n="2-247">
+				<text>ειμι</text>
+				<refs nrefs="1-251" />
+			</w>
+			<w n="2-248">
+				<text>του</text>
+				<refs nrefs="1-252" />
+			</w>
+			<w n="2-249">
+				<text>κοσμου</text>
+				<refs nrefs="1-253" />
+			</w>
+		</wds></sentence></aligned-text>

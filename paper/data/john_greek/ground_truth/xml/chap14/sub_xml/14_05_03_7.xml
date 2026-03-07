@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="7"><wds lnum="L1"><w n="1-121">
+				<text>και</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-122">
+				<text>οπου</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-123">
+				<text>υπαγω</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-124">
+				<text>οιδατε</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-125">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-126">
+				<text>την</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-127">
+				<text>οδον</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-128">
+				<text>οιδατε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-129">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-115">
+				<text>και</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-116">
+				<text>οπου</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-117">
+				<text>εγω</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-118">
+				<text>υπαγω</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-119">
+				<text>οιδατε</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-120">
+				<text>την</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-121">
+				<text>οδον</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-122">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

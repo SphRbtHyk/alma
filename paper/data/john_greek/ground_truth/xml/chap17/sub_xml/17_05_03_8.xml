@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="8"><wds lnum="L1"><w n="1-131">
+				<text>πατερ</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-132">
+				<text>δικαιε</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-133">
+				<text>ο</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-134">
+				<text>κοσμος</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-135">
+				<text>τουτος</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-136">
+				<text>σε</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-137">
+				<text>ουκ</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-138">
+				<text>εγνω</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-139">
+				<text>εγω</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-140">
+				<text>δε</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-141">
+				<text>σε</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-142">
+				<text>εγνωκα</text>
+				<refs nrefs="2-138" />
+			</w>
+			<w n="1-143">
+				<text>και</text>
+				<refs nrefs="2-139" />
+			</w>
+			<w n="1-144">
+				<text>ουτοι</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-145">
+				<text>εγνωσαν</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-146">
+				<text>οτι</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-147">
+				<text>συ</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-148">
+				<text>με</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-149">
+				<text>απεστειλας</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-150">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-127">
+				<text>πατηρ</text>
+				<refs nrefs="1-131" />
+			</w>
+			<w n="2-128">
+				<text>δικαιε</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-129">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-130">
+				<text>ο</text>
+				<refs nrefs="1-133" />
+			</w>
+			<w n="2-131">
+				<text>κοσμος</text>
+				<refs nrefs="1-134" />
+			</w>
+			<w n="2-132">
+				<text>σε</text>
+				<refs nrefs="1-136" />
+			</w>
+			<w n="2-133">
+				<text>ουκ</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-134">
+				<text>εγνω</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-135">
+				<text>εγω</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-136">
+				<text>δε</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-137">
+				<text>σε</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-138">
+				<text>εγνων</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-139">
+				<text>και</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-140">
+				<text>ουτοι</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-141">
+				<text>εγνωσαν</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-142">
+				<text>οτι</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-143">
+				<text>συ</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-144">
+				<text>με</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-145">
+				<text>απεστειλας</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-146">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

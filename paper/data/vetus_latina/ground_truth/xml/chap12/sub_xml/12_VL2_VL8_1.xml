@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>acceperunt</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>flores</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3">
+				<text>palmarum</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-4">
+				<text>et</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-5">
+				<text>exierunt</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-6">
+				<text>illi</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-7">
+				<text>obuiam</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-8">
+				<text>et</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-9">
+				<text>clamabant</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-10">
+				<text>ossa</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-11">
+				<text>benedictus</text>
+				<refs nrefs="2-12" />
+			</w>
+			<w n="1-12">
+				<text>qui</text>
+				<refs nrefs="2-13" />
+			</w>
+			<w n="1-13">
+				<text>uenit</text>
+				<refs nrefs="2-14" />
+			</w>
+			<w n="1-14">
+				<text>rex</text>
+				<refs nrefs="2-20" />
+			</w>
+			<w n="1-15">
+				<text>isdrahel</text>
+				<refs nrefs="2-21" />
+			</w>
+			<w n="1-16">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>acceperunt</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>flores</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3">
+				<text>palmarum</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-4">
+				<text>et</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-5">
+				<text>exierunt</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-6">
+				<text>obuiam</text>
+				<refs nrefs="1-7" />
+			</w>
+			<w n="2-7">
+				<text>illi</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-8">
+				<text>et</text>
+				<refs nrefs="1-8" />
+			</w>
+			<w n="2-9">
+				<text>clamabat</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-10">
+				<text>dicentes</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-11">
+				<text>osanna</text>
+				<refs nrefs="1-10" />
+			</w>
+			<w n="2-12">
+				<text>benedictus</text>
+				<refs nrefs="1-11" />
+			</w>
+			<w n="2-13">
+				<text>qui</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-14">
+				<text>uenit</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-15">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-16">
+				<text>nomine</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-17">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-18">
+				<text>nomini</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-19">
+				<text>domini</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-20">
+				<text>rex</text>
+				<refs nrefs="1-14" />
+			</w>
+			<w n="2-21">
+				<text>istrahel</text>
+				<refs nrefs="1-15" />
+			</w>
+			<w n="2-22">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

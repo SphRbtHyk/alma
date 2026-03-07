@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="3"><wds lnum="L1"><w n="1-46">
+				<text>μη</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-47">
+				<text>συ</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-48">
+				<text>μειζων</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-49">
+				<text>ει</text>
+				<refs nrefs="2-48" />
+			</w>
+			<w n="1-50">
+				<text>του</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-51">
+				<text>αβρααμ</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-52">
+				<text>οτι</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-53">
+				<text>απεθανεν</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-54">
+				<text>και</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-55">
+				<text>οι</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-56">
+				<text>προφηται</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-57">
+				<text>απεθαναν</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-58">
+				<text>τινα</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-59">
+				<text>σεαυτον</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-60">
+				<text>ποιεις</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-61">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-45">
+				<text>μη</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-46">
+				<text>συ</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-47">
+				<text>μειζων</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-48">
+				<text>ει</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-49">
+				<text>του</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-50">
+				<text>πατρος</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-51">
+				<text>ημων</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-52">
+				<text>αβρααμ</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-53">
+				<text>οστις</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-54">
+				<text>απεθανεν</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-55">
+				<text>και</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-56">
+				<text>οι</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-57">
+				<text>προφηται</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-58">
+				<text>απεθανον</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-59">
+				<text>τινα</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-60">
+				<text>σεαυτον</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-61">
+				<text>ποιεις</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-62">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

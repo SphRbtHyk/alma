@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="7"><wds lnum="L1"><w n="1-124">
+				<text>απεκριθη</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-125">
+				<text>αυτοις</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-126">
+				<text>ο</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-127">
+				<text>ιησους</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-128">
+				<text>αρτι</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-129">
+				<text>πιστευετε</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-130">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-126">
+				<text>απεκριθη</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-127">
+				<text>αυτοις</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-128">
+				<text>ιησους</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-129">
+				<text>αρτι</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-130">
+				<text>πιστευετε</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-131">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="5"><wds lnum="L1"><w n="1-78">
+				<text>ουκ</text>
+				<refs nrefs="2-78" />
+			</w>
+			<w n="1-79">
+				<text>ην</text>
+				<refs nrefs="2-79" />
+			</w>
+			<w n="1-80">
+				<text>εκεινος</text>
+				<refs nrefs="2-80" />
+			</w>
+			<w n="1-81">
+				<text>το</text>
+				<refs nrefs="2-81" />
+			</w>
+			<w n="1-82">
+				<text>φως</text>
+				<refs nrefs="2-82" />
+			</w>
+			<w n="1-83">
+				<text>αλλ</text>
+				<refs nrefs="2-83" />
+			</w>
+			<w n="1-84">
+				<text>ινα</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-85">
+				<text>μαρτυρηση</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-86">
+				<text>περι</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-87">
+				<text>του</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-88">
+				<text>φωτος</text>
+				<refs nrefs="2-88" />
+			</w>
+			<w n="1-89">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-78">
+				<text>ουκ</text>
+				<refs nrefs="1-78" />
+			</w>
+			<w n="2-79">
+				<text>ην</text>
+				<refs nrefs="1-79" />
+			</w>
+			<w n="2-80">
+				<text>εκεινος</text>
+				<refs nrefs="1-80" />
+			</w>
+			<w n="2-81">
+				<text>το</text>
+				<refs nrefs="1-81" />
+			</w>
+			<w n="2-82">
+				<text>φως</text>
+				<refs nrefs="1-82" />
+			</w>
+			<w n="2-83">
+				<text>αλλ</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-84">
+				<text>ινα</text>
+				<refs nrefs="1-84" />
+			</w>
+			<w n="2-85">
+				<text>μαρτυρηση</text>
+				<refs nrefs="1-85" />
+			</w>
+			<w n="2-86">
+				<text>περι</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-87">
+				<text>του</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-88">
+				<text>φωτος</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-89">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="15"><wds lnum="L1"><w n="1-227">
+				<text>non</text>
+				<refs nrefs="2-251" />
+			</w>
+			<w n="1-228">
+				<text>conturuetur</text>
+				<refs nrefs="2-252" />
+			</w>
+			<w n="1-229">
+				<text>cor</text>
+				<refs nrefs="2-253" />
+			</w>
+			<w n="1-230">
+				<text>uestrum</text>
+				<refs nrefs="2-254" />
+			</w>
+			<w n="1-231">
+				<text>neque</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-232">
+				<text>trepidet</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-233">
+				<text>credite</text>
+				<refs nrefs="2-255" />
+			</w>
+			<w n="1-234">
+				<text>in</text>
+				<refs nrefs="2-256" />
+			</w>
+			<w n="1-235">
+				<text>deo</text>
+				<refs nrefs="2-257" />
+			</w>
+			<w n="1-236">
+				<text>et</text>
+				<refs nrefs="2-258" />
+			</w>
+			<w n="1-237">
+				<text>in</text>
+				<refs nrefs="2-259" />
+			</w>
+			<w n="1-238">
+				<text>me</text>
+				<refs nrefs="2-260" />
+			</w>
+			<w n="1-239">
+				<text>credite</text>
+				<refs nrefs="2-261" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-251">
+				<text>non</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-252">
+				<text>turbetur</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-253">
+				<text>cor</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-254">
+				<text>uestrum</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-255">
+				<text>credite</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-256">
+				<text>in</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-257">
+				<text>deum</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-258">
+				<text>et</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-259">
+				<text>in</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-260">
+				<text>me</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-261">
+				<text>credite</text>
+				<refs nrefs="1-239" />
+			</w>
+		</wds></sentence></aligned-text>

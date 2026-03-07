@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-171">
+				<text>ipse</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-172">
+				<text>est</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-173">
+				<text>de</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-174">
+				<text>quo</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-175">
+				<text>dixi</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-176">
+				<text>qui</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-177">
+				<text>post</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-178">
+				<text>me</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-179">
+				<text>uenit</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-180">
+				<text>ante</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-181">
+				<text>me</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-182">
+				<text>factus</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-183">
+				<text>est</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-184">
+				<text>cuius</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-185">
+				<text>ego</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-186">
+				<text>non</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-187">
+				<text>sum</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-188">
+				<text>dignus</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-189">
+				<text>corigiam</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-190">
+				<text>calciamentorum</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-191">
+				<text>eius</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-192">
+				<text>soluere</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-193">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-178">
+				<text>ipse</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-179">
+				<text>est</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-180">
+				<text>de</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-181">
+				<text>quo</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-182">
+				<text>dicebam</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-183">
+				<text>quoniam</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-184">
+				<text>post</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-185">
+				<text>me</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-186">
+				<text>uenit</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-187">
+				<text>uir</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-188">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-189">
+				<text>ante</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-190">
+				<text>me</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-191">
+				<text>factus</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-192">
+				<text>est</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-193">
+				<text>cuius</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-194">
+				<text>ego</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-195">
+				<text>non</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-196">
+				<text>sum</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-197">
+				<text>dignus</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-198">
+				<text>ut</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-199">
+				<text>soluam</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-200">
+				<text>corrigiam</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-201">
+				<text>calciamenti</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-202">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

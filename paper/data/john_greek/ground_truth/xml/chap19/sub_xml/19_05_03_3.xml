@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="3"><wds lnum="L1"><w n="1-32">
+				<text>απεκριθη</text>
+				<refs nrefs="2-33" />
+			</w>
+			<w n="1-33">
+				<text>ο</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-34">
+				<text>πειλατος</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-35">
+				<text>ο</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-36">
+				<text>γεγραφα</text>
+				<refs nrefs="2-37" />
+			</w>
+			<w n="1-37">
+				<text>γεγραφα</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-38">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-33">
+				<text>απεκριθη</text>
+				<refs nrefs="1-32" />
+			</w>
+			<w n="2-34">
+				<text>ο</text>
+				<refs nrefs="1-33" />
+			</w>
+			<w n="2-35">
+				<text>πειλατος</text>
+				<refs nrefs="1-34" />
+			</w>
+			<w n="2-36">
+				<text>ο</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-37">
+				<text>γεγραφα</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-38">
+				<text>γεγραφα</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-39">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

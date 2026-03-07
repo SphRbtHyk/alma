@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="6"><wds lnum="L1"><w n="1-98">
+				<text>ιδου</text>
+				<refs nrefs="2-101" />
+			</w>
+			<w n="1-99">
+				<text>ερχεται</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-100">
+				<text>ωρα</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-101">
+				<text>και</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-102">
+				<text>εληλυθεν</text>
+				<refs nrefs="2-105" />
+			</w>
+			<w n="1-103">
+				<text>ινα</text>
+				<refs nrefs="2-106" />
+			</w>
+			<w n="1-104">
+				<text>σκορπισθητε</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-105">
+				<text>εκαστος</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-106">
+				<text>ιησους</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-107">
+				<text>τα</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-108">
+				<text>ιδια</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-109">
+				<text>και</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-110">
+				<text>εμε</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-111">
+				<text>μονον</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-112">
+				<text>αφητε</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-113">
+				<text>και</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-114">
+				<text>ουκ</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-115">
+				<text>ειμι</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-116">
+				<text>μονος</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-117">
+				<text>οτι</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-118">
+				<text>ο</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-119">
+				<text>πατηρ</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-120">
+				<text>μετ</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-121">
+				<text>εμου</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-122">
+				<text>εστιν</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-123">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-101">
+				<text>ιδου</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-102">
+				<text>ερχεται</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-103">
+				<text>ωρα</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-104">
+				<text>και</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-105">
+				<text>εληλυθεν</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-106">
+				<text>ινα</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-107">
+				<text>σκορπισθητε</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-108">
+				<text>εκαστος</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-109">
+				<text>εις</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-110">
+				<text>τα</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-111">
+				<text>ιδια</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-112">
+				<text>καμε</text>
+				<refs nrefs="1-109 1-110" />
+			</w>
+			<w n="2-113">
+				<text>μονον</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-114">
+				<text>αφητε</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-115">
+				<text>και</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-116">
+				<text>ουκ</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-117">
+				<text>ειμι</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-118">
+				<text>μονος</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-119">
+				<text>οτι</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-120">
+				<text>ο</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-121">
+				<text>πατηρ</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-122">
+				<text>μετ</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-123">
+				<text>εμου</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-124">
+				<text>εστιν</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-125">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

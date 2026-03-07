@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-57">
+				<text>καθως</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-58">
+				<text>εδωκας</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-59">
+				<text>αυτω</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-60">
+				<text>εξουσιαν</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-61">
+				<text>πασης</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-62">
+				<text>σαρκος</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-63">
+				<text>ινα</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-64">
+				<text>παν</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-65">
+				<text>ο</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-66">
+				<text>δεδωκας</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-67">
+				<text>αυτω</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-68">
+				<text>εχη</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-69">
+				<text>ζωην</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-70">
+				<text>αιωνιον</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-71">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-54">
+				<text>καθως</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-55">
+				<text>εδωκας</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-56">
+				<text>αυτω</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-57">
+				<text>εξουσιαν</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-58">
+				<text>πασης</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-59">
+				<text>σαρκος</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-60">
+				<text>ινα</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-61">
+				<text>παν</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-62">
+				<text>ο</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-63">
+				<text>δεδωκας</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-64">
+				<text>αυτω</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-65">
+				<text>δωσει</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-66">
+				<text>αυτοις</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-67">
+				<text>ζωην</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-68">
+				<text>αιωνιον</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-69">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

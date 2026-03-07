@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="9"><wds lnum="L1"><w n="1-132">
+				<text>ego</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-133">
+				<text>ueritatem</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-134">
+				<text>dico</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-135">
+				<text>uobis</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-136">
+				<text>utile</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-137">
+				<text>est</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-138">
+				<text>uobis</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-139">
+				<text>ut</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-140">
+				<text>ego</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-141">
+				<text>eam</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-142">
+				<text>nisi</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-143">
+				<text>enim</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-144">
+				<text>abiero</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-145">
+				<text>aduocatus</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-146">
+				<text>non</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-147">
+				<text>ueniet</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-148">
+				<text>ad</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-149">
+				<text>uos</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-150">
+				<text>si</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-151">
+				<text>autem</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-152">
+				<text>abiero</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-153">
+				<text>mittam</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-154">
+				<text>illum</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-155">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-140">
+				<text>sed</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-141">
+				<text>ego</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-142">
+				<text>ueritatem</text>
+				<refs nrefs="1-133" />
+			</w>
+			<w n="2-143">
+				<text>dico</text>
+				<refs nrefs="1-134" />
+			</w>
+			<w n="2-144">
+				<text>uobis</text>
+				<refs nrefs="1-135" />
+			</w>
+			<w n="2-145">
+				<text>expedit</text>
+				<refs nrefs="1-136 1-137" />
+			</w>
+			<w n="2-146">
+				<text>uobis</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-147">
+				<text>ut</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-148">
+				<text>ego</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-149">
+				<text>uadam</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-150">
+				<text>sed</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-151">
+				<text>non</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-152">
+				<text>abiero</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-153">
+				<text>ego</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-154">
+				<text>paraclitus</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-155">
+				<text>non</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-156">
+				<text>ueniet</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-157">
+				<text>ad</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-158">
+				<text>uos</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-159">
+				<text>si</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-160">
+				<text>autem</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-161">
+				<text>habiero</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-162">
+				<text>mittam</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-163">
+				<text>eum</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-164">
+				<text>ad</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-165">
+				<text>uos</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-166">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

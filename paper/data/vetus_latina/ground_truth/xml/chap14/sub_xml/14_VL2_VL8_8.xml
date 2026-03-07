@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-104">
+				<text>non</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-105">
+				<text>credis</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-106">
+				<text>quoniam</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-107">
+				<text>ego</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-108">
+				<text>in</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-109">
+				<text>patre</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-110">
+				<text>et</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-111">
+				<text>pater</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-112">
+				<text>in</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-113">
+				<text>me</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-114">
+				<text>est</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-115">
+				<text>uerba</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-116">
+				<text>que</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-117">
+				<text>ego</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-118">
+				<text>dico</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-119">
+				<text>uobis</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-120">
+				<text>a</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-121">
+				<text>me</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-122">
+				<text>non</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-123">
+				<text>loquor</text>
+				<refs nrefs="2-138" />
+			</w>
+			<w n="1-124">
+				<text>pater</text>
+				<refs nrefs="2-139" />
+			</w>
+			<w n="1-125">
+				<text>autem</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-126">
+				<text>in</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-127">
+				<text>me</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-128">
+				<text>manens</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-129">
+				<text>facit</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-130">
+				<text>facta</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-131">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-119">
+				<text>non</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-120">
+				<text>credis</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-121">
+				<text>quia</text>
+				<refs nrefs="1-106" />
+			</w>
+			<w n="2-122">
+				<text>ego</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-123">
+				<text>in</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-124">
+				<text>patrem</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-125">
+				<text>et</text>
+				<refs nrefs="1-110" />
+			</w>
+			<w n="2-126">
+				<text>pater</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-127">
+				<text>in</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-128">
+				<text>me</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-129">
+				<text>est</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-130">
+				<text>uerba</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-131">
+				<text>que</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-132">
+				<text>ego</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-133">
+				<text>loquor</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-134">
+				<text>uobis</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-135">
+				<text>a</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-136">
+				<text>meipso</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-137">
+				<text>non</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-138">
+				<text>loquor</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-139">
+				<text>pater</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-140">
+				<text>autem</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-141">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-142">
+				<text>in</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-143">
+				<text>me</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-144">
+				<text>manet</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-145">
+				<text>ipse</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-146">
+				<text>loquitur</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-147">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-148">
+				<text>opera</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-149">
+				<text>que</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-150">
+				<text>facio</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-151">
+				<text>ipse</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-152">
+				<text>facit</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-153">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

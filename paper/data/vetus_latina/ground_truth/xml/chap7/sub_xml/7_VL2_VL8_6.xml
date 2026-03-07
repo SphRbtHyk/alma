@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="6"><wds lnum="L1"><w n="1-91">
+				<text>sed</text>
+				<refs nrefs="2-91" />
+			</w>
+			<w n="1-92">
+				<text>plebs</text>
+				<refs nrefs="2-92" />
+			</w>
+			<w n="1-93">
+				<text>ista</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-94">
+				<text>que</text>
+				<refs nrefs="2-94" />
+			</w>
+			<w n="1-95">
+				<text>non</text>
+				<refs nrefs="2-95" />
+			</w>
+			<w n="1-96">
+				<text>intellegit</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-97">
+				<text>legem</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-98">
+				<text>que</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-99">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-100">
+				<text>maledicta</text>
+				<refs nrefs="2-99" />
+			</w>
+			<w n="1-101">
+				<text>est</text>
+				<refs nrefs="2-98" />
+			</w>
+			<w n="1-102">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-91">
+				<text>sed</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-92">
+				<text>turba</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-93">
+				<text>hec</text>
+				<refs nrefs="1-93" />
+			</w>
+			<w n="2-94">
+				<text>que</text>
+				<refs nrefs="1-94" />
+			</w>
+			<w n="2-95">
+				<text>non</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-96">
+				<text>nouit</text>
+				<refs nrefs="1-96" />
+			</w>
+			<w n="2-97">
+				<text>legem</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-98">
+				<text>maledicti</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-99">
+				<text>sunt</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-100">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

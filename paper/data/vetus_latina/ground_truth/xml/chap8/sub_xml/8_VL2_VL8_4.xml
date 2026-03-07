@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-50">
+				<text>respondit</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-51">
+				<text>iesus</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-52">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-53">
+				<text>dixit</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-54">
+				<text>amen</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-55">
+				<text>amen</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-56">
+				<text>dico</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-57">
+				<text>uobis</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-58">
+				<text>quia</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-59">
+				<text>omnis</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-60">
+				<text>qui</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-61">
+				<text>facit</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-62">
+				<text>peccatum</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-63">
+				<text>seruus</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-64">
+				<text>est</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-65">
+				<text>peccati</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-66">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-53">
+				<text>respondit</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-54">
+				<text>eis</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-55">
+				<text>iesus</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-56">
+				<text>amem</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-57">
+				<text>amen</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-58">
+				<text>dico</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-59">
+				<text>uobis</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-60">
+				<text>quia</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-61">
+				<text>omnis</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-62">
+				<text>qui</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-63">
+				<text>facit</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-64">
+				<text>peccatum</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-65">
+				<text>seruus</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-66">
+				<text>est</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-67">
+				<text>peccati</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-68">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

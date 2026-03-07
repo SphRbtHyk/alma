@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="10"><wds lnum="L1"><w n="1-166">
+				<text>εαν</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-167">
+				<text>αγαπατε</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-168">
+				<text>με</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-169">
+				<text>τας</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-170">
+				<text>εντολας</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-171">
+				<text>τας</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-172">
+				<text>εμας</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-173">
+				<text>τηρησατε</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-174">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-158">
+				<text>εαν</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-159">
+				<text>αγαπατε</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-160">
+				<text>με</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-161">
+				<text>τας</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-162">
+				<text>εντολας</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-163">
+				<text>τας</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-164">
+				<text>εμας</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-165">
+				<text>τηρησετε</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-166">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

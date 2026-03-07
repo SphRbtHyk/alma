@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-147">
+				<text>dixit</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-148">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-149">
+				<text>pilatus</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-150">
+				<text>ergo</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-151">
+				<text>rex</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-152">
+				<text>es</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-153">
+				<text>tu</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-154">
+				<text>respondit</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-155">
+				<text>iesus</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-156">
+				<text>tu</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-157">
+				<text>dicis</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-158">
+				<text>quoniam</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-159">
+				<text>rex</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-160">
+				<text>sum</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-161">
+				<text>in</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-162">
+				<text>hoc</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-163">
+				<text>natus</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-164">
+				<text>sum</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-165">
+				<text>et</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-166">
+				<text>in</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-167">
+				<text>hoc</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-168">
+				<text>ueni</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-169">
+				<text>in</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-170">
+				<text>seculo</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-171">
+				<text>ut</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-172">
+				<text>testimonium</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-173">
+				<text>dicam</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-174">
+				<text>ueritatis</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-175">
+				<text>omnis</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-176">
+				<text>qui</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-177">
+				<text>est</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-178">
+				<text>de</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-179">
+				<text>ueritate</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-180">
+				<text>audit</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-181">
+				<text>uocem</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-182">
+				<text>meam</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-183">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-157">
+				<text>dixit</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-158">
+				<text>itaque</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-159">
+				<text>ei</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-160">
+				<text>pilatus</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-161">
+				<text>ergo</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-162">
+				<text>rex</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-163">
+				<text>es</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-164">
+				<text>tu</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-165">
+				<text>respondit</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-166">
+				<text>iesus</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-167">
+				<text>tu</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-168">
+				<text>dicis</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-169">
+				<text>quia</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-170">
+				<text>rex</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-171">
+				<text>sum</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-172">
+				<text>ego</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-173">
+				<text>ad</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-174">
+				<text>hoc</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-175">
+				<text>ego</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-176">
+				<text>natus</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-177">
+				<text>sum</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-178">
+				<text>ego</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-179">
+				<text>et</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-180">
+				<text>ad</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-181">
+				<text>hoc</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-182">
+				<text>ueni</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-183">
+				<text>in</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-184">
+				<text>hunc</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-185">
+				<text>mundum</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-186">
+				<text>ut</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-187">
+				<text>testimonium</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-188">
+				<text>perhibeant</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-189">
+				<text>ueritati</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-190">
+				<text>omnis</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-191">
+				<text>qui</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-192">
+				<text>est</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-193">
+				<text>ex</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-194">
+				<text>ueritate</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-195">
+				<text>audit</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-196">
+				<text>uocem</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-197">
+				<text>meam</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-198">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

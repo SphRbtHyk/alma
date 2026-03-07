@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="5"><wds lnum="L1"><w n="1-55">
+				<text>et</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-56">
+				<text>his</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-57">
+				<text>dictis</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-58">
+				<text>abiit</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-59">
+				<text>et</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-60">
+				<text>uocauit</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-61">
+				<text>mariam</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-62">
+				<text>sororem</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-63">
+				<text>suam</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-64">
+				<text>silentio</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-65">
+				<text>dicens</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-66">
+				<text>magis</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-67">
+				<text>ter</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-68">
+				<text>uenit</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-69">
+				<text>et</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-70">
+				<text>uocat</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-71">
+				<text>te</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-72">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-60">
+				<text>et</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-61">
+				<text>hec</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-62">
+				<text>cum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-63">
+				<text>dixisset</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-64">
+				<text>abiit</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-65">
+				<text>et</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-66">
+				<text>uocauit</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-67">
+				<text>mariam</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-68">
+				<text>sororem</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-69">
+				<text>suam</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-70">
+				<text>silentio</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-71">
+				<text>dicens</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-72">
+				<text>magister</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-73">
+				<text>ades</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-74">
+				<text>et</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-75">
+				<text>uocat</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-76">
+				<text>te</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-77">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

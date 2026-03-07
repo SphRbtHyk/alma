@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-128">
+				<text>tunc</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-129">
+				<text>ergo</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-130">
+				<text>tradidit</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-131">
+				<text>eum</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-132">
+				<text>illis</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-133">
+				<text>ut</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-134">
+				<text>in</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-135">
+				<text>crucem</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-136">
+				<text>tolleretur</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-137">
+				<text>acceperunt</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-138">
+				<text>ergo</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-139">
+				<text>iesum</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-140">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-124">
+				<text>tunc</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-125">
+				<text>ergo</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-126">
+				<text>tradidit</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-127">
+				<text>eum</text>
+				<refs nrefs="1-131" />
+			</w>
+			<w n="2-128">
+				<text>illis</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-129">
+				<text>ut</text>
+				<refs nrefs="1-133" />
+			</w>
+			<w n="2-130">
+				<text>crucifigeretur</text>
+				<refs nrefs="1-134 1-135 1-136" />
+			</w>
+			<w n="2-131">
+				<text>susceperunt</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-132">
+				<text>ergo</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-133">
+				<text>iesum</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-134">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

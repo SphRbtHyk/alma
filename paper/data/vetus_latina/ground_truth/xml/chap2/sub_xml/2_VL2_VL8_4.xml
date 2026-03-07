@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-40">
+				<text>cum</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-41">
+				<text>ergo</text>
+				<refs nrefs="2-44" />
+			</w>
+			<w n="1-42">
+				<text>esset</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-43">
+				<text>in</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-44">
+				<text>hierosolymis</text>
+				<refs nrefs="2-48" />
+			</w>
+			<w n="1-45">
+				<text>in</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-46">
+				<text>die</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-47">
+				<text>festo</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-48">
+				<text>pasche</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-49">
+				<text>multi</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-50">
+				<text>crediderunt</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-51">
+				<text>in</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-52">
+				<text>nomine</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-53">
+				<text>eius</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-54">
+				<text>cum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-55">
+				<text>uiderent</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-56">
+				<text>signa</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-57">
+				<text>que</text>
+				<refs nrefs="2-51 2-62" />
+			</w>
+			<w n="1-58">
+				<text>faciebat</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-59">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-60">
+				<text>eos</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-61">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-62">
+				<text>infirmi</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-63">
+				<text>erant</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-64">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-43">
+				<text>cum</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-44">
+				<text>autem</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-45">
+				<text>esset</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-46">
+				<text>iesus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-47">
+				<text>in</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-48">
+				<text>hierosolimis</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-49">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-50">
+				<text>pascha</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-51">
+				<text>in</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-52">
+				<text>die</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-53">
+				<text>festo</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-54">
+				<text>multi</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-55">
+				<text>crediderunt</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-56">
+				<text>in</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-57">
+				<text>nomine</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-58">
+				<text>eius</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-59">
+				<text>uidentes</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-60">
+				<text>signa</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-61">
+				<text>eius</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-62">
+				<text>que</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-63">
+				<text>faciebat</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-64">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

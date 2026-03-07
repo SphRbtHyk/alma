@@ -1,0 +1,2082 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="LAT"/>
+	<language lnum="L2" xml:lang="LAT"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>amodo</text>
+				<refs nrefs='2-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>dico</text>
+				<refs nrefs='2-2'></refs>
+			</w>
+			<w n='1-3'>
+				<text>uobis</text>
+				<refs nrefs='2-3'></refs>
+			</w>
+			<w n='1-4'>
+				<text>priusquam</text>
+				<refs nrefs='2-4 2-5'></refs>
+			</w>
+			<w n='1-5'>
+				<text>fiat</text>
+				<refs nrefs='2-6'></refs>
+			</w>
+			<w n='1-6'>
+				<text>ut</text>
+				<refs nrefs='2-7'></refs>
+			</w>
+			<w n='1-7'>
+				<text>credatis</text>
+				<refs nrefs='2-8'></refs>
+			</w>
+			<w n='1-8'>
+				<text>cum</text>
+				<refs nrefs='2-9'></refs>
+			</w>
+			<w n='1-9'>
+				<text>factum</text>
+				<refs nrefs='2-10'></refs>
+			</w>
+			<w n='1-10'>
+				<text>fuerit</text>
+				<refs nrefs='2-11'></refs>
+			</w>
+			<w n='1-11'>
+				<text>quoniam</text>
+				<refs nrefs='2-12'></refs>
+			</w>
+			<w n='1-12'>
+				<text>ego</text>
+				<refs nrefs='2-13'></refs>
+			</w>
+			<w n='1-13'>
+				<text>sum</text>
+				<refs nrefs='2-14'></refs>
+			</w>
+			<w n='1-14'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-15'>
+				<text>hoc</text>
+				<refs nrefs='2-16'></refs>
+			</w>
+			<w n='1-16'>
+				<text>autem</text>
+				<refs nrefs='2-17'></refs>
+			</w>
+			<w n='1-17'>
+				<text>recumbentium</text>
+				<refs nrefs='2-19'></refs>
+			</w>
+			<w n='1-18'>
+				<text>nemo</text>
+				<refs nrefs='2-18'></refs>
+			</w>
+			<w n='1-19'>
+				<text>potuit</text>
+				<refs nrefs='2-20'></refs>
+			</w>
+			<w n='1-20'>
+				<text>cognoscere</text>
+				<refs nrefs='2-20'></refs>
+			</w>
+			<w n='1-21'>
+				<text>quid</text>
+				<refs nrefs='2-21'></refs>
+			</w>
+			<w n='1-22'>
+				<text>ei</text>
+				<refs nrefs='2-23'></refs>
+			</w>
+			<w n='1-23'>
+				<text>dixisset</text>
+				<refs nrefs='2-22'></refs>
+			</w>
+			<w n='1-24'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-25'>
+				<text>quidam</text>
+				<refs nrefs='2-25'></refs>
+			</w>
+			<w n='1-26'>
+				<text>enim</text>
+				<refs nrefs='2-26'></refs>
+			</w>
+			<w n='1-27'>
+				<text>putauerunt</text>
+				<refs nrefs='2-27'></refs>
+			</w>
+			<w n='1-28'>
+				<text>quia</text>
+				<refs nrefs='2-28'></refs>
+			</w>
+			<w n='1-29'>
+				<text>loculos</text>
+				<refs nrefs='2-29'></refs>
+			</w>
+			<w n='1-30'>
+				<text>iudas</text>
+				<refs nrefs='2-31'></refs>
+			</w>
+			<w n='1-31'>
+				<text>habebet</text>
+				<refs nrefs='2-30'></refs>
+			</w>
+			<w n='1-32'>
+				<text>et</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-33'>
+				<text>precepisset</text>
+				<refs nrefs='2-33'></refs>
+			</w>
+			<w n='1-34'>
+				<text>ei</text>
+				<refs nrefs='2-34'></refs>
+			</w>
+			<w n='1-35'>
+				<text>emere</text>
+				<refs nrefs='2-36'></refs>
+			</w>
+			<w n='1-36'>
+				<text>que</text>
+				<refs nrefs='2-38'></refs>
+			</w>
+			<w n='1-37'>
+				<text>sunt</text>
+				<refs nrefs='2-39 2-40'></refs>
+			</w>
+			<w n='1-38'>
+				<text>necessaria</text>
+				<refs nrefs='2-39 2-40'></refs>
+			</w>
+			<w n='1-39'>
+				<text>ad</text>
+				<refs nrefs='2-42'></refs>
+			</w>
+			<w n='1-40'>
+				<text>diem</text>
+				<refs nrefs='2-43'></refs>
+			</w>
+			<w n='1-41'>
+				<text>festum</text>
+				<refs nrefs='2-44'></refs>
+			</w>
+			<w n='1-42'>
+				<text>aut</text>
+				<refs nrefs='2-45'></refs>
+			</w>
+			<w n='1-43'>
+				<text>pauperibus</text>
+				<refs nrefs='2-46'></refs>
+			</w>
+			<w n='1-44'>
+				<text>aliquid</text>
+				<refs nrefs='2-48'></refs>
+			</w>
+			<w n='1-45'>
+				<text>daret</text>
+				<refs nrefs='2-49'></refs>
+			</w>
+			<w n='1-46'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-47'>
+				<text>recumbens</text>
+				<refs nrefs='2-51'></refs>
+			</w>
+			<w n='1-48'>
+				<text>ille</text>
+				<refs nrefs='2-53'></refs>
+			</w>
+			<w n='1-49'>
+				<text>super</text>
+				<refs nrefs='2-54'></refs>
+			</w>
+			<w n='1-50'>
+				<text>pectus</text>
+				<refs nrefs='2-55'></refs>
+			</w>
+			<w n='1-51'>
+				<text>iesum</text>
+				<refs nrefs='2-56'></refs>
+			</w>
+			<w n='1-52'>
+				<text>ait</text>
+				<refs nrefs='2-57'></refs>
+			</w>
+			<w n='1-53'>
+				<text>illi</text>
+				<refs nrefs='2-58'></refs>
+			</w>
+			<w n='1-54'>
+				<text>domine</text>
+				<refs nrefs='2-59'></refs>
+			</w>
+			<w n='1-55'>
+				<text>quis</text>
+				<refs nrefs='2-60'></refs>
+			</w>
+			<w n='1-56'>
+				<text>est</text>
+				<refs nrefs='2-61'></refs>
+			</w>
+			<w n='1-57'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-58'>
+				<text>et</text>
+				<refs nrefs='2-63'></refs>
+			</w>
+			<w n='1-59'>
+				<text>statim</text>
+				<refs nrefs='2-64 2-65'></refs>
+			</w>
+			<w n='1-60'>
+				<text>intrauit</text>
+				<refs nrefs='2-66'></refs>
+			</w>
+			<w n='1-61'>
+				<text>in</text>
+				<refs nrefs='2-67'></refs>
+			</w>
+			<w n='1-62'>
+				<text>eum</text>
+				<refs nrefs='2-68'></refs>
+			</w>
+			<w n='1-63'>
+				<text>satanas</text>
+				<refs nrefs='2-69'></refs>
+			</w>
+			<w n='1-64'>
+				<text>et</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-65'>
+				<text>dicit</text>
+				<refs nrefs='2-70'></refs>
+			</w>
+			<w n='1-66'>
+				<text>ei</text>
+				<refs nrefs='2-72'></refs>
+			</w>
+			<w n='1-67'>
+				<text>iesus</text>
+				<refs nrefs='2-73'></refs>
+			</w>
+			<w n='1-68'>
+				<text>quod</text>
+				<refs nrefs='2-74'></refs>
+			</w>
+			<w n='1-69'>
+				<text>facies</text>
+				<refs nrefs='2-75'></refs>
+			</w>
+			<w n='1-70'>
+				<text>citius</text>
+				<refs nrefs='2-77'></refs>
+			</w>
+			<w n='1-71'>
+				<text>fac</text>
+				<refs nrefs='2-76'></refs>
+			</w>
+			<w n='1-72'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-73'>
+				<text>dicit</text>
+				<refs nrefs='2-79'></refs>
+			</w>
+			<w n='1-74'>
+				<text>illi</text>
+				<refs nrefs='2-80'></refs>
+			</w>
+			<w n='1-75'>
+				<text>simon</text>
+				<refs nrefs='2-81'></refs>
+			</w>
+			<w n='1-76'>
+				<text>petrus</text>
+				<refs nrefs='2-82'></refs>
+			</w>
+			<w n='1-77'>
+				<text>domine</text>
+				<refs nrefs='2-83'></refs>
+			</w>
+			<w n='1-78'>
+				<text>quo</text>
+				<refs nrefs='2-84'></refs>
+			</w>
+			<w n='1-79'>
+				<text>uadis</text>
+				<refs nrefs='2-85'></refs>
+			</w>
+			<w n='1-80'>
+				<text>respondit</text>
+				<refs nrefs='2-86'></refs>
+			</w>
+			<w n='1-81'>
+				<text>iesus</text>
+				<refs nrefs='2-87'></refs>
+			</w>
+			<w n='1-82'>
+				<text>quo</text>
+				<refs nrefs='2-90'></refs>
+			</w>
+			<w n='1-83'>
+				<text>ego</text>
+				<refs nrefs='2-91'></refs>
+			</w>
+			<w n='1-84'>
+				<text>eo</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-85'>
+				<text>tu</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-86'>
+				<text>non</text>
+				<refs nrefs='2-93'></refs>
+			</w>
+			<w n='1-87'>
+				<text>potes</text>
+				<refs nrefs='2-94'></refs>
+			</w>
+			<w n='1-88'>
+				<text>uenire</text>
+				<refs nrefs='2-92'></refs>
+			</w>
+			<w n='1-89'>
+				<text>modo</text>
+				<refs nrefs='2-96'></refs>
+			</w>
+			<w n='1-90'>
+				<text>sequeris</text>
+				<refs nrefs='2-98'></refs>
+			</w>
+			<w n='1-91'>
+				<text>autem</text>
+				<refs nrefs='2-99'></refs>
+			</w>
+			<w n='1-92'>
+				<text>postea</text>
+				<refs nrefs='2-100'></refs>
+			</w>
+			<w n='1-93'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-94'>
+				<text>sciebat</text>
+				<refs nrefs='2-102'></refs>
+			</w>
+			<w n='1-95'>
+				<text>enim</text>
+				<refs nrefs='2-103'></refs>
+			</w>
+			<w n='1-96'>
+				<text>ab</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-97'>
+				<text>initio</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-98'>
+				<text>quis</text>
+				<refs nrefs='2-104'></refs>
+			</w>
+			<w n='1-99'>
+				<text>esset</text>
+				<refs nrefs='2-105'></refs>
+			</w>
+			<w n='1-100'>
+				<text>qui</text>
+				<refs nrefs='2-106'></refs>
+			</w>
+			<w n='1-101'>
+				<text>eum</text>
+				<refs nrefs='2-109'></refs>
+			</w>
+			<w n='1-102'>
+				<text>traditurus</text>
+				<refs nrefs='2-107'></refs>
+			</w>
+			<w n='1-103'>
+				<text>erat</text>
+				<refs nrefs='2-108'></refs>
+			</w>
+			<w n='1-104'>
+				<text>propterea</text>
+				<refs nrefs='2-110'></refs>
+			</w>
+			<w n='1-105'>
+				<text>dixit</text>
+				<refs nrefs='2-111'></refs>
+			</w>
+			<w n='1-106'>
+				<text>et</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-107'>
+				<text>uos</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-108'>
+				<text>mundi</text>
+				<refs nrefs='2-115'></refs>
+			</w>
+			<w n='1-109'>
+				<text>estis</text>
+				<refs nrefs='2-114'></refs>
+			</w>
+			<w n='1-110'>
+				<text>sed</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-111'>
+				<text>non</text>
+				<refs nrefs='2-113'></refs>
+			</w>
+			<w n='1-112'>
+				<text>omnes</text>
+				<refs nrefs='2-116'></refs>
+			</w>
+			<w n='1-113'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-114'>
+				<text>dicit</text>
+				<refs nrefs='2-118'></refs>
+			</w>
+			<w n='1-115'>
+				<text>illi</text>
+				<refs nrefs='2-119'></refs>
+			</w>
+			<w n='1-116'>
+				<text>petrus</text>
+				<refs nrefs='2-120'></refs>
+			</w>
+			<w n='1-117'>
+				<text>non</text>
+				<refs nrefs='2-121'></refs>
+			</w>
+			<w n='1-118'>
+				<text>labas</text>
+				<refs nrefs='2-122'></refs>
+			</w>
+			<w n='1-119'>
+				<text>mihi</text>
+				<refs nrefs='2-123'></refs>
+			</w>
+			<w n='1-120'>
+				<text>pedes</text>
+				<refs nrefs='2-124'></refs>
+			</w>
+			<w n='1-121'>
+				<text>in</text>
+				<refs nrefs='2-125'></refs>
+			</w>
+			<w n='1-122'>
+				<text>eternum</text>
+				<refs nrefs='2-126'></refs>
+			</w>
+			<w n='1-123'>
+				<text>respondit</text>
+				<refs nrefs='2-127'></refs>
+			</w>
+			<w n='1-124'>
+				<text>iesus</text>
+				<refs nrefs='2-129'></refs>
+			</w>
+			<w n='1-125'>
+				<text>nisi</text>
+				<refs nrefs='2-130 2-131'></refs>
+			</w>
+			<w n='1-126'>
+				<text>labero</text>
+				<refs nrefs='2-132'></refs>
+			</w>
+			<w n='1-127'>
+				<text>tibi</text>
+				<refs nrefs='2-133'></refs>
+			</w>
+			<w n='1-128'>
+				<text>pedes</text>
+				<refs nrefs='2-133'></refs>
+			</w>
+			<w n='1-129'>
+				<text>non</text>
+				<refs nrefs='2-134'></refs>
+			</w>
+			<w n='1-130'>
+				<text>habebis</text>
+				<refs nrefs='2-135'></refs>
+			</w>
+			<w n='1-131'>
+				<text>partem</text>
+				<refs nrefs='2-136'></refs>
+			</w>
+			<w n='1-132'>
+				<text>mecum</text>
+				<refs nrefs='2-137'></refs>
+			</w>
+			<w n='1-133'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-134'>
+				<text>et</text>
+				<refs nrefs='2-139'></refs>
+			</w>
+			<w n='1-135'>
+				<text>cena</text>
+				<refs nrefs='2-140'></refs>
+			</w>
+			<w n='1-136'>
+				<text>facta</text>
+				<refs nrefs='2-141'></refs>
+			</w>
+			<w n='1-137'>
+				<text>est</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-138'>
+				<text>cum</text>
+				<refs nrefs='2-142'></refs>
+			</w>
+			<w n='1-139'>
+				<text>diabolus</text>
+				<refs nrefs='2-143'></refs>
+			</w>
+			<w n='1-140'>
+				<text>iam</text>
+				<refs nrefs='2-144'></refs>
+			</w>
+			<w n='1-141'>
+				<text>se</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-142'>
+				<text>misisset</text>
+				<refs nrefs='2-145'></refs>
+			</w>
+			<w n='1-143'>
+				<text>in</text>
+				<refs nrefs='2-146'></refs>
+			</w>
+			<w n='1-144'>
+				<text>cor</text>
+				<refs nrefs='2-147'></refs>
+			</w>
+			<w n='1-145'>
+				<text>iude</text>
+				<refs nrefs='2-153'></refs>
+			</w>
+			<w n='1-146'>
+				<text>simon</text>
+				<refs nrefs='2-148'></refs>
+			</w>
+			<w n='1-147'>
+				<text>a</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-148'>
+				<text>cariotha</text>
+				<refs nrefs='2-149'></refs>
+			</w>
+			<w n='1-149'>
+				<text>ut</text>
+				<refs nrefs='2-150'></refs>
+			</w>
+			<w n='1-150'>
+				<text>eum</text>
+				<refs nrefs='2-152'></refs>
+			</w>
+			<w n='1-151'>
+				<text>traderet</text>
+				<refs nrefs='2-151'></refs>
+			</w>
+			<w n='1-152'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-153'>
+				<text>et</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-154'>
+				<text>fuit</text>
+				<refs nrefs='2-155'></refs>
+			</w>
+			<w n='1-155'>
+				<text>recumbens</text>
+				<refs nrefs='2-157'></refs>
+			</w>
+			<w n='1-156'>
+				<text>in</text>
+				<refs nrefs='2-162'></refs>
+			</w>
+			<w n='1-157'>
+				<text>sinu</text>
+				<refs nrefs='2-163'></refs>
+			</w>
+			<w n='1-158'>
+				<text>iesum</text>
+				<refs nrefs='2-164'></refs>
+			</w>
+			<w n='1-159'>
+				<text>unus</text>
+				<refs nrefs='2-158'></refs>
+			</w>
+			<w n='1-160'>
+				<text>ex</text>
+				<refs nrefs='2-159'></refs>
+			</w>
+			<w n='1-161'>
+				<text>discipulis</text>
+				<refs nrefs='2-160'></refs>
+			</w>
+			<w n='1-162'>
+				<text>eius</text>
+				<refs nrefs='2-161'></refs>
+			</w>
+			<w n='1-163'>
+				<text>quem</text>
+				<refs nrefs='2-165'></refs>
+			</w>
+			<w n='1-164'>
+				<text>amabat</text>
+				<refs nrefs='2-166'></refs>
+			</w>
+			<w n='1-165'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-166'>
+				<text>non</text>
+				<refs nrefs='2-170'></refs>
+			</w>
+			<w n='1-167'>
+				<text>de</text>
+				<refs nrefs='2-171'></refs>
+			</w>
+			<w n='1-168'>
+				<text>omnibus</text>
+				<refs nrefs='2-172'></refs>
+			</w>
+			<w n='1-169'>
+				<text>uobis</text>
+				<refs nrefs='2-173'></refs>
+			</w>
+			<w n='1-170'>
+				<text>dico</text>
+				<refs nrefs='2-174'></refs>
+			</w>
+			<w n='1-171'>
+				<text>ego</text>
+				<refs nrefs='2-175'></refs>
+			</w>
+			<w n='1-172'>
+				<text>scio</text>
+				<refs nrefs='2-176'></refs>
+			</w>
+			<w n='1-173'>
+				<text>quos</text>
+				<refs nrefs='2-177'></refs>
+			</w>
+			<w n='1-174'>
+				<text>elegi</text>
+				<refs nrefs='2-178'></refs>
+			</w>
+			<w n='1-175'>
+				<text>sed</text>
+				<refs nrefs='2-179'></refs>
+			</w>
+			<w n='1-176'>
+				<text>ut</text>
+				<refs nrefs='2-180'></refs>
+			</w>
+			<w n='1-177'>
+				<text>scriptura</text>
+				<refs nrefs='2-182'></refs>
+			</w>
+			<w n='1-178'>
+				<text>adimpleatur</text>
+				<refs nrefs='2-181'></refs>
+			</w>
+			<w n='1-179'>
+				<text>qui</text>
+				<refs nrefs='2-183'></refs>
+			</w>
+			<w n='1-180'>
+				<text>manducat</text>
+				<refs nrefs='2-184'></refs>
+			</w>
+			<w n='1-181'>
+				<text>panem</text>
+				<refs nrefs='2-186'></refs>
+			</w>
+			<w n='1-182'>
+				<text>mecum</text>
+				<refs nrefs='2-185'></refs>
+			</w>
+			<w n='1-183'>
+				<text>adampliauit</text>
+				<refs nrefs='2-187'></refs>
+			</w>
+			<w n='1-184'>
+				<text>super</text>
+				<refs nrefs='2-188'></refs>
+			</w>
+			<w n='1-185'>
+				<text>me</text>
+				<refs nrefs='2-189'></refs>
+			</w>
+			<w n='1-186'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-187'>
+				<text>ut</text>
+				<refs nrefs='2-193'></refs>
+			</w>
+			<w n='1-188'>
+				<text>ergo</text>
+				<refs nrefs='2-194'></refs>
+			</w>
+			<w n='1-189'>
+				<text>recessit</text>
+				<refs nrefs='2-195'></refs>
+			</w>
+			<w n='1-190'>
+				<text>ait</text>
+				<refs nrefs='2-196'></refs>
+			</w>
+			<w n='1-191'>
+				<text>iesus</text>
+				<refs nrefs='2-197'></refs>
+			</w>
+			<w n='1-192'>
+				<text>nunc</text>
+				<refs nrefs='2-198'></refs>
+			</w>
+			<w n='1-193'>
+				<text>glorificatus</text>
+				<refs nrefs='2-199'></refs>
+			</w>
+			<w n='1-194'>
+				<text>est</text>
+				<refs nrefs='2-200'></refs>
+			</w>
+			<w n='1-195'>
+				<text>fius</text>
+				<refs nrefs='2-201'></refs>
+			</w>
+			<w n='1-196'>
+				<text>hominis</text>
+				<refs nrefs='2-202'></refs>
+			</w>
+			<w n='1-197'>
+				<text>et</text>
+				<refs nrefs='2-203'></refs>
+			</w>
+			<w n='1-198'>
+				<text>deus</text>
+				<refs nrefs='2-204'></refs>
+			</w>
+			<w n='1-199'>
+				<text>glorificatus</text>
+				<refs nrefs='2-205'></refs>
+			</w>
+			<w n='1-200'>
+				<text>est</text>
+				<refs nrefs='2-206'></refs>
+			</w>
+			<w n='1-201'>
+				<text>in</text>
+				<refs nrefs='2-207'></refs>
+			</w>
+			<w n='1-202'>
+				<text>eo</text>
+				<refs nrefs='2-208'></refs>
+			</w>
+			<w n='1-203'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-204'>
+				<text>respondit</text>
+				<refs nrefs='2-210'></refs>
+			</w>
+			<w n='1-205'>
+				<text>illi</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-206'>
+				<text>iesus</text>
+				<refs nrefs='2-211'></refs>
+			</w>
+			<w n='1-207'>
+				<text>cui</text>
+				<refs nrefs='2-214'></refs>
+			</w>
+			<w n='1-208'>
+				<text>intingens</text>
+				<refs nrefs='2-216'></refs>
+			</w>
+			<w n='1-209'>
+				<text>panem</text>
+				<refs nrefs='2-217'></refs>
+			</w>
+			<w n='1-210'>
+				<text>dedero</text>
+				<refs nrefs='2-218'></refs>
+			</w>
+			<w n='1-211'>
+				<text>ipse</text>
+				<refs nrefs='2-212'></refs>
+			</w>
+			<w n='1-212'>
+				<text>est</text>
+				<refs nrefs='2-213'></refs>
+			</w>
+			<w n='1-213'>
+				<text>et</text>
+				<refs nrefs='2-219'></refs>
+			</w>
+			<w n='1-214'>
+				<text>intingens</text>
+				<refs nrefs='2-221'></refs>
+			</w>
+			<w n='1-215'>
+				<text>panem</text>
+				<refs nrefs='2-222'></refs>
+			</w>
+			<w n='1-216'>
+				<text>dedit</text>
+				<refs nrefs='2-223'></refs>
+			</w>
+			<w n='1-217'>
+				<text>iude</text>
+				<refs nrefs='2-224'></refs>
+			</w>
+			<w n='1-218'>
+				<text>scarioth</text>
+				<refs nrefs='2-226'></refs>
+			</w>
+			<w n='1-219'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-220'>
+				<text>in</text>
+				<refs nrefs='2-228'></refs>
+			</w>
+			<w n='1-221'>
+				<text>hoc</text>
+				<refs nrefs='2-229'></refs>
+			</w>
+			<w n='1-222'>
+				<text>cognoscent</text>
+				<refs nrefs='2-230'></refs>
+			</w>
+			<w n='1-223'>
+				<text>omnes</text>
+				<refs nrefs='2-231'></refs>
+			</w>
+			<w n='1-224'>
+				<text>quod</text>
+				<refs nrefs='2-232'></refs>
+			</w>
+			<w n='1-225'>
+				<text>discipuli</text>
+				<refs nrefs='2-234'></refs>
+			</w>
+			<w n='1-226'>
+				<text>mei</text>
+				<refs nrefs='2-233'></refs>
+			</w>
+			<w n='1-227'>
+				<text>sitis</text>
+				<refs nrefs='2-235'></refs>
+			</w>
+			<w n='1-228'>
+				<text>si</text>
+				<refs nrefs='2-236'></refs>
+			</w>
+			<w n='1-229'>
+				<text>dilectionem</text>
+				<refs nrefs='2-237'></refs>
+			</w>
+			<w n='1-230'>
+				<text>habeatis</text>
+				<refs nrefs='2-238'></refs>
+			</w>
+			<w n='1-231'>
+				<text>inuicem</text>
+				<refs nrefs='2-240'></refs>
+			</w>
+			<w n='1-232'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-233'>
+				<text>hec</text>
+				<refs nrefs='2-242'></refs>
+			</w>
+			<w n='1-234'>
+				<text>cum</text>
+				<refs nrefs='2-243'></refs>
+			</w>
+			<w n='1-235'>
+				<text>dixisset</text>
+				<refs nrefs='2-244'></refs>
+			</w>
+			<w n='1-236'>
+				<text>iesus</text>
+				<refs nrefs='2-245'></refs>
+			</w>
+			<w n='1-237'>
+				<text>turbatus</text>
+				<refs nrefs='2-246'></refs>
+			</w>
+			<w n='1-238'>
+				<text>est</text>
+				<refs nrefs='2-247'></refs>
+			</w>
+			<w n='1-239'>
+				<text>spiritu</text>
+				<refs nrefs='2-249'></refs>
+			</w>
+			<w n='1-240'>
+				<text>et</text>
+				<refs nrefs='2-250'></refs>
+			</w>
+			<w n='1-241'>
+				<text>testimonium</text>
+				<refs nrefs='2-251 2-252'></refs>
+			</w>
+			<w n='1-242'>
+				<text>dixit</text>
+				<refs nrefs='2-251 2-252'></refs>
+			</w>
+			<w n='1-243'>
+				<text>et</text>
+				<refs nrefs='2-253'></refs>
+			</w>
+			<w n='1-244'>
+				<text>ait</text>
+				<refs nrefs='2-254'></refs>
+			</w>
+			<w n='1-245'>
+				<text>amen</text>
+				<refs nrefs='2-255'></refs>
+			</w>
+			<w n='1-246'>
+				<text>amem</text>
+				<refs nrefs='2-256'></refs>
+			</w>
+			<w n='1-247'>
+				<text>dico</text>
+				<refs nrefs='2-257'></refs>
+			</w>
+			<w n='1-248'>
+				<text>uobis</text>
+				<refs nrefs='2-258'></refs>
+			</w>
+			<w n='1-249'>
+				<text>quia</text>
+				<refs nrefs='2-259'></refs>
+			</w>
+			<w n='1-250'>
+				<text>unus</text>
+				<refs nrefs='2-260'></refs>
+			</w>
+			<w n='1-251'>
+				<text>ex</text>
+				<refs nrefs='2-261'></refs>
+			</w>
+			<w n='1-252'>
+				<text>uobis</text>
+				<refs nrefs='2-262'></refs>
+			</w>
+			<w n='1-253'>
+				<text>tradet</text>
+				<refs nrefs='2-263'></refs>
+			</w>
+			<w n='1-254'>
+				<text>me</text>
+				<refs nrefs='2-264'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>amodo</text>
+				<refs nrefs='1-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>dico</text>
+				<refs nrefs='1-2'></refs>
+			</w>
+			<w n='2-3'>
+				<text>uobis</text>
+				<refs nrefs='1-3'></refs>
+			</w>
+			<w n='2-4'>
+				<text>prius</text>
+				<refs nrefs='1-4'></refs>
+			</w>
+			<w n='2-5'>
+				<text>quam</text>
+				<refs nrefs='1-4'></refs>
+			</w>
+			<w n='2-6'>
+				<text>fiat</text>
+				<refs nrefs='1-5'></refs>
+			</w>
+			<w n='2-7'>
+				<text>ut</text>
+				<refs nrefs='1-6'></refs>
+			</w>
+			<w n='2-8'>
+				<text>credatis</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-9'>
+				<text>cum</text>
+				<refs nrefs='1-8'></refs>
+			</w>
+			<w n='2-10'>
+				<text>factum</text>
+				<refs nrefs='1-9'></refs>
+			</w>
+			<w n='2-11'>
+				<text>fuerit</text>
+				<refs nrefs='1-10'></refs>
+			</w>
+			<w n='2-12'>
+				<text>quia</text>
+				<refs nrefs='1-11'></refs>
+			</w>
+			<w n='2-13'>
+				<text>ego</text>
+				<refs nrefs='1-12'></refs>
+			</w>
+			<w n='2-14'>
+				<text>sum</text>
+				<refs nrefs='1-13'></refs>
+			</w>
+			<w n='2-15'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-16'>
+				<text>hoc</text>
+				<refs nrefs='1-15'></refs>
+			</w>
+			<w n='2-17'>
+				<text>autem</text>
+				<refs nrefs='1-16'></refs>
+			</w>
+			<w n='2-18'>
+				<text>nemo</text>
+				<refs nrefs='1-18'></refs>
+			</w>
+			<w n='2-19'>
+				<text>discumbentium</text>
+				<refs nrefs='1-17'></refs>
+			</w>
+			<w n='2-20'>
+				<text>sciuit</text>
+				<refs nrefs='1-19 1-20'></refs>
+			</w>
+			<w n='2-21'>
+				<text>quid</text>
+				<refs nrefs='1-21'></refs>
+			</w>
+			<w n='2-22'>
+				<text>dixerit</text>
+				<refs nrefs='1-23'></refs>
+			</w>
+			<w n='2-23'>
+				<text>ei</text>
+				<refs nrefs='1-22'></refs>
+			</w>
+			<w n='2-24'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-25'>
+				<text>quidam</text>
+				<refs nrefs='1-25'></refs>
+			</w>
+			<w n='2-26'>
+				<text>enim</text>
+				<refs nrefs='1-26'></refs>
+			</w>
+			<w n='2-27'>
+				<text>putabant</text>
+				<refs nrefs='1-27'></refs>
+			</w>
+			<w n='2-28'>
+				<text>quia</text>
+				<refs nrefs='1-28'></refs>
+			</w>
+			<w n='2-29'>
+				<text>loculus</text>
+				<refs nrefs='1-29'></refs>
+			</w>
+			<w n='2-30'>
+				<text>habebat</text>
+				<refs nrefs='1-31'></refs>
+			</w>
+			<w n='2-31'>
+				<text>iudas</text>
+				<refs nrefs='1-30'></refs>
+			</w>
+			<w n='2-32'>
+				<text>quia</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-33'>
+				<text>dicit</text>
+				<refs nrefs='1-33'></refs>
+			</w>
+			<w n='2-34'>
+				<text>illi</text>
+				<refs nrefs='1-34'></refs>
+			</w>
+			<w n='2-35'>
+				<text>iesus</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-36'>
+				<text>eme</text>
+				<refs nrefs='1-35'></refs>
+			</w>
+			<w n='2-37'>
+				<text>ea</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-38'>
+				<text>que</text>
+				<refs nrefs='1-36'></refs>
+			</w>
+			<w n='2-39'>
+				<text>opus</text>
+				<refs nrefs='1-37 1-38'></refs>
+			</w>
+			<w n='2-40'>
+				<text>sum</text>
+				<refs nrefs='1-37 1-38'></refs>
+			</w>
+			<w n='2-41'>
+				<text>nobis</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-42'>
+				<text>ad</text>
+				<refs nrefs='1-39'></refs>
+			</w>
+			<w n='2-43'>
+				<text>diem</text>
+				<refs nrefs='1-40'></refs>
+			</w>
+			<w n='2-44'>
+				<text>festum</text>
+				<refs nrefs='1-41'></refs>
+			</w>
+			<w n='2-45'>
+				<text>aut</text>
+				<refs nrefs='1-42'></refs>
+			</w>
+			<w n='2-46'>
+				<text>egenis</text>
+				<refs nrefs='1-43'></refs>
+			</w>
+			<w n='2-47'>
+				<text>ut</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-48'>
+				<text>aliquid</text>
+				<refs nrefs='1-44'></refs>
+			</w>
+			<w n='2-49'>
+				<text>daret</text>
+				<refs nrefs='1-45'></refs>
+			</w>
+			<w n='2-50'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-51'>
+				<text>recumbens</text>
+				<refs nrefs='1-47'></refs>
+			</w>
+			<w n='2-52'>
+				<text>autem</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-53'>
+				<text>ille</text>
+				<refs nrefs='1-48'></refs>
+			</w>
+			<w n='2-54'>
+				<text>super</text>
+				<refs nrefs='1-49'></refs>
+			</w>
+			<w n='2-55'>
+				<text>pectus</text>
+				<refs nrefs='1-50'></refs>
+			</w>
+			<w n='2-56'>
+				<text>iesu</text>
+				<refs nrefs='1-51'></refs>
+			</w>
+			<w n='2-57'>
+				<text>dicit</text>
+				<refs nrefs='1-52'></refs>
+			</w>
+			<w n='2-58'>
+				<text>ei</text>
+				<refs nrefs='1-53'></refs>
+			</w>
+			<w n='2-59'>
+				<text>domine</text>
+				<refs nrefs='1-54'></refs>
+			</w>
+			<w n='2-60'>
+				<text>quis</text>
+				<refs nrefs='1-55'></refs>
+			</w>
+			<w n='2-61'>
+				<text>est</text>
+				<refs nrefs='1-56'></refs>
+			</w>
+			<w n='2-62'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-63'>
+				<text>et</text>
+				<refs nrefs='1-58'></refs>
+			</w>
+			<w n='2-64'>
+				<text>post</text>
+				<refs nrefs='1-59'></refs>
+			</w>
+			<w n='2-65'>
+				<text>bucellam</text>
+				<refs nrefs='1-59'></refs>
+			</w>
+			<w n='2-66'>
+				<text>introiuit</text>
+				<refs nrefs='1-60'></refs>
+			</w>
+			<w n='2-67'>
+				<text>in</text>
+				<refs nrefs='1-61'></refs>
+			</w>
+			<w n='2-68'>
+				<text>illum</text>
+				<refs nrefs='1-62'></refs>
+			</w>
+			<w n='2-69'>
+				<text>satanas</text>
+				<refs nrefs='1-63'></refs>
+			</w>
+			<w n='2-70'>
+				<text>dicit</text>
+				<refs nrefs='1-65'></refs>
+			</w>
+			<w n='2-71'>
+				<text>ergo</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-72'>
+				<text>ei</text>
+				<refs nrefs='1-66'></refs>
+			</w>
+			<w n='2-73'>
+				<text>iesus</text>
+				<refs nrefs='1-67'></refs>
+			</w>
+			<w n='2-74'>
+				<text>quod</text>
+				<refs nrefs='1-68'></refs>
+			</w>
+			<w n='2-75'>
+				<text>facis</text>
+				<refs nrefs='1-69'></refs>
+			</w>
+			<w n='2-76'>
+				<text>fac</text>
+				<refs nrefs='1-71'></refs>
+			</w>
+			<w n='2-77'>
+				<text>celerius</text>
+				<refs nrefs='1-70'></refs>
+			</w>
+			<w n='2-78'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-79'>
+				<text>dicit</text>
+				<refs nrefs='1-73'></refs>
+			</w>
+			<w n='2-80'>
+				<text>ei</text>
+				<refs nrefs='1-74'></refs>
+			</w>
+			<w n='2-81'>
+				<text>simon</text>
+				<refs nrefs='1-75'></refs>
+			</w>
+			<w n='2-82'>
+				<text>petrus</text>
+				<refs nrefs='1-76'></refs>
+			</w>
+			<w n='2-83'>
+				<text>domine</text>
+				<refs nrefs='1-77'></refs>
+			</w>
+			<w n='2-84'>
+				<text>quo</text>
+				<refs nrefs='1-78'></refs>
+			</w>
+			<w n='2-85'>
+				<text>uadis</text>
+				<refs nrefs='1-79'></refs>
+			</w>
+			<w n='2-86'>
+				<text>respondit</text>
+				<refs nrefs='1-80'></refs>
+			</w>
+			<w n='2-87'>
+				<text>iesus</text>
+				<refs nrefs='1-81'></refs>
+			</w>
+			<w n='2-88'>
+				<text>et</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-89'>
+				<text>dixit</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-90'>
+				<text>quo</text>
+				<refs nrefs='1-82'></refs>
+			</w>
+			<w n='2-91'>
+				<text>ego</text>
+				<refs nrefs='1-83'></refs>
+			</w>
+			<w n='2-92'>
+				<text>uado</text>
+				<refs nrefs='1-88'></refs>
+			</w>
+			<w n='2-93'>
+				<text>non</text>
+				<refs nrefs='1-86'></refs>
+			</w>
+			<w n='2-94'>
+				<text>potest</text>
+				<refs nrefs='1-87'></refs>
+			</w>
+			<w n='2-95'>
+				<text>me</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-96'>
+				<text>modo</text>
+				<refs nrefs='1-89'></refs>
+			</w>
+			<w n='2-97'>
+				<text>sequi</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-98'>
+				<text>sequeris</text>
+				<refs nrefs='1-90'></refs>
+			</w>
+			<w n='2-99'>
+				<text>autem</text>
+				<refs nrefs='1-91'></refs>
+			</w>
+			<w n='2-100'>
+				<text>postea</text>
+				<refs nrefs='1-92'></refs>
+			</w>
+			<w n='2-101'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-102'>
+				<text>sciebat</text>
+				<refs nrefs='1-94'></refs>
+			</w>
+			<w n='2-103'>
+				<text>enim</text>
+				<refs nrefs='1-95'></refs>
+			</w>
+			<w n='2-104'>
+				<text>quidnam</text>
+				<refs nrefs='1-98'></refs>
+			</w>
+			<w n='2-105'>
+				<text>esset</text>
+				<refs nrefs='1-99'></refs>
+			</w>
+			<w n='2-106'>
+				<text>qui</text>
+				<refs nrefs='1-100'></refs>
+			</w>
+			<w n='2-107'>
+				<text>traditurus</text>
+				<refs nrefs='1-102'></refs>
+			</w>
+			<w n='2-108'>
+				<text>erat</text>
+				<refs nrefs='1-103'></refs>
+			</w>
+			<w n='2-109'>
+				<text>eum</text>
+				<refs nrefs='1-101'></refs>
+			</w>
+			<w n='2-110'>
+				<text>propterea</text>
+				<refs nrefs='1-104'></refs>
+			</w>
+			<w n='2-111'>
+				<text>dixit</text>
+				<refs nrefs='1-105'></refs>
+			</w>
+			<w n='2-112'>
+				<text>quia</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-113'>
+				<text>non</text>
+				<refs nrefs='1-111'></refs>
+			</w>
+			<w n='2-114'>
+				<text>estis</text>
+				<refs nrefs='1-109'></refs>
+			</w>
+			<w n='2-115'>
+				<text>mundi</text>
+				<refs nrefs='1-108'></refs>
+			</w>
+			<w n='2-116'>
+				<text>omnes</text>
+				<refs nrefs='1-112'></refs>
+			</w>
+			<w n='2-117'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-118'>
+				<text>dicit</text>
+				<refs nrefs='1-114'></refs>
+			</w>
+			<w n='2-119'>
+				<text>ei</text>
+				<refs nrefs='1-115'></refs>
+			</w>
+			<w n='2-120'>
+				<text>petrus</text>
+				<refs nrefs='1-116'></refs>
+			</w>
+			<w n='2-121'>
+				<text>non</text>
+				<refs nrefs='1-117'></refs>
+			</w>
+			<w n='2-122'>
+				<text>lauabis</text>
+				<refs nrefs='1-118'></refs>
+			</w>
+			<w n='2-123'>
+				<text>mihi</text>
+				<refs nrefs='1-119'></refs>
+			</w>
+			<w n='2-124'>
+				<text>pedes</text>
+				<refs nrefs='1-120'></refs>
+			</w>
+			<w n='2-125'>
+				<text>in</text>
+				<refs nrefs='1-121'></refs>
+			</w>
+			<w n='2-126'>
+				<text>eternum</text>
+				<refs nrefs='1-122'></refs>
+			</w>
+			<w n='2-127'>
+				<text>respondit</text>
+				<refs nrefs='1-123'></refs>
+			</w>
+			<w n='2-128'>
+				<text>illi</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-129'>
+				<text>iesus</text>
+				<refs nrefs='1-124'></refs>
+			</w>
+			<w n='2-130'>
+				<text>si</text>
+				<refs nrefs='1-125'></refs>
+			</w>
+			<w n='2-131'>
+				<text>non</text>
+				<refs nrefs='1-125'></refs>
+			</w>
+			<w n='2-132'>
+				<text>lauero</text>
+				<refs nrefs='1-126'></refs>
+			</w>
+			<w n='2-133'>
+				<text>te</text>
+				<refs nrefs='1-127 1-128'></refs>
+			</w>
+			<w n='2-134'>
+				<text>non</text>
+				<refs nrefs='1-129'></refs>
+			</w>
+			<w n='2-135'>
+				<text>habebis</text>
+				<refs nrefs='1-130'></refs>
+			</w>
+			<w n='2-136'>
+				<text>partem</text>
+				<refs nrefs='1-131'></refs>
+			</w>
+			<w n='2-137'>
+				<text>mecum</text>
+				<refs nrefs='1-132'></refs>
+			</w>
+			<w n='2-138'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-139'>
+				<text>et</text>
+				<refs nrefs='1-134'></refs>
+			</w>
+			<w n='2-140'>
+				<text>cena</text>
+				<refs nrefs='1-135'></refs>
+			</w>
+			<w n='2-141'>
+				<text>facta</text>
+				<refs nrefs='1-136'></refs>
+			</w>
+			<w n='2-142'>
+				<text>cum</text>
+				<refs nrefs='1-138'></refs>
+			</w>
+			<w n='2-143'>
+				<text>diabolus</text>
+				<refs nrefs='1-139'></refs>
+			</w>
+			<w n='2-144'>
+				<text>iam</text>
+				<refs nrefs='1-140'></refs>
+			</w>
+			<w n='2-145'>
+				<text>misitset</text>
+				<refs nrefs='1-142'></refs>
+			</w>
+			<w n='2-146'>
+				<text>in</text>
+				<refs nrefs='1-143'></refs>
+			</w>
+			<w n='2-147'>
+				<text>cor</text>
+				<refs nrefs='1-144'></refs>
+			</w>
+			<w n='2-148'>
+				<text>simonis</text>
+				<refs nrefs='1-146'></refs>
+			</w>
+			<w n='2-149'>
+				<text>scarioht</text>
+				<refs nrefs='1-148'></refs>
+			</w>
+			<w n='2-150'>
+				<text>ut</text>
+				<refs nrefs='1-149'></refs>
+			</w>
+			<w n='2-151'>
+				<text>traderet</text>
+				<refs nrefs='1-151'></refs>
+			</w>
+			<w n='2-152'>
+				<text>eum</text>
+				<refs nrefs='1-150'></refs>
+			</w>
+			<w n='2-153'>
+				<text>iudas</text>
+				<refs nrefs='1-145'></refs>
+			</w>
+			<w n='2-154'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-155'>
+				<text>erat</text>
+				<refs nrefs='1-154'></refs>
+			</w>
+			<w n='2-156'>
+				<text>autem</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-157'>
+				<text>recumbens</text>
+				<refs nrefs='1-155'></refs>
+			</w>
+			<w n='2-158'>
+				<text>unus</text>
+				<refs nrefs='1-159'></refs>
+			</w>
+			<w n='2-159'>
+				<text>ex</text>
+				<refs nrefs='1-160'></refs>
+			</w>
+			<w n='2-160'>
+				<text>discipulis</text>
+				<refs nrefs='1-161'></refs>
+			</w>
+			<w n='2-161'>
+				<text>eius</text>
+				<refs nrefs='1-162'></refs>
+			</w>
+			<w n='2-162'>
+				<text>in</text>
+				<refs nrefs='1-156'></refs>
+			</w>
+			<w n='2-163'>
+				<text>sinu</text>
+				<refs nrefs='1-157'></refs>
+			</w>
+			<w n='2-164'>
+				<text>iesu</text>
+				<refs nrefs='1-158'></refs>
+			</w>
+			<w n='2-165'>
+				<text>quem</text>
+				<refs nrefs='1-163'></refs>
+			</w>
+			<w n='2-166'>
+				<text>diligebat</text>
+				<refs nrefs='1-164'></refs>
+			</w>
+			<w n='2-167'>
+				<text>iesus</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-168'>
+				<text>ualde</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-169'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-170'>
+				<text>non</text>
+				<refs nrefs='1-166'></refs>
+			</w>
+			<w n='2-171'>
+				<text>de</text>
+				<refs nrefs='1-167'></refs>
+			</w>
+			<w n='2-172'>
+				<text>omnibus</text>
+				<refs nrefs='1-168'></refs>
+			</w>
+			<w n='2-173'>
+				<text>uobis</text>
+				<refs nrefs='1-169'></refs>
+			</w>
+			<w n='2-174'>
+				<text>dico</text>
+				<refs nrefs='1-170'></refs>
+			</w>
+			<w n='2-175'>
+				<text>ego</text>
+				<refs nrefs='1-171'></refs>
+			</w>
+			<w n='2-176'>
+				<text>scio</text>
+				<refs nrefs='1-172'></refs>
+			</w>
+			<w n='2-177'>
+				<text>quos</text>
+				<refs nrefs='1-173'></refs>
+			</w>
+			<w n='2-178'>
+				<text>elegerim</text>
+				<refs nrefs='1-174'></refs>
+			</w>
+			<w n='2-179'>
+				<text>sed</text>
+				<refs nrefs='1-175'></refs>
+			</w>
+			<w n='2-180'>
+				<text>ut</text>
+				<refs nrefs='1-176'></refs>
+			</w>
+			<w n='2-181'>
+				<text>inpleatur</text>
+				<refs nrefs='1-178'></refs>
+			</w>
+			<w n='2-182'>
+				<text>scriptura</text>
+				<refs nrefs='1-177'></refs>
+			</w>
+			<w n='2-183'>
+				<text>qui</text>
+				<refs nrefs='1-179'></refs>
+			</w>
+			<w n='2-184'>
+				<text>manducat</text>
+				<refs nrefs='1-180'></refs>
+			</w>
+			<w n='2-185'>
+				<text>mecum</text>
+				<refs nrefs='1-182'></refs>
+			</w>
+			<w n='2-186'>
+				<text>panem</text>
+				<refs nrefs='1-181'></refs>
+			</w>
+			<w n='2-187'>
+				<text>leuauit</text>
+				<refs nrefs='1-183'></refs>
+			</w>
+			<w n='2-188'>
+				<text>super</text>
+				<refs nrefs='1-184'></refs>
+			</w>
+			<w n='2-189'>
+				<text>me</text>
+				<refs nrefs='1-185'></refs>
+			</w>
+			<w n='2-190'>
+				<text>calcaneum</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-191'>
+				<text>suum</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-192'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-193'>
+				<text>cum</text>
+				<refs nrefs='1-187'></refs>
+			</w>
+			<w n='2-194'>
+				<text>ergo</text>
+				<refs nrefs='1-188'></refs>
+			</w>
+			<w n='2-195'>
+				<text>exisset</text>
+				<refs nrefs='1-189'></refs>
+			</w>
+			<w n='2-196'>
+				<text>dicit</text>
+				<refs nrefs='1-190'></refs>
+			</w>
+			<w n='2-197'>
+				<text>iesus</text>
+				<refs nrefs='1-191'></refs>
+			</w>
+			<w n='2-198'>
+				<text>nunc</text>
+				<refs nrefs='1-192'></refs>
+			</w>
+			<w n='2-199'>
+				<text>clarificatus</text>
+				<refs nrefs='1-193'></refs>
+			</w>
+			<w n='2-200'>
+				<text>est</text>
+				<refs nrefs='1-194'></refs>
+			</w>
+			<w n='2-201'>
+				<text>filius</text>
+				<refs nrefs='1-195'></refs>
+			</w>
+			<w n='2-202'>
+				<text>hominis</text>
+				<refs nrefs='1-196'></refs>
+			</w>
+			<w n='2-203'>
+				<text>et</text>
+				<refs nrefs='1-197'></refs>
+			</w>
+			<w n='2-204'>
+				<text>deus</text>
+				<refs nrefs='1-198'></refs>
+			</w>
+			<w n='2-205'>
+				<text>clarificatus</text>
+				<refs nrefs='1-199'></refs>
+			</w>
+			<w n='2-206'>
+				<text>est</text>
+				<refs nrefs='1-200'></refs>
+			</w>
+			<w n='2-207'>
+				<text>in</text>
+				<refs nrefs='1-201'></refs>
+			</w>
+			<w n='2-208'>
+				<text>eo</text>
+				<refs nrefs='1-202'></refs>
+			</w>
+			<w n='2-209'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-210'>
+				<text>respondit</text>
+				<refs nrefs='1-204'></refs>
+			</w>
+			<w n='2-211'>
+				<text>iesus</text>
+				<refs nrefs='1-206'></refs>
+			</w>
+			<w n='2-212'>
+				<text>ille</text>
+				<refs nrefs='1-211'></refs>
+			</w>
+			<w n='2-213'>
+				<text>est</text>
+				<refs nrefs='1-212'></refs>
+			</w>
+			<w n='2-214'>
+				<text>cui</text>
+				<refs nrefs='1-207'></refs>
+			</w>
+			<w n='2-215'>
+				<text>ego</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-216'>
+				<text>intinctum</text>
+				<refs nrefs='1-208'></refs>
+			</w>
+			<w n='2-217'>
+				<text>panem</text>
+				<refs nrefs='1-209'></refs>
+			</w>
+			<w n='2-218'>
+				<text>porexero</text>
+				<refs nrefs='1-210'></refs>
+			</w>
+			<w n='2-219'>
+				<text>et</text>
+				<refs nrefs='1-213'></refs>
+			</w>
+			<w n='2-220'>
+				<text>cum</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-221'>
+				<text>intinxitset</text>
+				<refs nrefs='1-214'></refs>
+			</w>
+			<w n='2-222'>
+				<text>panem</text>
+				<refs nrefs='1-215'></refs>
+			</w>
+			<w n='2-223'>
+				<text>dedit</text>
+				<refs nrefs='1-216'></refs>
+			</w>
+			<w n='2-224'>
+				<text>iude</text>
+				<refs nrefs='1-217'></refs>
+			</w>
+			<w n='2-225'>
+				<text>simonis</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-226'>
+				<text>scarioth</text>
+				<refs nrefs='1-218'></refs>
+			</w>
+			<w n='2-227'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-228'>
+				<text>in</text>
+				<refs nrefs='1-220'></refs>
+			</w>
+			<w n='2-229'>
+				<text>hoc</text>
+				<refs nrefs='1-221'></refs>
+			</w>
+			<w n='2-230'>
+				<text>cognoscent</text>
+				<refs nrefs='1-222'></refs>
+			</w>
+			<w n='2-231'>
+				<text>omnes</text>
+				<refs nrefs='1-223'></refs>
+			</w>
+			<w n='2-232'>
+				<text>quia</text>
+				<refs nrefs='1-224'></refs>
+			</w>
+			<w n='2-233'>
+				<text>mei</text>
+				<refs nrefs='1-226'></refs>
+			</w>
+			<w n='2-234'>
+				<text>discipuli</text>
+				<refs nrefs='1-225'></refs>
+			</w>
+			<w n='2-235'>
+				<text>estis</text>
+				<refs nrefs='1-227'></refs>
+			</w>
+			<w n='2-236'>
+				<text>si</text>
+				<refs nrefs='1-228'></refs>
+			</w>
+			<w n='2-237'>
+				<text>dilectionem</text>
+				<refs nrefs='1-229'></refs>
+			</w>
+			<w n='2-238'>
+				<text>habueritis</text>
+				<refs nrefs='1-230'></refs>
+			</w>
+			<w n='2-239'>
+				<text>ad</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-240'>
+				<text>inuicem</text>
+				<refs nrefs='1-231'></refs>
+			</w>
+			<w n='2-241'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-242'>
+				<text>hec</text>
+				<refs nrefs='1-233'></refs>
+			</w>
+			<w n='2-243'>
+				<text>cum</text>
+				<refs nrefs='1-234'></refs>
+			</w>
+			<w n='2-244'>
+				<text>dixisset</text>
+				<refs nrefs='1-235'></refs>
+			</w>
+			<w n='2-245'>
+				<text>iesus</text>
+				<refs nrefs='1-236'></refs>
+			</w>
+			<w n='2-246'>
+				<text>turbatus</text>
+				<refs nrefs='1-237'></refs>
+			</w>
+			<w n='2-247'>
+				<text>est</text>
+				<refs nrefs='1-238'></refs>
+			</w>
+			<w n='2-248'>
+				<text>in</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-249'>
+				<text>spiritu</text>
+				<refs nrefs='1-239'></refs>
+			</w>
+			<w n='2-250'>
+				<text>et</text>
+				<refs nrefs='1-240'></refs>
+			</w>
+			<w n='2-251'>
+				<text>protestatus</text>
+				<refs nrefs='1-241 1-242'></refs>
+			</w>
+			<w n='2-252'>
+				<text>est</text>
+				<refs nrefs='1-241 1-242'></refs>
+			</w>
+			<w n='2-253'>
+				<text>et</text>
+				<refs nrefs='1-243'></refs>
+			</w>
+			<w n='2-254'>
+				<text>dixit</text>
+				<refs nrefs='1-244'></refs>
+			</w>
+			<w n='2-255'>
+				<text>amen</text>
+				<refs nrefs='1-245'></refs>
+			</w>
+			<w n='2-256'>
+				<text>amen</text>
+				<refs nrefs='1-246'></refs>
+			</w>
+			<w n='2-257'>
+				<text>dico</text>
+				<refs nrefs='1-247'></refs>
+			</w>
+			<w n='2-258'>
+				<text>uobis</text>
+				<refs nrefs='1-248'></refs>
+			</w>
+			<w n='2-259'>
+				<text>quia</text>
+				<refs nrefs='1-249'></refs>
+			</w>
+			<w n='2-260'>
+				<text>unus</text>
+				<refs nrefs='1-250'></refs>
+			</w>
+			<w n='2-261'>
+				<text>ex</text>
+				<refs nrefs='1-251'></refs>
+			</w>
+			<w n='2-262'>
+				<text>uobis</text>
+				<refs nrefs='1-252'></refs>
+			</w>
+			<w n='2-263'>
+				<text>tradet</text>
+				<refs nrefs='1-253'></refs>
+			</w>
+			<w n='2-264'>
+				<text>me</text>
+				<refs nrefs='1-254'></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

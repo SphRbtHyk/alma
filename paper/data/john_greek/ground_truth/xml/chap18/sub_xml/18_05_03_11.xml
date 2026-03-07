@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="11"><wds lnum="L1"><w n="1-198">
+				<text>παλιν</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-199">
+				<text>ουν</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-200">
+				<text>αυτους</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-201">
+				<text>επηρωτησεν</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-202">
+				<text>λεγων</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-203">
+				<text>τινα</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-204">
+				<text>ζητειτε</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-205">
+				<text>οι</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-206">
+				<text>δε</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-207">
+				<text>ειπον</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-208">
+				<text>παλιν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-209">
+				<text>ιην</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-210">
+				<text>τον</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-211">
+				<text>ναζωραιον</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-212">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-196">
+				<text>παλιν</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-197">
+				<text>ουν</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-198">
+				<text>επηρωτησεν</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-199">
+				<text>αυτους</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-200">
+				<text>τινα</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-201">
+				<text>ζητειτε</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-202">
+				<text>οι</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-203">
+				<text>δε</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-204">
+				<text>ειπον</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-205">
+				<text>ιν</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-206">
+				<text>τον</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-207">
+				<text>ναζωραιον</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-208">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

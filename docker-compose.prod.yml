@@ -1,0 +1,18 @@
+services:
+
+  # Single service: backend serves both the API and the compiled frontend.
+  # The frontend is built inside the Docker image (see web_app/Dockerfile.prod).
+  backend:
+    build:
+      context: .
+      dockerfile: web_app/Dockerfile.prod
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./stanza_models:/root/stanza_resources
+      - ./paper/models:/app/paper/models:ro
+      - hf_cache:/root/.cache/huggingface
+    restart: unless-stopped
+
+volumes:
+  hf_cache:

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-155">
+				<text>sed</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-156">
+				<text>et</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-157">
+				<text>in</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-158">
+				<text>lege</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-159">
+				<text>uestra</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-160">
+				<text>scriptum</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-161">
+				<text>est</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-162">
+				<text>quia</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-163">
+				<text>duum</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-164">
+				<text>hominum</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-165">
+				<text>testimonium</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-166">
+				<text>uerum</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-167">
+				<text>est</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-168">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-160">
+				<text>et</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-161">
+				<text>in</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-162">
+				<text>lege</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-163">
+				<text>uestra</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-164">
+				<text>scriptum</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-165">
+				<text>est</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-166">
+				<text>quia</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-167">
+				<text>duorum</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-168">
+				<text>testimonium</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-169">
+				<text>hominum</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-170">
+				<text>uerum</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-171">
+				<text>est</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-172">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

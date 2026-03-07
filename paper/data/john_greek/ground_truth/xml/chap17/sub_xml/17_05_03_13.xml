@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="13"><wds lnum="L1"><w n="1-226">
+				<text>και</text>
+				<refs nrefs="2-223" />
+			</w>
+			<w n="1-227">
+				<text>τα</text>
+				<refs nrefs="2-224" />
+			</w>
+			<w n="1-228">
+				<text>εμα</text>
+				<refs nrefs="2-225" />
+			</w>
+			<w n="1-229">
+				<text>παντα</text>
+				<refs nrefs="2-226" />
+			</w>
+			<w n="1-230">
+				<text>σα</text>
+				<refs nrefs="2-227" />
+			</w>
+			<w n="1-231">
+				<text>εστιν</text>
+				<refs nrefs="2-228" />
+			</w>
+			<w n="1-232">
+				<text>και</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-233">
+				<text>τα</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-234">
+				<text>σα</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-235">
+				<text>εμα</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-236">
+				<text>εστιν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-237">
+				<text>και</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-238">
+				<text>εδοξασμε</text>
+				<refs nrefs="2-234" />
+			</w>
+			<w n="1-239">
+				<text>εν</text>
+				<refs nrefs="2-235" />
+			</w>
+			<w n="1-240">
+				<text>αυτοις</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-241">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-223">
+				<text>και</text>
+				<refs nrefs="1-226" />
+			</w>
+			<w n="2-224">
+				<text>τα</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-225">
+				<text>εμα</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-226">
+				<text>παντα</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-227">
+				<text>σα</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-228">
+				<text>εστιν</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-229">
+				<text>και</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-230">
+				<text>τα</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-231">
+				<text>σα</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-232">
+				<text>εμα</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-233">
+				<text>και</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-234">
+				<text>δεδοξασμαι</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-235">
+				<text>εν</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-236">
+				<text>αυτοις</text>
+				<refs nrefs="1-240" />
+			</w>
+			<w n="2-237">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-189">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-190">
+				<text>prope</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-191">
+				<text>erat</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-192">
+				<text>pascha</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-193">
+				<text>iudeorum</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-194">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-195">
+				<text>ascenderunt</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-196">
+				<text>multi</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-197">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-198">
+				<text>hierosolymis</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-199">
+				<text>de</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-200">
+				<text>illa</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-201">
+				<text>regione</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-202">
+				<text>ante</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-203">
+				<text>pascha</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-204">
+				<text>ut</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-205">
+				<text>purificarent</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-206">
+				<text>se</text>
+				<refs nrefs="2-212" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-197">
+				<text>propterea</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-198">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-199">
+				<text>erat</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-200">
+				<text>pascha</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-201">
+				<text>iudeorum</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-202">
+				<text>ascenderunt</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-203">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-204">
+				<text>multin</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-205">
+				<text>iherosolimam</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-206">
+				<text>de</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-207">
+				<text>regione</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-208">
+				<text>ante</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-209">
+				<text>pascha</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-210">
+				<text>ut</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-211">
+				<text>sanctificaret</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-212">
+				<text>seipsos</text>
+				<refs nrefs="1-206" />
+			</w>
+		</wds></sentence></aligned-text>

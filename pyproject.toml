@@ -1,0 +1,49 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = [
+  "src/alma",
+  "src/monolingual_word_aligner"
+]
+
+[project]
+name = "alma"
+version = "1.0.0"
+requires-python = ">=3.9"
+description = "ALMA: an algorithm for automated alignment of ancient texts using linguistic and semantic analysis"
+readme = "README.md"
+license = "MIT"
+classifiers = [
+  "Development Status :: 4 - Beta",
+]
+dependencies = [
+  "pandas>=2.2.3",
+  "collatex>=2.3",
+  "levenshtein>=0.27.1",
+  "lxml>=5.3.2",
+  "rich>=14.0.0",
+  "nltk>=3.9.1",
+  "stanza==1.10.1",
+  "simalign>=0.4",
+  "loguru>=0.7.3",
+  "gdown>=5.2.0",
+  "gensim==4.3.3",
+  "spacy==3.8.7",
+  "numpy<=2.0.0",
+  "datasets>=4.0.0",
+  "accelerate>=0.26.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "flake8>=7.2.0",
+  "pytest>=8.3.5"
+]
+
+[project.scripts]
+train = "alma.cli.train:train"

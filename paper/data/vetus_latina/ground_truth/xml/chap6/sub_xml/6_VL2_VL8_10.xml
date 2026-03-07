@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-142">
+				<text>mare</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-143">
+				<text>quoque</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-144">
+				<text>magno</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-145">
+				<text>uento</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-146">
+				<text>flante</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-147">
+				<text>exurgebat</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-148">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-143">
+				<text>mare</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-144">
+				<text>autem</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-145">
+				<text>uento</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-146">
+				<text>magno</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-147">
+				<text>flante</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-148">
+				<text>insurgebat</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-149">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

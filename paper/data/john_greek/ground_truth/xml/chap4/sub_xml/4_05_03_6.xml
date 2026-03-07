@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="6"><wds lnum="L1"><w n="1-56">
+				<text>δευτε</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-57">
+				<text>ειδετε</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-58">
+				<text>ανθρωπον</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-59">
+				<text>ος</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-60">
+				<text>ειπεν</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-61">
+				<text>μοι</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-62">
+				<text>παντα</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-63">
+				<text>οσα</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-64">
+				<text>εποιησα</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-65">
+				<text>μητι</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-66">
+				<text>εκεινος</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-67">
+				<text>εστιν</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-68">
+				<text>ο</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-69">
+				<text>χριστος</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-70">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-53">
+				<text>δευτε</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-54">
+				<text>ιδετε</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-55">
+				<text>ανθρωπον</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-56">
+				<text>ος</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-57">
+				<text>ειπε</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-58">
+				<text>μοι</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-59">
+				<text>παντα</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-60">
+				<text>α</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-61">
+				<text>εποιησα</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-62">
+				<text>μητι</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-63">
+				<text>ουτος</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-64">
+				<text>εστιν</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-65">
+				<text>ο</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-66">
+				<text>χριστος</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-67">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

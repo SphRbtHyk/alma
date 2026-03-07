@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="13"><wds lnum="L1"><w n="1-245">
+				<text>ut</text>
+				<refs nrefs="2-262" />
+			</w>
+			<w n="1-246">
+				<text>sermo</text>
+				<refs nrefs="2-263" />
+			</w>
+			<w n="1-247">
+				<text>iesum</text>
+				<refs nrefs="2-264" />
+			</w>
+			<w n="1-248">
+				<text>adimpleatur</text>
+				<refs nrefs="2-265" />
+			</w>
+			<w n="1-249">
+				<text>quem</text>
+				<refs nrefs="2-266" />
+			</w>
+			<w n="1-250">
+				<text>dixit</text>
+				<refs nrefs="2-267" />
+			</w>
+			<w n="1-251">
+				<text>significans</text>
+				<refs nrefs="2-268" />
+			</w>
+			<w n="1-252">
+				<text>qua</text>
+				<refs nrefs="2-269" />
+			</w>
+			<w n="1-253">
+				<text>morte</text>
+				<refs nrefs="2-270" />
+			</w>
+			<w n="1-254">
+				<text>moreretur</text>
+				<refs nrefs="2-271 2-272" />
+			</w>
+			<w n="1-255">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-262">
+				<text>ut</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-263">
+				<text>sermo</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-264">
+				<text>iesu</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-265">
+				<text>impleatur</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-266">
+				<text>quem</text>
+				<refs nrefs="1-249" />
+			</w>
+			<w n="2-267">
+				<text>dixit</text>
+				<refs nrefs="1-250" />
+			</w>
+			<w n="2-268">
+				<text>significans</text>
+				<refs nrefs="1-251" />
+			</w>
+			<w n="2-269">
+				<text>qua</text>
+				<refs nrefs="1-252" />
+			</w>
+			<w n="2-270">
+				<text>morte</text>
+				<refs nrefs="1-253" />
+			</w>
+			<w n="2-271">
+				<text>esset</text>
+				<refs nrefs="1-254" />
+			</w>
+			<w n="2-272">
+				<text>moriturus</text>
+				<refs nrefs="1-254" />
+			</w>
+			<w n="2-273">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-50">
+				<text>post</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-51">
+				<text>hec</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-52">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-53">
+				<text>rogauit</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-54">
+				<text>pilatum</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-55">
+				<text>ioses</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-56">
+				<text>qui</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-57">
+				<text>ab</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-58">
+				<text>arimatia</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-59">
+				<text>erat</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-60">
+				<text>discipuli</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-61">
+				<text>iesum</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-62">
+				<text>absconsus</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-63">
+				<text>autem</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-64">
+				<text>erat</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-65">
+				<text>propter</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-66">
+				<text>metum</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-67">
+				<text>iudeorum</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-68">
+				<text>petit</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-69">
+				<text>a</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-70">
+				<text>pilato</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-71">
+				<text>ut</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-72">
+				<text>auferret</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-73">
+				<text>iesum</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-74">
+				<text>et</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-75">
+				<text>permisit</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-76">
+				<text>pilatus</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-77">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-78">
+				<text>uenerunt</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-79">
+				<text>et</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-80">
+				<text>abstulerunt</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-81">
+				<text>eum</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-82">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-49">
+				<text>post</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-50">
+				<text>hec</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-51">
+				<text>rogauit</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-52">
+				<text>pilatum</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-53">
+				<text>ioseph</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-54">
+				<text>ab</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-55">
+				<text>arimatia</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-56">
+				<text>qui</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-57">
+				<text>erat</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-58">
+				<text>discipulus</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-59">
+				<text>iesu</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-60">
+				<text>occulte</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-61">
+				<text>autem</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-62">
+				<text>propter</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-63">
+				<text>metu</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-64">
+				<text>iudeorum</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-65">
+				<text>ut</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-66">
+				<text>tolleret</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-67">
+				<text>corpus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-68">
+				<text>iesu</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-69">
+				<text>et</text>
+				<refs nrefs="1-74" />
+			</w>
+			<w n="2-70">
+				<text>permisit</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-71">
+				<text>pilatus</text>
+				<refs nrefs="1-76" />
+			</w>
+			<w n="2-72">
+				<text>uenerunt</text>
+				<refs nrefs="1-78" />
+			</w>
+			<w n="2-73">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-74">
+				<text>et</text>
+				<refs nrefs="1-79" />
+			</w>
+			<w n="2-75">
+				<text>tulerunt</text>
+				<refs nrefs="1-80" />
+			</w>
+			<w n="2-76">
+				<text>eum</text>
+				<refs nrefs="1-81" />
+			</w>
+			<w n="2-77">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="2"><wds lnum="L1"><w n="1-19">
+				<text>deum</text>
+				<refs nrefs="2-19" />
+			</w>
+			<w n="1-20">
+				<text>nemo</text>
+				<refs nrefs="2-20" />
+			</w>
+			<w n="1-21">
+				<text>uidit</text>
+				<refs nrefs="2-21" />
+			</w>
+			<w n="1-22">
+				<text>unquam</text>
+				<refs nrefs="2-22" />
+			</w>
+			<w n="1-23">
+				<text>nisi</text>
+				<refs nrefs="2-23" />
+			</w>
+			<w n="1-24">
+				<text>unigenitus</text>
+				<refs nrefs="2-24" />
+			</w>
+			<w n="1-25">
+				<text>filius</text>
+				<refs nrefs="2-25" />
+			</w>
+			<w n="1-26">
+				<text>qui</text>
+				<refs nrefs="2-26" />
+			</w>
+			<w n="1-27">
+				<text>est</text>
+				<refs nrefs="2-27" />
+			</w>
+			<w n="1-28">
+				<text>in</text>
+				<refs nrefs="2-28" />
+			</w>
+			<w n="1-29">
+				<text>sinu</text>
+				<refs nrefs="2-29" />
+			</w>
+			<w n="1-30">
+				<text>patris</text>
+				<refs nrefs="2-30" />
+			</w>
+			<w n="1-31">
+				<text>ipse</text>
+				<refs nrefs="2-31" />
+			</w>
+			<w n="1-32">
+				<text>narrauit</text>
+				<refs nrefs="2-32" />
+			</w>
+			<w n="1-33">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-19">
+				<text>deum</text>
+				<refs nrefs="1-19" />
+			</w>
+			<w n="2-20">
+				<text>nemo</text>
+				<refs nrefs="1-20" />
+			</w>
+			<w n="2-21">
+				<text>uidit</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-22">
+				<text>umquam</text>
+				<refs nrefs="1-22" />
+			</w>
+			<w n="2-23">
+				<text>nisi</text>
+				<refs nrefs="1-23" />
+			</w>
+			<w n="2-24">
+				<text>unigenitus</text>
+				<refs nrefs="1-24" />
+			</w>
+			<w n="2-25">
+				<text>filius</text>
+				<refs nrefs="1-25" />
+			</w>
+			<w n="2-26">
+				<text>qui</text>
+				<refs nrefs="1-26" />
+			</w>
+			<w n="2-27">
+				<text>est</text>
+				<refs nrefs="1-27" />
+			</w>
+			<w n="2-28">
+				<text>in</text>
+				<refs nrefs="1-28" />
+			</w>
+			<w n="2-29">
+				<text>sinum</text>
+				<refs nrefs="1-29" />
+			</w>
+			<w n="2-30">
+				<text>patris</text>
+				<refs nrefs="1-30" />
+			</w>
+			<w n="2-31">
+				<text>ipse</text>
+				<refs nrefs="1-31" />
+			</w>
+			<w n="2-32">
+				<text>enarrauit</text>
+				<refs nrefs="1-32" />
+			</w>
+			<w n="2-33">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

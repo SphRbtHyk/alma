@@ -1,0 +1,6 @@
+Model Variant,Description,Parameters
+Lemma Only,Only the lemma-based matching step is active.,"{'lemma_match': True, 'semantic_match': False, 'pos_match': False, 'dependency_match': False, 'dependency2_match': False, 'pruning': False, 'unique_alignment': False}"
+Semantic Only,Only the semantic similarity matching step is active.,"{'lemma_match': False, 'semantic_match': True, 'pos_match': False, 'dependency_match': False, 'dependency2_match': False, 'pruning': False, 'unique_alignment': False}"
+POS Only,Only the part-of-speech matching step is active.,"{'lemma_match': False, 'semantic_match': False, 'pos_match': True, 'dependency_match': False, 'dependency2_match': False, 'pruning': False, 'unique_alignment': False}"
+Dependency Only,Only the dependency relation matching step is active.,"{'lemma_match': False, 'semantic_match': False, 'pos_match': False, 'dependency_match': True, 'dependency2_match': False, 'pruning': False, 'unique_alignment': False}"
+Baseline (No matching),No matching components active - serves as lower bound baseline.,"{'lemma_match': False, 'semantic_match': False, 'pos_match': False, 'dependency_match': False, 'dependency2_match': False, 'pruning': False, 'unique_alignment': False}"

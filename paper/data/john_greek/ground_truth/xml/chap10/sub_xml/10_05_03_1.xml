@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>αλλ</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>υμεις</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3">
+				<text>ου</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-4">
+				<text>πιστευεται</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-5">
+				<text>οτι</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-6">
+				<text>ουκ</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-7">
+				<text>εστε</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-8">
+				<text>εκ</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-9">
+				<text>των</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-10">
+				<text>προβατων</text>
+				<refs nrefs="2-10" />
+			</w>
+			<w n="1-11">
+				<text>των</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-12">
+				<text>εμων</text>
+				<refs nrefs="2-12" />
+			</w>
+			<w n="1-13">
+				<text>καθως</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-14">
+				<text>ειπον</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-15">
+				<text>υμειν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-16">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>αλλα</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>υμεις</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3">
+				<text>ου</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-4">
+				<text>πιστευετε</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-5">
+				<text>οτι</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-6">
+				<text>ουκ</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-7">
+				<text>εστε</text>
+				<refs nrefs="1-7" />
+			</w>
+			<w n="2-8">
+				<text>εκ</text>
+				<refs nrefs="1-8" />
+			</w>
+			<w n="2-9">
+				<text>των</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-10">
+				<text>προβατων</text>
+				<refs nrefs="1-10" />
+			</w>
+			<w n="2-11">
+				<text>των</text>
+				<refs nrefs="1-11" />
+			</w>
+			<w n="2-12">
+				<text>εμων</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-13">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

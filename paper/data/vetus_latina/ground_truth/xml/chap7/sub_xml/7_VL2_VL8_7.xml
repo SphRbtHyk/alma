@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-103">
+				<text>dixerunt</text>
+				<refs nrefs="2-101" />
+			</w>
+			<w n="1-104">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-105">
+				<text>farisei</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-106">
+				<text>ad</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-107">
+				<text>illos</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-108">
+				<text>numquid</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-109">
+				<text>et</text>
+				<refs nrefs="2-105" />
+			</w>
+			<w n="1-110">
+				<text>uos</text>
+				<refs nrefs="2-106" />
+			</w>
+			<w n="1-111">
+				<text>erratis</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-112">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-101">
+				<text>responderunt</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-102">
+				<text>eis</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-103">
+				<text>pharisei</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-104">
+				<text>numquid</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-105">
+				<text>et</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-106">
+				<text>uos</text>
+				<refs nrefs="1-110" />
+			</w>
+			<w n="2-107">
+				<text>seducti</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-108">
+				<text>estis</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-109">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

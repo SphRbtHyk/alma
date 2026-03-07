@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="2"><wds lnum="L1"><w n="1-25">
+				<text>και</text>
+				<refs nrefs="2-24" />
+			</w>
+			<w n="1-26">
+				<text>το</text>
+				<refs nrefs="2-25" />
+			</w>
+			<w n="1-27">
+				<text>φως</text>
+				<refs nrefs="2-26" />
+			</w>
+			<w n="1-28">
+				<text>εν</text>
+				<refs nrefs="2-27" />
+			</w>
+			<w n="1-29">
+				<text>τη</text>
+				<refs nrefs="2-28" />
+			</w>
+			<w n="1-30">
+				<text>σκοτια</text>
+				<refs nrefs="2-29" />
+			</w>
+			<w n="1-31">
+				<text>φαινει</text>
+				<refs nrefs="2-30" />
+			</w>
+			<w n="1-32">
+				<text>και</text>
+				<refs nrefs="2-31" />
+			</w>
+			<w n="1-33">
+				<text>η</text>
+				<refs nrefs="2-32" />
+			</w>
+			<w n="1-34">
+				<text>σκοτια</text>
+				<refs nrefs="2-33" />
+			</w>
+			<w n="1-35">
+				<text>αυτο</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-36">
+				<text>ου</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-37">
+				<text>κατελαβεν</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-38">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-24">
+				<text>και</text>
+				<refs nrefs="1-25" />
+			</w>
+			<w n="2-25">
+				<text>το</text>
+				<refs nrefs="1-26" />
+			</w>
+			<w n="2-26">
+				<text>φως</text>
+				<refs nrefs="1-27" />
+			</w>
+			<w n="2-27">
+				<text>εν</text>
+				<refs nrefs="1-28" />
+			</w>
+			<w n="2-28">
+				<text>τη</text>
+				<refs nrefs="1-29" />
+			</w>
+			<w n="2-29">
+				<text>σκοτια</text>
+				<refs nrefs="1-30" />
+			</w>
+			<w n="2-30">
+				<text>φαινει</text>
+				<refs nrefs="1-31" />
+			</w>
+			<w n="2-31">
+				<text>και</text>
+				<refs nrefs="1-32" />
+			</w>
+			<w n="2-32">
+				<text>η</text>
+				<refs nrefs="1-33" />
+			</w>
+			<w n="2-33">
+				<text>σκοτια</text>
+				<refs nrefs="1-34" />
+			</w>
+			<w n="2-34">
+				<text>αυτο</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-35">
+				<text>ου</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-36">
+				<text>κατελαβεν</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-37">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

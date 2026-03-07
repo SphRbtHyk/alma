@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="10"><wds lnum="L1"><w n="1-152">
+				<text>εγω</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-153">
+				<text>και</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-154">
+				<text>ο</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-155">
+				<text>πατηρ</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-156">
+				<text>εν</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-157">
+				<text>εσμεν</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-158">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-162">
+				<text>εγω</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-163">
+				<text>και</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-164">
+				<text>ο</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-165">
+				<text>πατηρ</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-166">
+				<text>εν</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-167">
+				<text>εσμεν</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-168">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="6"><wds lnum="L1"><w n="1-80">
+				<text>ιησους</text>
+				<refs nrefs="2-81" />
+			</w>
+			<w n="1-81">
+				<text>δε</text>
+				<refs nrefs="2-82" />
+			</w>
+			<w n="1-82">
+				<text>ειδων</text>
+				<refs nrefs="2-83" />
+			</w>
+			<w n="1-83">
+				<text>παντα</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-84">
+				<text>τα</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-85">
+				<text>ερχομενα</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-86">
+				<text>επ</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-87">
+				<text>αυτον</text>
+				<refs nrefs="2-88" />
+			</w>
+			<w n="1-88">
+				<text>εξηλθεν</text>
+				<refs nrefs="2-89" />
+			</w>
+			<w n="1-89">
+				<text>και</text>
+				<refs nrefs="2-90" />
+			</w>
+			<w n="1-90">
+				<text>λεγει</text>
+				<refs nrefs="2-91" />
+			</w>
+			<w n="1-91">
+				<text>αυτοις</text>
+				<refs nrefs="2-92" />
+			</w>
+			<w n="1-92">
+				<text>τινα</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-93">
+				<text>ζητειτε</text>
+				<refs nrefs="2-94" />
+			</w>
+			<w n="1-94">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-81">
+				<text>ιησους</text>
+				<refs nrefs="1-80" />
+			</w>
+			<w n="2-82">
+				<text>ουν</text>
+				<refs nrefs="1-81" />
+			</w>
+			<w n="2-83">
+				<text>ειδως</text>
+				<refs nrefs="1-82" />
+			</w>
+			<w n="2-84">
+				<text>παντα</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-85">
+				<text>τα</text>
+				<refs nrefs="1-84" />
+			</w>
+			<w n="2-86">
+				<text>ερχομενα</text>
+				<refs nrefs="1-85" />
+			</w>
+			<w n="2-87">
+				<text>επ</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-88">
+				<text>αυτον</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-89">
+				<text>εξηλθε</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-90">
+				<text>και</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-91">
+				<text>λεγει</text>
+				<refs nrefs="1-90" />
+			</w>
+			<w n="2-92">
+				<text>αυτοις</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-93">
+				<text>τινα</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-94">
+				<text>ζητειτε</text>
+				<refs nrefs="1-93" />
+			</w>
+			<w n="2-95">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

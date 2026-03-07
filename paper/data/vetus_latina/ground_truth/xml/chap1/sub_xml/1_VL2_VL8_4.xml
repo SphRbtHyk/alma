@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-45">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-46">
+				<text>natanahel</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-47">
+				<text>respondit</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-48">
+				<text>rabbi</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-49">
+				<text>tu</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-50">
+				<text>es</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-51">
+				<text>filius</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-52">
+				<text>dei</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-53">
+				<text>tu</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-54">
+				<text>es</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-55">
+				<text>rex</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-56">
+				<text>isdrahel</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-57">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-45">
+				<text>respondit</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-46">
+				<text>ei</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-47">
+				<text>nathanel</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-48">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-49">
+				<text>ait</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-50">
+				<text>rabbi</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-51">
+				<text>tu</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-52">
+				<text>es</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-53">
+				<text>filius</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-54">
+				<text>dei</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-55">
+				<text>tu</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-56">
+				<text>es</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-57">
+				<text>rex</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-58">
+				<text>istrahel</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-59">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

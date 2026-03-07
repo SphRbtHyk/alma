@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="5"><wds lnum="L1"><w n="1-75">
+				<text>dixit</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-76">
+				<text>ergo</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-77">
+				<text>iesus</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-78">
+				<text>adhuc</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-79">
+				<text>tempus</text>
+				<refs nrefs="2-78 2-79" />
+			</w>
+			<w n="1-80">
+				<text>pusillum</text>
+				<refs nrefs="2-80" />
+			</w>
+			<w n="1-81">
+				<text>uobiscum</text>
+				<refs nrefs="2-81" />
+			</w>
+			<w n="1-82">
+				<text>sum</text>
+				<refs nrefs="2-82" />
+			</w>
+			<w n="1-83">
+				<text>et</text>
+				<refs nrefs="2-83" />
+			</w>
+			<w n="1-84">
+				<text>uado</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-85">
+				<text>ad</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-86">
+				<text>eum</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-87">
+				<text>qui</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-88">
+				<text>me</text>
+				<refs nrefs="2-89" />
+			</w>
+			<w n="1-89">
+				<text>misit</text>
+				<refs nrefs="2-88" />
+			</w>
+			<w n="1-90">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-75">
+				<text>dixit</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-76">
+				<text>autem</text>
+				<refs nrefs="1-76" />
+			</w>
+			<w n="2-77">
+				<text>iesus</text>
+				<refs nrefs="1-77" />
+			</w>
+			<w n="2-78">
+				<text>adhuc</text>
+				<refs nrefs="1-79" />
+			</w>
+			<w n="2-79">
+				<text>tempus</text>
+				<refs nrefs="1-79" />
+			</w>
+			<w n="2-80">
+				<text>modicum</text>
+				<refs nrefs="1-80" />
+			</w>
+			<w n="2-81">
+				<text>uobiscum</text>
+				<refs nrefs="1-81" />
+			</w>
+			<w n="2-82">
+				<text>sum</text>
+				<refs nrefs="1-82" />
+			</w>
+			<w n="2-83">
+				<text>et</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-84">
+				<text>uado</text>
+				<refs nrefs="1-84" />
+			</w>
+			<w n="2-85">
+				<text>ad</text>
+				<refs nrefs="1-85" />
+			</w>
+			<w n="2-86">
+				<text>illum</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-87">
+				<text>qui</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-88">
+				<text>misit</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-89">
+				<text>me</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-90">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

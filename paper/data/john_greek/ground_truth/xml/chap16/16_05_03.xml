@@ -1,0 +1,1998 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="GRC"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>εγνω</text>
+				<refs nrefs='2-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>ο</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-3'>
+				<text>ιησους</text>
+				<refs nrefs='2-2'></refs>
+			</w>
+			<w n='1-4'>
+				<text>οτι</text>
+				<refs nrefs='2-3'></refs>
+			</w>
+			<w n='1-5'>
+				<text>οτι</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-6'>
+				<text>ηθελον</text>
+				<refs nrefs='2-4'></refs>
+			</w>
+			<w n='1-7'>
+				<text>αυτον</text>
+				<refs nrefs='2-5'></refs>
+			</w>
+			<w n='1-8'>
+				<text>επερωτησαι</text>
+				<refs nrefs='2-6'></refs>
+			</w>
+			<w n='1-9'>
+				<text>περι</text>
+				<refs nrefs='2-10'></refs>
+			</w>
+			<w n='1-10'>
+				<text>τουτου</text>
+				<refs nrefs='2-11'></refs>
+			</w>
+			<w n='1-11'>
+				<text>και</text>
+				<refs nrefs='2-7'></refs>
+			</w>
+			<w n='1-12'>
+				<text>ειπεν</text>
+				<refs nrefs='2-8'></refs>
+			</w>
+			<w n='1-13'>
+				<text>αυτοις</text>
+				<refs nrefs='2-9'></refs>
+			</w>
+			<w n='1-14'>
+				<text>περι</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-15'>
+				<text>τουτου</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-16'>
+				<text>ζητειτε</text>
+				<refs nrefs='2-12'></refs>
+			</w>
+			<w n='1-17'>
+				<text>μετ</text>
+				<refs nrefs='2-13'></refs>
+			</w>
+			<w n='1-18'>
+				<text>αλληλων</text>
+				<refs nrefs='2-14'></refs>
+			</w>
+			<w n='1-19'>
+				<text>οτι</text>
+				<refs nrefs='2-15'></refs>
+			</w>
+			<w n='1-20'>
+				<text>ειπον</text>
+				<refs nrefs='2-16'></refs>
+			</w>
+			<w n='1-21'>
+				<text>μεικρον</text>
+				<refs nrefs='2-17'></refs>
+			</w>
+			<w n='1-22'>
+				<text>και</text>
+				<refs nrefs='2-18'></refs>
+			</w>
+			<w n='1-23'>
+				<text>ου</text>
+				<refs nrefs='2-19'></refs>
+			</w>
+			<w n='1-24'>
+				<text>θεωρειτε</text>
+				<refs nrefs='2-20'></refs>
+			</w>
+			<w n='1-25'>
+				<text>με</text>
+				<refs nrefs='2-21'></refs>
+			</w>
+			<w n='1-26'>
+				<text>και</text>
+				<refs nrefs='2-22'></refs>
+			</w>
+			<w n='1-27'>
+				<text>παλιν</text>
+				<refs nrefs='2-23'></refs>
+			</w>
+			<w n='1-28'>
+				<text>μεικρον</text>
+				<refs nrefs='2-24'></refs>
+			</w>
+			<w n='1-29'>
+				<text>και</text>
+				<refs nrefs='2-25'></refs>
+			</w>
+			<w n='1-30'>
+				<text>οψεσθε</text>
+				<refs nrefs='2-26'></refs>
+			</w>
+			<w n='1-31'>
+				<text>με</text>
+				<refs nrefs='2-27'></refs>
+			</w>
+			<w n='1-32'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-33'>
+				<text>περι</text>
+				<refs nrefs='2-29'></refs>
+			</w>
+			<w n='1-34'>
+				<text>δικαιοσυνης</text>
+				<refs nrefs='2-30'></refs>
+			</w>
+			<w n='1-35'>
+				<text>δε</text>
+				<refs nrefs='2-31'></refs>
+			</w>
+			<w n='1-36'>
+				<text>οτι</text>
+				<refs nrefs='2-32'></refs>
+			</w>
+			<w n='1-37'>
+				<text>προς</text>
+				<refs nrefs='2-33'></refs>
+			</w>
+			<w n='1-38'>
+				<text>τον</text>
+				<refs nrefs='2-34'></refs>
+			</w>
+			<w n='1-39'>
+				<text>πατερα</text>
+				<refs nrefs='2-35'></refs>
+			</w>
+			<w n='1-40'>
+				<text>υπαγω</text>
+				<refs nrefs='2-36'></refs>
+			</w>
+			<w n='1-41'>
+				<text>και</text>
+				<refs nrefs='2-37'></refs>
+			</w>
+			<w n='1-42'>
+				<text>ουκετι</text>
+				<refs nrefs='2-38'></refs>
+			</w>
+			<w n='1-43'>
+				<text>θεωρειτε</text>
+				<refs nrefs='2-39'></refs>
+			</w>
+			<w n='1-44'>
+				<text>με</text>
+				<refs nrefs='2-40'></refs>
+			</w>
+			<w n='1-45'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-46'>
+				<text>μεικρον</text>
+				<refs nrefs='2-42'></refs>
+			</w>
+			<w n='1-47'>
+				<text>και</text>
+				<refs nrefs='2-43'></refs>
+			</w>
+			<w n='1-48'>
+				<text>ουκετι</text>
+				<refs nrefs='2-44'></refs>
+			</w>
+			<w n='1-49'>
+				<text>θεωρειτε</text>
+				<refs nrefs='2-45'></refs>
+			</w>
+			<w n='1-50'>
+				<text>με</text>
+				<refs nrefs='2-46'></refs>
+			</w>
+			<w n='1-51'>
+				<text>και</text>
+				<refs nrefs='2-47'></refs>
+			</w>
+			<w n='1-52'>
+				<text>παλιν</text>
+				<refs nrefs='2-48'></refs>
+			</w>
+			<w n='1-53'>
+				<text>μεικρον</text>
+				<refs nrefs='2-49'></refs>
+			</w>
+			<w n='1-54'>
+				<text>και</text>
+				<refs nrefs='2-50'></refs>
+			</w>
+			<w n='1-55'>
+				<text>οψεσθε</text>
+				<refs nrefs='2-51'></refs>
+			</w>
+			<w n='1-56'>
+				<text>με</text>
+				<refs nrefs='2-52'></refs>
+			</w>
+			<w n='1-57'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-58'>
+				<text>ταυτα</text>
+				<refs nrefs='2-55'></refs>
+			</w>
+			<w n='1-59'>
+				<text>λελαληκα</text>
+				<refs nrefs='2-56'></refs>
+			</w>
+			<w n='1-60'>
+				<text>υμειν</text>
+				<refs nrefs='2-57'></refs>
+			</w>
+			<w n='1-61'>
+				<text>ινα</text>
+				<refs nrefs='2-58'></refs>
+			</w>
+			<w n='1-62'>
+				<text>οταν</text>
+				<refs nrefs='2-59'></refs>
+			</w>
+			<w n='1-63'>
+				<text>ελθη</text>
+				<refs nrefs='2-60'></refs>
+			</w>
+			<w n='1-64'>
+				<text>η</text>
+				<refs nrefs='2-61'></refs>
+			</w>
+			<w n='1-65'>
+				<text>ωρα</text>
+				<refs nrefs='2-62'></refs>
+			</w>
+			<w n='1-66'>
+				<text>μνημονευτε</text>
+				<refs nrefs='2-64'></refs>
+			</w>
+			<w n='1-67'>
+				<text>οτι</text>
+				<refs nrefs='2-66'></refs>
+			</w>
+			<w n='1-68'>
+				<text>εγω</text>
+				<refs nrefs='2-67'></refs>
+			</w>
+			<w n='1-69'>
+				<text>ειπον</text>
+				<refs nrefs='2-68'></refs>
+			</w>
+			<w n='1-70'>
+				<text>υμειν</text>
+				<refs nrefs='2-69'></refs>
+			</w>
+			<w n='1-71'>
+				<text>ταυτα</text>
+				<refs nrefs='2-70'></refs>
+			</w>
+			<w n='1-72'>
+				<text>δε</text>
+				<refs nrefs='2-71'></refs>
+			</w>
+			<w n='1-73'>
+				<text>εξ</text>
+				<refs nrefs='2-73'></refs>
+			</w>
+			<w n='1-74'>
+				<text>αρχης</text>
+				<refs nrefs='2-74'></refs>
+			</w>
+			<w n='1-75'>
+				<text>υμειν</text>
+				<refs nrefs='2-72'></refs>
+			</w>
+			<w n='1-76'>
+				<text>ουκ</text>
+				<refs nrefs='2-75'></refs>
+			</w>
+			<w n='1-77'>
+				<text>ειπον</text>
+				<refs nrefs='2-76'></refs>
+			</w>
+			<w n='1-78'>
+				<text>οτι</text>
+				<refs nrefs='2-77'></refs>
+			</w>
+			<w n='1-79'>
+				<text>μεθ</text>
+				<refs nrefs='2-78'></refs>
+			</w>
+			<w n='1-80'>
+				<text>υμων</text>
+				<refs nrefs='2-79'></refs>
+			</w>
+			<w n='1-81'>
+				<text>ημην</text>
+				<refs nrefs='2-80'></refs>
+			</w>
+			<w n='1-82'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-83'>
+				<text>και</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-84'>
+				<text>ηλθον</text>
+				<refs nrefs='2-82'></refs>
+			</w>
+			<w n='1-85'>
+				<text>εις</text>
+				<refs nrefs='2-88'></refs>
+			</w>
+			<w n='1-86'>
+				<text>τον</text>
+				<refs nrefs='2-89'></refs>
+			</w>
+			<w n='1-87'>
+				<text>κοσμον</text>
+				<refs nrefs='2-90'></refs>
+			</w>
+			<w n='1-88'>
+				<text>παλιν</text>
+				<refs nrefs='2-91'></refs>
+			</w>
+			<w n='1-89'>
+				<text>αφιημι</text>
+				<refs nrefs='2-92'></refs>
+			</w>
+			<w n='1-90'>
+				<text>τον</text>
+				<refs nrefs='2-93'></refs>
+			</w>
+			<w n='1-91'>
+				<text>κοσμον</text>
+				<refs nrefs='2-94'></refs>
+			</w>
+			<w n='1-92'>
+				<text>και</text>
+				<refs nrefs='2-95'></refs>
+			</w>
+			<w n='1-93'>
+				<text>πορευομαι</text>
+				<refs nrefs='2-96'></refs>
+			</w>
+			<w n='1-94'>
+				<text>προς</text>
+				<refs nrefs='2-97'></refs>
+			</w>
+			<w n='1-95'>
+				<text>τον</text>
+				<refs nrefs='2-98'></refs>
+			</w>
+			<w n='1-96'>
+				<text>πατερα</text>
+				<refs nrefs='2-99'></refs>
+			</w>
+			<w n='1-97'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-98'>
+				<text>ιδου</text>
+				<refs nrefs='2-101'></refs>
+			</w>
+			<w n='1-99'>
+				<text>ερχεται</text>
+				<refs nrefs='2-102'></refs>
+			</w>
+			<w n='1-100'>
+				<text>ωρα</text>
+				<refs nrefs='2-103'></refs>
+			</w>
+			<w n='1-101'>
+				<text>και</text>
+				<refs nrefs='2-104'></refs>
+			</w>
+			<w n='1-102'>
+				<text>εληλυθεν</text>
+				<refs nrefs='2-105'></refs>
+			</w>
+			<w n='1-103'>
+				<text>ινα</text>
+				<refs nrefs='2-106'></refs>
+			</w>
+			<w n='1-104'>
+				<text>σκορπισθητε</text>
+				<refs nrefs='2-107'></refs>
+			</w>
+			<w n='1-105'>
+				<text>εκαστος</text>
+				<refs nrefs='2-108'></refs>
+			</w>
+			<w n='1-106'>
+				<text>ιησους</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-107'>
+				<text>τα</text>
+				<refs nrefs='2-110'></refs>
+			</w>
+			<w n='1-108'>
+				<text>ιδια</text>
+				<refs nrefs='2-111'></refs>
+			</w>
+			<w n='1-109'>
+				<text>και</text>
+				<refs nrefs='2-112'></refs>
+			</w>
+			<w n='1-110'>
+				<text>εμε</text>
+				<refs nrefs='2-112'></refs>
+			</w>
+			<w n='1-111'>
+				<text>μονον</text>
+				<refs nrefs='2-113'></refs>
+			</w>
+			<w n='1-112'>
+				<text>αφητε</text>
+				<refs nrefs='2-114'></refs>
+			</w>
+			<w n='1-113'>
+				<text>και</text>
+				<refs nrefs='2-115'></refs>
+			</w>
+			<w n='1-114'>
+				<text>ουκ</text>
+				<refs nrefs='2-116'></refs>
+			</w>
+			<w n='1-115'>
+				<text>ειμι</text>
+				<refs nrefs='2-117'></refs>
+			</w>
+			<w n='1-116'>
+				<text>μονος</text>
+				<refs nrefs='2-118'></refs>
+			</w>
+			<w n='1-117'>
+				<text>οτι</text>
+				<refs nrefs='2-119'></refs>
+			</w>
+			<w n='1-118'>
+				<text>ο</text>
+				<refs nrefs='2-120'></refs>
+			</w>
+			<w n='1-119'>
+				<text>πατηρ</text>
+				<refs nrefs='2-121'></refs>
+			</w>
+			<w n='1-120'>
+				<text>μετ</text>
+				<refs nrefs='2-122'></refs>
+			</w>
+			<w n='1-121'>
+				<text>εμου</text>
+				<refs nrefs='2-123'></refs>
+			</w>
+			<w n='1-122'>
+				<text>εστιν</text>
+				<refs nrefs='2-124'></refs>
+			</w>
+			<w n='1-123'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-124'>
+				<text>απεκριθη</text>
+				<refs nrefs='2-126'></refs>
+			</w>
+			<w n='1-125'>
+				<text>αυτοις</text>
+				<refs nrefs='2-127'></refs>
+			</w>
+			<w n='1-126'>
+				<text>ο</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-127'>
+				<text>ιησους</text>
+				<refs nrefs='2-128'></refs>
+			</w>
+			<w n='1-128'>
+				<text>αρτι</text>
+				<refs nrefs='2-129'></refs>
+			</w>
+			<w n='1-129'>
+				<text>πιστευετε</text>
+				<refs nrefs='2-130'></refs>
+			</w>
+			<w n='1-130'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-131'>
+				<text>εν</text>
+				<refs nrefs='2-132'></refs>
+			</w>
+			<w n='1-132'>
+				<text>εκεινη</text>
+				<refs nrefs='2-133'></refs>
+			</w>
+			<w n='1-133'>
+				<text>τη</text>
+				<refs nrefs='2-134'></refs>
+			</w>
+			<w n='1-134'>
+				<text>ημερα</text>
+				<refs nrefs='2-135'></refs>
+			</w>
+			<w n='1-135'>
+				<text>εν</text>
+				<refs nrefs='2-136'></refs>
+			</w>
+			<w n='1-136'>
+				<text>τω</text>
+				<refs nrefs='2-137'></refs>
+			</w>
+			<w n='1-137'>
+				<text>ονοματι</text>
+				<refs nrefs='2-138'></refs>
+			</w>
+			<w n='1-138'>
+				<text>μου</text>
+				<refs nrefs='2-139'></refs>
+			</w>
+			<w n='1-139'>
+				<text>αιτησεσθε</text>
+				<refs nrefs='2-140'></refs>
+			</w>
+			<w n='1-140'>
+				<text>και</text>
+				<refs nrefs='2-141'></refs>
+			</w>
+			<w n='1-141'>
+				<text>ου</text>
+				<refs nrefs='2-142'></refs>
+			</w>
+			<w n='1-142'>
+				<text>λεγω</text>
+				<refs nrefs='2-143'></refs>
+			</w>
+			<w n='1-143'>
+				<text>υμειν</text>
+				<refs nrefs='2-144'></refs>
+			</w>
+			<w n='1-144'>
+				<text>οτι</text>
+				<refs nrefs='2-145'></refs>
+			</w>
+			<w n='1-145'>
+				<text>εγω</text>
+				<refs nrefs='2-146'></refs>
+			</w>
+			<w n='1-146'>
+				<text>ερωτησω</text>
+				<refs nrefs='2-147'></refs>
+			</w>
+			<w n='1-147'>
+				<text>τον</text>
+				<refs nrefs='2-148'></refs>
+			</w>
+			<w n='1-148'>
+				<text>πατερα</text>
+				<refs nrefs='2-149'></refs>
+			</w>
+			<w n='1-149'>
+				<text>μου</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-150'>
+				<text>περι</text>
+				<refs nrefs='2-150'></refs>
+			</w>
+			<w n='1-151'>
+				<text>υμων</text>
+				<refs nrefs='2-151'></refs>
+			</w>
+			<w n='1-152'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-153'>
+				<text>περι</text>
+				<refs nrefs='2-153'></refs>
+			</w>
+			<w n='1-154'>
+				<text>δε</text>
+				<refs nrefs='2-154'></refs>
+			</w>
+			<w n='1-155'>
+				<text>κρισεως</text>
+				<refs nrefs='2-155'></refs>
+			</w>
+			<w n='1-156'>
+				<text>οτι</text>
+				<refs nrefs='2-156'></refs>
+			</w>
+			<w n='1-157'>
+				<text>ο</text>
+				<refs nrefs='2-157'></refs>
+			</w>
+			<w n='1-158'>
+				<text>αρχων</text>
+				<refs nrefs='2-158'></refs>
+			</w>
+			<w n='1-159'>
+				<text>του</text>
+				<refs nrefs='2-159'></refs>
+			</w>
+			<w n='1-160'>
+				<text>κοσμου</text>
+				<refs nrefs='2-160'></refs>
+			</w>
+			<w n='1-161'>
+				<text>τουτου</text>
+				<refs nrefs='2-161'></refs>
+			</w>
+			<w n='1-162'>
+				<text>κεκριται</text>
+				<refs nrefs='2-162'></refs>
+			</w>
+			<w n='1-163'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-164'>
+				<text>οταν</text>
+				<refs nrefs='2-164'></refs>
+			</w>
+			<w n='1-165'>
+				<text>ελθη</text>
+				<refs nrefs='2-166'></refs>
+			</w>
+			<w n='1-166'>
+				<text>εκεινος</text>
+				<refs nrefs='2-167'></refs>
+			</w>
+			<w n='1-167'>
+				<text>το</text>
+				<refs nrefs='2-168'></refs>
+			</w>
+			<w n='1-168'>
+				<text>πνευματι</text>
+				<refs nrefs='2-169'></refs>
+			</w>
+			<w n='1-169'>
+				<text>της</text>
+				<refs nrefs='2-170'></refs>
+			</w>
+			<w n='1-170'>
+				<text>αληθειας</text>
+				<refs nrefs='2-171'></refs>
+			</w>
+			<w n='1-171'>
+				<text>εκεινος</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-172'>
+				<text>υμας</text>
+				<refs nrefs='2-173'></refs>
+			</w>
+			<w n='1-173'>
+				<text>οδηγησει</text>
+				<refs nrefs='2-172'></refs>
+			</w>
+			<w n='1-174'>
+				<text>εν</text>
+				<refs nrefs='2-174'></refs>
+			</w>
+			<w n='1-175'>
+				<text>τη</text>
+				<refs nrefs='2-175'></refs>
+			</w>
+			<w n='1-176'>
+				<text>αληθεια</text>
+				<refs nrefs='2-176'></refs>
+			</w>
+			<w n='1-177'>
+				<text>παση</text>
+				<refs nrefs='2-177'></refs>
+			</w>
+			<w n='1-178'>
+				<text>ου</text>
+				<refs nrefs='2-178'></refs>
+			</w>
+			<w n='1-179'>
+				<text>γαρ</text>
+				<refs nrefs='2-179'></refs>
+			</w>
+			<w n='1-180'>
+				<text>λαλησει</text>
+				<refs nrefs='2-180'></refs>
+			</w>
+			<w n='1-181'>
+				<text>αφ</text>
+				<refs nrefs='2-181'></refs>
+			</w>
+			<w n='1-182'>
+				<text>εαυτου</text>
+				<refs nrefs='2-182'></refs>
+			</w>
+			<w n='1-183'>
+				<text>αλλα</text>
+				<refs nrefs='2-183'></refs>
+			</w>
+			<w n='1-184'>
+				<text>οσα</text>
+				<refs nrefs='2-184'></refs>
+			</w>
+			<w n='1-185'>
+				<text>ακουσει</text>
+				<refs nrefs='2-185'></refs>
+			</w>
+			<w n='1-186'>
+				<text>λαλησει</text>
+				<refs nrefs='2-186'></refs>
+			</w>
+			<w n='1-187'>
+				<text>και</text>
+				<refs nrefs='2-187'></refs>
+			</w>
+			<w n='1-188'>
+				<text>τα</text>
+				<refs nrefs='2-188'></refs>
+			</w>
+			<w n='1-189'>
+				<text>ερχομενα</text>
+				<refs nrefs='2-189'></refs>
+			</w>
+			<w n='1-190'>
+				<text>αναγγελει</text>
+				<refs nrefs='2-190'></refs>
+			</w>
+			<w n='1-191'>
+				<text>υμειν</text>
+				<refs nrefs='2-191'></refs>
+			</w>
+			<w n='1-192'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-193'>
+				<text>και</text>
+				<refs nrefs='2-193'></refs>
+			</w>
+			<w n='1-194'>
+				<text>εν</text>
+				<refs nrefs='2-194'></refs>
+			</w>
+			<w n='1-195'>
+				<text>εκεινη</text>
+				<refs nrefs='2-195'></refs>
+			</w>
+			<w n='1-196'>
+				<text>τη</text>
+				<refs nrefs='2-196'></refs>
+			</w>
+			<w n='1-197'>
+				<text>ημερα</text>
+				<refs nrefs='2-197'></refs>
+			</w>
+			<w n='1-198'>
+				<text>εμε</text>
+				<refs nrefs='2-198'></refs>
+			</w>
+			<w n='1-199'>
+				<text>ουκ</text>
+				<refs nrefs='2-199'></refs>
+			</w>
+			<w n='1-200'>
+				<text>ερωτησετε</text>
+				<refs nrefs='2-200'></refs>
+			</w>
+			<w n='1-201'>
+				<text>ουδεν</text>
+				<refs nrefs='2-201'></refs>
+			</w>
+			<w n='1-202'>
+				<text>αμην</text>
+				<refs nrefs='2-202'></refs>
+			</w>
+			<w n='1-203'>
+				<text>αμην</text>
+				<refs nrefs='2-203'></refs>
+			</w>
+			<w n='1-204'>
+				<text>λεγω</text>
+				<refs nrefs='2-204'></refs>
+			</w>
+			<w n='1-205'>
+				<text>υμειν</text>
+				<refs nrefs='2-205'></refs>
+			</w>
+			<w n='1-206'>
+				<text>εαν</text>
+				<refs nrefs='2-206'></refs>
+			</w>
+			<w n='1-207'>
+				<text>τι</text>
+				<refs nrefs='2-207'></refs>
+			</w>
+			<w n='1-208'>
+				<text>αιτησηται</text>
+				<refs nrefs='2-208'></refs>
+			</w>
+			<w n='1-209'>
+				<text>τον</text>
+				<refs nrefs='2-209'></refs>
+			</w>
+			<w n='1-210'>
+				<text>πατερα</text>
+				<refs nrefs='2-210'></refs>
+			</w>
+			<w n='1-211'>
+				<text>εν</text>
+				<refs nrefs='2-213'></refs>
+			</w>
+			<w n='1-212'>
+				<text>τω</text>
+				<refs nrefs='2-214'></refs>
+			</w>
+			<w n='1-213'>
+				<text>ονοματι</text>
+				<refs nrefs='2-215'></refs>
+			</w>
+			<w n='1-214'>
+				<text>μου</text>
+				<refs nrefs='2-216'></refs>
+			</w>
+			<w n='1-215'>
+				<text>δωσει</text>
+				<refs nrefs='2-211'></refs>
+			</w>
+			<w n='1-216'>
+				<text>υμειν</text>
+				<refs nrefs='2-212'></refs>
+			</w>
+			<w n='1-217'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-218'>
+				<text>εκεινος</text>
+				<refs nrefs='2-218'></refs>
+			</w>
+			<w n='1-219'>
+				<text>εμε</text>
+				<refs nrefs='2-219'></refs>
+			</w>
+			<w n='1-220'>
+				<text>δοξασει</text>
+				<refs nrefs='2-220'></refs>
+			</w>
+			<w n='1-221'>
+				<text>οτι</text>
+				<refs nrefs='2-221'></refs>
+			</w>
+			<w n='1-222'>
+				<text>εκ</text>
+				<refs nrefs='2-222'></refs>
+			</w>
+			<w n='1-223'>
+				<text>του</text>
+				<refs nrefs='2-223'></refs>
+			</w>
+			<w n='1-224'>
+				<text>εμου</text>
+				<refs nrefs='2-224'></refs>
+			</w>
+			<w n='1-225'>
+				<text>λημψεται</text>
+				<refs nrefs='2-225'></refs>
+			</w>
+			<w n='1-226'>
+				<text>και</text>
+				<refs nrefs='2-226'></refs>
+			</w>
+			<w n='1-227'>
+				<text>αναγγελει</text>
+				<refs nrefs='2-227'></refs>
+			</w>
+			<w n='1-228'>
+				<text>υμειν</text>
+				<refs nrefs='2-228'></refs>
+			</w>
+			<w n='1-229'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-230'>
+				<text>ετι</text>
+				<refs nrefs='2-230'></refs>
+			</w>
+			<w n='1-231'>
+				<text>πολλα</text>
+				<refs nrefs='2-231'></refs>
+			</w>
+			<w n='1-232'>
+				<text>εχω</text>
+				<refs nrefs='2-232'></refs>
+			</w>
+			<w n='1-233'>
+				<text>λεγειν</text>
+				<refs nrefs='2-234'></refs>
+			</w>
+			<w n='1-234'>
+				<text>υμειν</text>
+				<refs nrefs='2-233'></refs>
+			</w>
+			<w n='1-235'>
+				<text>αλλ</text>
+				<refs nrefs='2-235'></refs>
+			</w>
+			<w n='1-236'>
+				<text>ου</text>
+				<refs nrefs='2-236'></refs>
+			</w>
+			<w n='1-237'>
+				<text>δυνασθε</text>
+				<refs nrefs='2-237'></refs>
+			</w>
+			<w n='1-238'>
+				<text>αυτα</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-239'>
+				<text>βασταζειν</text>
+				<refs nrefs='2-238'></refs>
+			</w>
+			<w n='1-240'>
+				<text>αρτι</text>
+				<refs nrefs='2-239'></refs>
+			</w>
+			<w n='1-241'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-242'>
+				<text>περι</text>
+				<refs nrefs='2-241'></refs>
+			</w>
+			<w n='1-243'>
+				<text>αμαρτειας</text>
+				<refs nrefs='2-242'></refs>
+			</w>
+			<w n='1-244'>
+				<text>μεν</text>
+				<refs nrefs='2-243'></refs>
+			</w>
+			<w n='1-245'>
+				<text>οτι</text>
+				<refs nrefs='2-244'></refs>
+			</w>
+			<w n='1-246'>
+				<text>ου</text>
+				<refs nrefs='2-245'></refs>
+			</w>
+			<w n='1-247'>
+				<text>πιστευουσιν</text>
+				<refs nrefs='2-246'></refs>
+			</w>
+			<w n='1-248'>
+				<text>εις</text>
+				<refs nrefs='2-247'></refs>
+			</w>
+			<w n='1-249'>
+				<text>εμε</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>εγνω</text>
+				<refs nrefs='1-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>ιησους</text>
+				<refs nrefs='1-3'></refs>
+			</w>
+			<w n='2-3'>
+				<text>οτι</text>
+				<refs nrefs='1-4'></refs>
+			</w>
+			<w n='2-4'>
+				<text>ηθελον</text>
+				<refs nrefs='1-6'></refs>
+			</w>
+			<w n='2-5'>
+				<text>αυτον</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-6'>
+				<text>ερωταν</text>
+				<refs nrefs='1-8'></refs>
+			</w>
+			<w n='2-7'>
+				<text>και</text>
+				<refs nrefs='1-11'></refs>
+			</w>
+			<w n='2-8'>
+				<text>ειπεν</text>
+				<refs nrefs='1-12'></refs>
+			</w>
+			<w n='2-9'>
+				<text>αυτοις</text>
+				<refs nrefs='1-13'></refs>
+			</w>
+			<w n='2-10'>
+				<text>περι</text>
+				<refs nrefs='1-9'></refs>
+			</w>
+			<w n='2-11'>
+				<text>τουτου</text>
+				<refs nrefs='1-10'></refs>
+			</w>
+			<w n='2-12'>
+				<text>ζητειτε</text>
+				<refs nrefs='1-16'></refs>
+			</w>
+			<w n='2-13'>
+				<text>μετ</text>
+				<refs nrefs='1-17'></refs>
+			</w>
+			<w n='2-14'>
+				<text>αλληλων</text>
+				<refs nrefs='1-18'></refs>
+			</w>
+			<w n='2-15'>
+				<text>οτι</text>
+				<refs nrefs='1-19'></refs>
+			</w>
+			<w n='2-16'>
+				<text>ειπον</text>
+				<refs nrefs='1-20'></refs>
+			</w>
+			<w n='2-17'>
+				<text>μεικρον</text>
+				<refs nrefs='1-21'></refs>
+			</w>
+			<w n='2-18'>
+				<text>και</text>
+				<refs nrefs='1-22'></refs>
+			</w>
+			<w n='2-19'>
+				<text>ου</text>
+				<refs nrefs='1-23'></refs>
+			</w>
+			<w n='2-20'>
+				<text>θεωρειτε</text>
+				<refs nrefs='1-24'></refs>
+			</w>
+			<w n='2-21'>
+				<text>με</text>
+				<refs nrefs='1-25'></refs>
+			</w>
+			<w n='2-22'>
+				<text>και</text>
+				<refs nrefs='1-26'></refs>
+			</w>
+			<w n='2-23'>
+				<text>παλιν</text>
+				<refs nrefs='1-27'></refs>
+			</w>
+			<w n='2-24'>
+				<text>μεικρον</text>
+				<refs nrefs='1-28'></refs>
+			</w>
+			<w n='2-25'>
+				<text>και</text>
+				<refs nrefs='1-29'></refs>
+			</w>
+			<w n='2-26'>
+				<text>οψεσθε</text>
+				<refs nrefs='1-30'></refs>
+			</w>
+			<w n='2-27'>
+				<text>με</text>
+				<refs nrefs='1-31'></refs>
+			</w>
+			<w n='2-28'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-29'>
+				<text>περι</text>
+				<refs nrefs='1-33'></refs>
+			</w>
+			<w n='2-30'>
+				<text>δικαιοσυνης</text>
+				<refs nrefs='1-34'></refs>
+			</w>
+			<w n='2-31'>
+				<text>δε</text>
+				<refs nrefs='1-35'></refs>
+			</w>
+			<w n='2-32'>
+				<text>οτι</text>
+				<refs nrefs='1-36'></refs>
+			</w>
+			<w n='2-33'>
+				<text>προς</text>
+				<refs nrefs='1-37'></refs>
+			</w>
+			<w n='2-34'>
+				<text>τον</text>
+				<refs nrefs='1-38'></refs>
+			</w>
+			<w n='2-35'>
+				<text>πατερα</text>
+				<refs nrefs='1-39'></refs>
+			</w>
+			<w n='2-36'>
+				<text>υπαγω</text>
+				<refs nrefs='1-40'></refs>
+			</w>
+			<w n='2-37'>
+				<text>και</text>
+				<refs nrefs='1-41'></refs>
+			</w>
+			<w n='2-38'>
+				<text>ουκετι</text>
+				<refs nrefs='1-42'></refs>
+			</w>
+			<w n='2-39'>
+				<text>θεωρειτε</text>
+				<refs nrefs='1-43'></refs>
+			</w>
+			<w n='2-40'>
+				<text>με</text>
+				<refs nrefs='1-44'></refs>
+			</w>
+			<w n='2-41'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-42'>
+				<text>μεικρον</text>
+				<refs nrefs='1-46'></refs>
+			</w>
+			<w n='2-43'>
+				<text>και</text>
+				<refs nrefs='1-47'></refs>
+			</w>
+			<w n='2-44'>
+				<text>ουκετι</text>
+				<refs nrefs='1-48'></refs>
+			</w>
+			<w n='2-45'>
+				<text>θεωρειτε</text>
+				<refs nrefs='1-49'></refs>
+			</w>
+			<w n='2-46'>
+				<text>με</text>
+				<refs nrefs='1-50'></refs>
+			</w>
+			<w n='2-47'>
+				<text>και</text>
+				<refs nrefs='1-51'></refs>
+			</w>
+			<w n='2-48'>
+				<text>παλιν</text>
+				<refs nrefs='1-52'></refs>
+			</w>
+			<w n='2-49'>
+				<text>μεικρον</text>
+				<refs nrefs='1-53'></refs>
+			</w>
+			<w n='2-50'>
+				<text>και</text>
+				<refs nrefs='1-54'></refs>
+			</w>
+			<w n='2-51'>
+				<text>οψεσθε</text>
+				<refs nrefs='1-55'></refs>
+			</w>
+			<w n='2-52'>
+				<text>με</text>
+				<refs nrefs='1-56'></refs>
+			</w>
+			<w n='2-53'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-54'>
+				<text>αλλα</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-55'>
+				<text>ταυτα</text>
+				<refs nrefs='1-58'></refs>
+			</w>
+			<w n='2-56'>
+				<text>λελαληκα</text>
+				<refs nrefs='1-59'></refs>
+			</w>
+			<w n='2-57'>
+				<text>υμιν</text>
+				<refs nrefs='1-60'></refs>
+			</w>
+			<w n='2-58'>
+				<text>ινα</text>
+				<refs nrefs='1-61'></refs>
+			</w>
+			<w n='2-59'>
+				<text>οταν</text>
+				<refs nrefs='1-62'></refs>
+			</w>
+			<w n='2-60'>
+				<text>ελθη</text>
+				<refs nrefs='1-63'></refs>
+			</w>
+			<w n='2-61'>
+				<text>η</text>
+				<refs nrefs='1-64'></refs>
+			</w>
+			<w n='2-62'>
+				<text>ωρα</text>
+				<refs nrefs='1-65'></refs>
+			</w>
+			<w n='2-63'>
+				<text>αυτων</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-64'>
+				<text>μνημονευητε</text>
+				<refs nrefs='1-66'></refs>
+			</w>
+			<w n='2-65'>
+				<text>αυτων</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-66'>
+				<text>οτι</text>
+				<refs nrefs='1-67'></refs>
+			</w>
+			<w n='2-67'>
+				<text>εγω</text>
+				<refs nrefs='1-68'></refs>
+			</w>
+			<w n='2-68'>
+				<text>ειπον</text>
+				<refs nrefs='1-69'></refs>
+			</w>
+			<w n='2-69'>
+				<text>υμιν</text>
+				<refs nrefs='1-70'></refs>
+			</w>
+			<w n='2-70'>
+				<text>ταυτα</text>
+				<refs nrefs='1-71'></refs>
+			</w>
+			<w n='2-71'>
+				<text>δε</text>
+				<refs nrefs='1-72'></refs>
+			</w>
+			<w n='2-72'>
+				<text>υμιν</text>
+				<refs nrefs='1-75'></refs>
+			</w>
+			<w n='2-73'>
+				<text>εξ</text>
+				<refs nrefs='1-73'></refs>
+			</w>
+			<w n='2-74'>
+				<text>αρχης</text>
+				<refs nrefs='1-74'></refs>
+			</w>
+			<w n='2-75'>
+				<text>ουκ</text>
+				<refs nrefs='1-76'></refs>
+			</w>
+			<w n='2-76'>
+				<text>ειπον</text>
+				<refs nrefs='1-77'></refs>
+			</w>
+			<w n='2-77'>
+				<text>οτι</text>
+				<refs nrefs='1-78'></refs>
+			</w>
+			<w n='2-78'>
+				<text>μεθ</text>
+				<refs nrefs='1-79'></refs>
+			</w>
+			<w n='2-79'>
+				<text>υμων</text>
+				<refs nrefs='1-80'></refs>
+			</w>
+			<w n='2-80'>
+				<text>ημην</text>
+				<refs nrefs='1-81'></refs>
+			</w>
+			<w n='2-81'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-82'>
+				<text>εξηλθον</text>
+				<refs nrefs='1-84'></refs>
+			</w>
+			<w n='2-83'>
+				<text>εκ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-84'>
+				<text>του</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-85'>
+				<text>πατρος</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-86'>
+				<text>και</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-87'>
+				<text>εληλυθα</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-88'>
+				<text>εις</text>
+				<refs nrefs='1-85'></refs>
+			</w>
+			<w n='2-89'>
+				<text>τον</text>
+				<refs nrefs='1-86'></refs>
+			</w>
+			<w n='2-90'>
+				<text>κοσμον</text>
+				<refs nrefs='1-87'></refs>
+			</w>
+			<w n='2-91'>
+				<text>παλιν</text>
+				<refs nrefs='1-88'></refs>
+			</w>
+			<w n='2-92'>
+				<text>αφιημι</text>
+				<refs nrefs='1-89'></refs>
+			</w>
+			<w n='2-93'>
+				<text>τον</text>
+				<refs nrefs='1-90'></refs>
+			</w>
+			<w n='2-94'>
+				<text>κοσμον</text>
+				<refs nrefs='1-91'></refs>
+			</w>
+			<w n='2-95'>
+				<text>και</text>
+				<refs nrefs='1-92'></refs>
+			</w>
+			<w n='2-96'>
+				<text>πορευομαι</text>
+				<refs nrefs='1-93'></refs>
+			</w>
+			<w n='2-97'>
+				<text>προς</text>
+				<refs nrefs='1-94'></refs>
+			</w>
+			<w n='2-98'>
+				<text>τον</text>
+				<refs nrefs='1-95'></refs>
+			</w>
+			<w n='2-99'>
+				<text>πατερα</text>
+				<refs nrefs='1-96'></refs>
+			</w>
+			<w n='2-100'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-101'>
+				<text>ιδου</text>
+				<refs nrefs='1-98'></refs>
+			</w>
+			<w n='2-102'>
+				<text>ερχεται</text>
+				<refs nrefs='1-99'></refs>
+			</w>
+			<w n='2-103'>
+				<text>ωρα</text>
+				<refs nrefs='1-100'></refs>
+			</w>
+			<w n='2-104'>
+				<text>και</text>
+				<refs nrefs='1-101'></refs>
+			</w>
+			<w n='2-105'>
+				<text>εληλυθεν</text>
+				<refs nrefs='1-102'></refs>
+			</w>
+			<w n='2-106'>
+				<text>ινα</text>
+				<refs nrefs='1-103'></refs>
+			</w>
+			<w n='2-107'>
+				<text>σκορπισθητε</text>
+				<refs nrefs='1-104'></refs>
+			</w>
+			<w n='2-108'>
+				<text>εκαστος</text>
+				<refs nrefs='1-105'></refs>
+			</w>
+			<w n='2-109'>
+				<text>εις</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-110'>
+				<text>τα</text>
+				<refs nrefs='1-107'></refs>
+			</w>
+			<w n='2-111'>
+				<text>ιδια</text>
+				<refs nrefs='1-108'></refs>
+			</w>
+			<w n='2-112'>
+				<text>καμε</text>
+				<refs nrefs='1-109 1-110'></refs>
+			</w>
+			<w n='2-113'>
+				<text>μονον</text>
+				<refs nrefs='1-111'></refs>
+			</w>
+			<w n='2-114'>
+				<text>αφητε</text>
+				<refs nrefs='1-112'></refs>
+			</w>
+			<w n='2-115'>
+				<text>και</text>
+				<refs nrefs='1-113'></refs>
+			</w>
+			<w n='2-116'>
+				<text>ουκ</text>
+				<refs nrefs='1-114'></refs>
+			</w>
+			<w n='2-117'>
+				<text>ειμι</text>
+				<refs nrefs='1-115'></refs>
+			</w>
+			<w n='2-118'>
+				<text>μονος</text>
+				<refs nrefs='1-116'></refs>
+			</w>
+			<w n='2-119'>
+				<text>οτι</text>
+				<refs nrefs='1-117'></refs>
+			</w>
+			<w n='2-120'>
+				<text>ο</text>
+				<refs nrefs='1-118'></refs>
+			</w>
+			<w n='2-121'>
+				<text>πατηρ</text>
+				<refs nrefs='1-119'></refs>
+			</w>
+			<w n='2-122'>
+				<text>μετ</text>
+				<refs nrefs='1-120'></refs>
+			</w>
+			<w n='2-123'>
+				<text>εμου</text>
+				<refs nrefs='1-121'></refs>
+			</w>
+			<w n='2-124'>
+				<text>εστιν</text>
+				<refs nrefs='1-122'></refs>
+			</w>
+			<w n='2-125'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-126'>
+				<text>απεκριθη</text>
+				<refs nrefs='1-124'></refs>
+			</w>
+			<w n='2-127'>
+				<text>αυτοις</text>
+				<refs nrefs='1-125'></refs>
+			</w>
+			<w n='2-128'>
+				<text>ιησους</text>
+				<refs nrefs='1-127'></refs>
+			</w>
+			<w n='2-129'>
+				<text>αρτι</text>
+				<refs nrefs='1-128'></refs>
+			</w>
+			<w n='2-130'>
+				<text>πιστευετε</text>
+				<refs nrefs='1-129'></refs>
+			</w>
+			<w n='2-131'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-132'>
+				<text>εν</text>
+				<refs nrefs='1-131'></refs>
+			</w>
+			<w n='2-133'>
+				<text>εκεινη</text>
+				<refs nrefs='1-132'></refs>
+			</w>
+			<w n='2-134'>
+				<text>τη</text>
+				<refs nrefs='1-133'></refs>
+			</w>
+			<w n='2-135'>
+				<text>ημερα</text>
+				<refs nrefs='1-134'></refs>
+			</w>
+			<w n='2-136'>
+				<text>εν</text>
+				<refs nrefs='1-135'></refs>
+			</w>
+			<w n='2-137'>
+				<text>τω</text>
+				<refs nrefs='1-136'></refs>
+			</w>
+			<w n='2-138'>
+				<text>ονοματι</text>
+				<refs nrefs='1-137'></refs>
+			</w>
+			<w n='2-139'>
+				<text>μου</text>
+				<refs nrefs='1-138'></refs>
+			</w>
+			<w n='2-140'>
+				<text>αιτησεσθε</text>
+				<refs nrefs='1-139'></refs>
+			</w>
+			<w n='2-141'>
+				<text>και</text>
+				<refs nrefs='1-140'></refs>
+			</w>
+			<w n='2-142'>
+				<text>ου</text>
+				<refs nrefs='1-141'></refs>
+			</w>
+			<w n='2-143'>
+				<text>λεγω</text>
+				<refs nrefs='1-142'></refs>
+			</w>
+			<w n='2-144'>
+				<text>υμιν</text>
+				<refs nrefs='1-143'></refs>
+			</w>
+			<w n='2-145'>
+				<text>οτι</text>
+				<refs nrefs='1-144'></refs>
+			</w>
+			<w n='2-146'>
+				<text>εγω</text>
+				<refs nrefs='1-145'></refs>
+			</w>
+			<w n='2-147'>
+				<text>ερωτησω</text>
+				<refs nrefs='1-146'></refs>
+			</w>
+			<w n='2-148'>
+				<text>τον</text>
+				<refs nrefs='1-147'></refs>
+			</w>
+			<w n='2-149'>
+				<text>πατερα</text>
+				<refs nrefs='1-148'></refs>
+			</w>
+			<w n='2-150'>
+				<text>περι</text>
+				<refs nrefs='1-150'></refs>
+			</w>
+			<w n='2-151'>
+				<text>υμων</text>
+				<refs nrefs='1-151'></refs>
+			</w>
+			<w n='2-152'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-153'>
+				<text>περι</text>
+				<refs nrefs='1-153'></refs>
+			</w>
+			<w n='2-154'>
+				<text>δε</text>
+				<refs nrefs='1-154'></refs>
+			</w>
+			<w n='2-155'>
+				<text>κρισεως</text>
+				<refs nrefs='1-155'></refs>
+			</w>
+			<w n='2-156'>
+				<text>οτι</text>
+				<refs nrefs='1-156'></refs>
+			</w>
+			<w n='2-157'>
+				<text>ο</text>
+				<refs nrefs='1-157'></refs>
+			</w>
+			<w n='2-158'>
+				<text>αρχων</text>
+				<refs nrefs='1-158'></refs>
+			</w>
+			<w n='2-159'>
+				<text>του</text>
+				<refs nrefs='1-159'></refs>
+			</w>
+			<w n='2-160'>
+				<text>κοσμου</text>
+				<refs nrefs='1-160'></refs>
+			</w>
+			<w n='2-161'>
+				<text>τουτου</text>
+				<refs nrefs='1-161'></refs>
+			</w>
+			<w n='2-162'>
+				<text>κεκριται</text>
+				<refs nrefs='1-162'></refs>
+			</w>
+			<w n='2-163'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-164'>
+				<text>οταν</text>
+				<refs nrefs='1-164'></refs>
+			</w>
+			<w n='2-165'>
+				<text>δε</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-166'>
+				<text>ελθη</text>
+				<refs nrefs='1-165'></refs>
+			</w>
+			<w n='2-167'>
+				<text>εκεινος</text>
+				<refs nrefs='1-166'></refs>
+			</w>
+			<w n='2-168'>
+				<text>το</text>
+				<refs nrefs='1-167'></refs>
+			</w>
+			<w n='2-169'>
+				<text>πνευμα</text>
+				<refs nrefs='1-168'></refs>
+			</w>
+			<w n='2-170'>
+				<text>της</text>
+				<refs nrefs='1-169'></refs>
+			</w>
+			<w n='2-171'>
+				<text>αληθειας</text>
+				<refs nrefs='1-170'></refs>
+			</w>
+			<w n='2-172'>
+				<text>οδηγησει</text>
+				<refs nrefs='1-173'></refs>
+			</w>
+			<w n='2-173'>
+				<text>υμας</text>
+				<refs nrefs='1-172'></refs>
+			</w>
+			<w n='2-174'>
+				<text>εις</text>
+				<refs nrefs='1-174'></refs>
+			</w>
+			<w n='2-175'>
+				<text>την</text>
+				<refs nrefs='1-175'></refs>
+			</w>
+			<w n='2-176'>
+				<text>αληθειαν</text>
+				<refs nrefs='1-176'></refs>
+			</w>
+			<w n='2-177'>
+				<text>πασαν</text>
+				<refs nrefs='1-177'></refs>
+			</w>
+			<w n='2-178'>
+				<text>ου</text>
+				<refs nrefs='1-178'></refs>
+			</w>
+			<w n='2-179'>
+				<text>γαρ</text>
+				<refs nrefs='1-179'></refs>
+			</w>
+			<w n='2-180'>
+				<text>λαλησει</text>
+				<refs nrefs='1-180'></refs>
+			</w>
+			<w n='2-181'>
+				<text>αφ</text>
+				<refs nrefs='1-181'></refs>
+			</w>
+			<w n='2-182'>
+				<text>εαυτου</text>
+				<refs nrefs='1-182'></refs>
+			</w>
+			<w n='2-183'>
+				<text>αλλ</text>
+				<refs nrefs='1-183'></refs>
+			</w>
+			<w n='2-184'>
+				<text>οσα</text>
+				<refs nrefs='1-184'></refs>
+			</w>
+			<w n='2-185'>
+				<text>ακουσει</text>
+				<refs nrefs='1-185'></refs>
+			</w>
+			<w n='2-186'>
+				<text>λαλησει</text>
+				<refs nrefs='1-186'></refs>
+			</w>
+			<w n='2-187'>
+				<text>και</text>
+				<refs nrefs='1-187'></refs>
+			</w>
+			<w n='2-188'>
+				<text>τα</text>
+				<refs nrefs='1-188'></refs>
+			</w>
+			<w n='2-189'>
+				<text>ερχομενα</text>
+				<refs nrefs='1-189'></refs>
+			</w>
+			<w n='2-190'>
+				<text>αναγγελει</text>
+				<refs nrefs='1-190'></refs>
+			</w>
+			<w n='2-191'>
+				<text>υμιν</text>
+				<refs nrefs='1-191'></refs>
+			</w>
+			<w n='2-192'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-193'>
+				<text>και</text>
+				<refs nrefs='1-193'></refs>
+			</w>
+			<w n='2-194'>
+				<text>εν</text>
+				<refs nrefs='1-194'></refs>
+			</w>
+			<w n='2-195'>
+				<text>εκεινη</text>
+				<refs nrefs='1-195'></refs>
+			</w>
+			<w n='2-196'>
+				<text>τη</text>
+				<refs nrefs='1-196'></refs>
+			</w>
+			<w n='2-197'>
+				<text>ημερα</text>
+				<refs nrefs='1-197'></refs>
+			</w>
+			<w n='2-198'>
+				<text>εμε</text>
+				<refs nrefs='1-198'></refs>
+			</w>
+			<w n='2-199'>
+				<text>ουκ</text>
+				<refs nrefs='1-199'></refs>
+			</w>
+			<w n='2-200'>
+				<text>ερωτησετε</text>
+				<refs nrefs='1-200'></refs>
+			</w>
+			<w n='2-201'>
+				<text>ουδεν</text>
+				<refs nrefs='1-201'></refs>
+			</w>
+			<w n='2-202'>
+				<text>αμην</text>
+				<refs nrefs='1-202'></refs>
+			</w>
+			<w n='2-203'>
+				<text>αμην</text>
+				<refs nrefs='1-203'></refs>
+			</w>
+			<w n='2-204'>
+				<text>λεγω</text>
+				<refs nrefs='1-204'></refs>
+			</w>
+			<w n='2-205'>
+				<text>υμιν</text>
+				<refs nrefs='1-205'></refs>
+			</w>
+			<w n='2-206'>
+				<text>αν</text>
+				<refs nrefs='1-206'></refs>
+			</w>
+			<w n='2-207'>
+				<text>τι</text>
+				<refs nrefs='1-207'></refs>
+			</w>
+			<w n='2-208'>
+				<text>αιτησητε</text>
+				<refs nrefs='1-208'></refs>
+			</w>
+			<w n='2-209'>
+				<text>τον</text>
+				<refs nrefs='1-209'></refs>
+			</w>
+			<w n='2-210'>
+				<text>πατερα</text>
+				<refs nrefs='1-210'></refs>
+			</w>
+			<w n='2-211'>
+				<text>δωσει</text>
+				<refs nrefs='1-215'></refs>
+			</w>
+			<w n='2-212'>
+				<text>υμιν</text>
+				<refs nrefs='1-216'></refs>
+			</w>
+			<w n='2-213'>
+				<text>εν</text>
+				<refs nrefs='1-211'></refs>
+			</w>
+			<w n='2-214'>
+				<text>τω</text>
+				<refs nrefs='1-212'></refs>
+			</w>
+			<w n='2-215'>
+				<text>ονοματι</text>
+				<refs nrefs='1-213'></refs>
+			</w>
+			<w n='2-216'>
+				<text>μου</text>
+				<refs nrefs='1-214'></refs>
+			</w>
+			<w n='2-217'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-218'>
+				<text>εκεινος</text>
+				<refs nrefs='1-218'></refs>
+			</w>
+			<w n='2-219'>
+				<text>εμε</text>
+				<refs nrefs='1-219'></refs>
+			</w>
+			<w n='2-220'>
+				<text>δοξασει</text>
+				<refs nrefs='1-220'></refs>
+			</w>
+			<w n='2-221'>
+				<text>οτι</text>
+				<refs nrefs='1-221'></refs>
+			</w>
+			<w n='2-222'>
+				<text>εκ</text>
+				<refs nrefs='1-222'></refs>
+			</w>
+			<w n='2-223'>
+				<text>του</text>
+				<refs nrefs='1-223'></refs>
+			</w>
+			<w n='2-224'>
+				<text>εμου</text>
+				<refs nrefs='1-224'></refs>
+			</w>
+			<w n='2-225'>
+				<text>λημψεται</text>
+				<refs nrefs='1-225'></refs>
+			</w>
+			<w n='2-226'>
+				<text>και</text>
+				<refs nrefs='1-226'></refs>
+			</w>
+			<w n='2-227'>
+				<text>αναγγελει</text>
+				<refs nrefs='1-227'></refs>
+			</w>
+			<w n='2-228'>
+				<text>υμιν</text>
+				<refs nrefs='1-228'></refs>
+			</w>
+			<w n='2-229'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-230'>
+				<text>ετι</text>
+				<refs nrefs='1-230'></refs>
+			</w>
+			<w n='2-231'>
+				<text>πολλα</text>
+				<refs nrefs='1-231'></refs>
+			</w>
+			<w n='2-232'>
+				<text>εχω</text>
+				<refs nrefs='1-232'></refs>
+			</w>
+			<w n='2-233'>
+				<text>υμιν</text>
+				<refs nrefs='1-234'></refs>
+			</w>
+			<w n='2-234'>
+				<text>λεγειν</text>
+				<refs nrefs='1-233'></refs>
+			</w>
+			<w n='2-235'>
+				<text>αλλ</text>
+				<refs nrefs='1-235'></refs>
+			</w>
+			<w n='2-236'>
+				<text>ου</text>
+				<refs nrefs='1-236'></refs>
+			</w>
+			<w n='2-237'>
+				<text>δυνασθε</text>
+				<refs nrefs='1-237'></refs>
+			</w>
+			<w n='2-238'>
+				<text>βασταζειν</text>
+				<refs nrefs='1-239'></refs>
+			</w>
+			<w n='2-239'>
+				<text>αρτι</text>
+				<refs nrefs='1-240'></refs>
+			</w>
+			<w n='2-240'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-241'>
+				<text>περι</text>
+				<refs nrefs='1-242'></refs>
+			</w>
+			<w n='2-242'>
+				<text>αμαρτιας</text>
+				<refs nrefs='1-243'></refs>
+			</w>
+			<w n='2-243'>
+				<text>μεν</text>
+				<refs nrefs='1-244'></refs>
+			</w>
+			<w n='2-244'>
+				<text>οτι</text>
+				<refs nrefs='1-245'></refs>
+			</w>
+			<w n='2-245'>
+				<text>ου</text>
+				<refs nrefs='1-246'></refs>
+			</w>
+			<w n='2-246'>
+				<text>πιστευουσιν</text>
+				<refs nrefs='1-247'></refs>
+			</w>
+			<w n='2-247'>
+				<text>εις</text>
+				<refs nrefs='1-248'></refs>
+			</w>
+			<w n='2-248'>
+				<text>εμε</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-169">
+				<text>dicit</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-170">
+				<text>iesus</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-171">
+				<text>si</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-172">
+				<text>quis</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-173">
+				<text>me</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-174">
+				<text>diligit</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-175">
+				<text>uerbum</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-176">
+				<text>meum</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-177">
+				<text>serbauit</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-178">
+				<text>et</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-179">
+				<text>pater</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-180">
+				<text>meus</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-181">
+				<text>diligebit</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-182">
+				<text>illum</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-183">
+				<text>et</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-184">
+				<text>apud</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-185">
+				<text>illum</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-186">
+				<text>ueniam</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-187">
+				<text>et</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-188">
+				<text>mansionem</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-189">
+				<text>apud</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-190">
+				<text>eum</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-191">
+				<text>faciam</text>
+				<refs nrefs="2-216" />
+			</w>
+			<w n="1-192">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-191">
+				<text>respondit</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-192">
+				<text>iesus</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-193">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-194">
+				<text>dicit</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-195">
+				<text>ei</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-196">
+				<text>si</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-197">
+				<text>quis</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-198">
+				<text>diligit</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-199">
+				<text>me</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-200">
+				<text>sermonem</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-201">
+				<text>meum</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-202">
+				<text>seruabit</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-203">
+				<text>et</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-204">
+				<text>pater</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-205">
+				<text>meus</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-206">
+				<text>diligit</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-207">
+				<text>eum</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-208">
+				<text>et</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-209">
+				<text>ad</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-210">
+				<text>eum</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-211">
+				<text>ueniemus</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-212">
+				<text>et</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-213">
+				<text>aput</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-214">
+				<text>eum</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-215">
+				<text>mansionem</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-216">
+				<text>faciemus</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-217">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

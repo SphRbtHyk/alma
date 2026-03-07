@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="5"><wds lnum="L1"><w n="1-46">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-47">
+				<text>εξηλθον</text>
+				<refs nrefs="2-44" />
+			</w>
+			<w n="1-48">
+				<text>εκ</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-49">
+				<text>της</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-50">
+				<text>πολεως</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-51">
+				<text>και</text>
+				<refs nrefs="2-48" />
+			</w>
+			<w n="1-52">
+				<text>ηρχοντο</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-53">
+				<text>προς</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-54">
+				<text>αυτον</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-55">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-44">
+				<text>εξηλθον</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-45">
+				<text>εκ</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-46">
+				<text>της</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-47">
+				<text>πολεως</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-48">
+				<text>και</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-49">
+				<text>ηρχοντο</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-50">
+				<text>προς</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-51">
+				<text>αυτον</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-52">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

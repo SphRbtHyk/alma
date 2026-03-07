@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="13"><wds lnum="L1"><w n="1-201">
+				<text>qui</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-202">
+				<text>uero</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-203">
+				<text>biberit</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-204">
+				<text>de</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-205">
+				<text>illa</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-206">
+				<text>aqua</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-207">
+				<text>quam</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-208">
+				<text>ego</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-209">
+				<text>dedero</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-210">
+				<text>non</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-211">
+				<text>sitiet</text>
+				<refs nrefs="2-218" />
+			</w>
+			<w n="1-212">
+				<text>in</text>
+				<refs nrefs="2-219" />
+			</w>
+			<w n="1-213">
+				<text>eternum</text>
+				<refs nrefs="2-220" />
+			</w>
+			<w n="1-214">
+				<text>sed</text>
+				<refs nrefs="2-221" />
+			</w>
+			<w n="1-215">
+				<text>erit</text>
+				<refs nrefs="2-225 2-226" />
+			</w>
+			<w n="1-216">
+				<text>illi</text>
+				<refs nrefs="2-227 2-228" />
+			</w>
+			<w n="1-217">
+				<text>fons</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-218">
+				<text>aque</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-219">
+				<text>sallientes</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-220">
+				<text>in</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-221">
+				<text>uitam</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-222">
+				<text>eternam</text>
+				<refs nrefs="2-234" />
+			</w>
+			<w n="1-223">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-207">
+				<text>qui</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-208">
+				<text>autem</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-209">
+				<text>biberit</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-210">
+				<text>de</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-211">
+				<text>hac</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-212">
+				<text>aqua</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-213">
+				<text>qua</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-214">
+				<text>ego</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-215">
+				<text>dabo</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-216">
+				<text>ei</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-217">
+				<text>non</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-218">
+				<text>sitiet</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-219">
+				<text>in</text>
+				<refs nrefs="1-212" />
+			</w>
+			<w n="2-220">
+				<text>eternum</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-221">
+				<text>sed</text>
+				<refs nrefs="1-214" />
+			</w>
+			<w n="2-222">
+				<text>aqua</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-223">
+				<text>quam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-224">
+				<text>dabo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-225">
+				<text>ei</text>
+				<refs nrefs="1-215" />
+			</w>
+			<w n="2-226">
+				<text>fiet</text>
+				<refs nrefs="1-215" />
+			</w>
+			<w n="2-227">
+				<text>in</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-228">
+				<text>eo</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-229">
+				<text>fons</text>
+				<refs nrefs="1-217" />
+			</w>
+			<w n="2-230">
+				<text>aque</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-231">
+				<text>salientis</text>
+				<refs nrefs="1-219" />
+			</w>
+			<w n="2-232">
+				<text>in</text>
+				<refs nrefs="1-220" />
+			</w>
+			<w n="2-233">
+				<text>uitam</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-234">
+				<text>eternam</text>
+				<refs nrefs="1-222" />
+			</w>
+			<w n="2-235">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

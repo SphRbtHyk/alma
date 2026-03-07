@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-97">
+				<text>hec</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-98">
+				<text>locutusum</text>
+				<refs nrefs="2-105 2-106" />
+			</w>
+			<w n="1-99">
+				<text>uobis</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-100">
+				<text>ne</text>
+				<refs nrefs="2-109" />
+			</w>
+			<w n="1-101">
+				<text>scandalizemini</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-102">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-104">
+				<text>hec</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-105">
+				<text>locutus</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-106">
+				<text>sum</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-107">
+				<text>uobis</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-108">
+				<text>ut</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-109">
+				<text>non</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-110">
+				<text>scandalizemini</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-111">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

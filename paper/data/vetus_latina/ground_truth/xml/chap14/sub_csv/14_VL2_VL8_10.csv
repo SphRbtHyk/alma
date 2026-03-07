@@ -1,0 +1,13 @@
+source_index,source_text,target_index,target_text
+0,et,-,-
+1,nunc,0,nunc
+2,dixi,1,dixi
+3,uobis,-,-
+4,priusquam,3,antequam
+5,fiat,4,fiat
+6,ut,5,ut
+7,cum,6,cum
+8,factum,7,factum
+9,fuerit,8,fuerit
+10,credatis,9,credatis
+-,-,2,quoniam

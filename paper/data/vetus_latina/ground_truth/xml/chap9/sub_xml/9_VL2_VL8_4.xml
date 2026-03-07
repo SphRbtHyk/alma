@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-62">
+				<text>dixit</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-63">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-64">
+				<text>ille</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-65">
+				<text>si</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-66">
+				<text>peccator</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-67">
+				<text>est</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-68">
+				<text>nescio</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-69">
+				<text>unum</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-70">
+				<text>scio</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-71">
+				<text>quia</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-72">
+				<text>cecus</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-73">
+				<text>fui</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-74">
+				<text>et</text>
+				<refs nrefs="2-78" />
+			</w>
+			<w n="1-75">
+				<text>nunc</text>
+				<refs nrefs="2-79" />
+			</w>
+			<w n="1-76">
+				<text>per</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-77">
+				<text>ipsum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-78">
+				<text>uideo</text>
+				<refs nrefs="2-80" />
+			</w>
+			<w n="1-79">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-66">
+				<text>dixit</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-67">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-68">
+				<text>ille</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-69">
+				<text>si</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-70">
+				<text>peccator</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-71">
+				<text>est</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-72">
+				<text>nescio</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-73">
+				<text>unum</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-74">
+				<text>scio</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-75">
+				<text>quia</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-76">
+				<text>cecus</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-77">
+				<text>eram</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-78">
+				<text>et</text>
+				<refs nrefs="1-74" />
+			</w>
+			<w n="2-79">
+				<text>modo</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-80">
+				<text>uideo</text>
+				<refs nrefs="1-78" />
+			</w>
+			<w n="2-81">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

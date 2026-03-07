@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-241">
+				<text>dicit</text>
+				<refs nrefs="2-235" />
+			</w>
+			<w n="1-242">
+				<text>illi</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-243">
+				<text>ergo</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-244">
+				<text>pilatus</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-245">
+				<text>mihi</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-246">
+				<text>non</text>
+				<refs nrefs="2-240" />
+			</w>
+			<w n="1-247">
+				<text>loqueris</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-248">
+				<text>nescis</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-249">
+				<text>quia</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-250">
+				<text>potestatem</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-251">
+				<text>habeo</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-252">
+				<text>dimittere</text>
+				<refs nrefs="2-251" />
+			</w>
+			<w n="1-253">
+				<text>te</text>
+				<refs nrefs="2-252" />
+			</w>
+			<w n="1-254">
+				<text>et</text>
+				<refs nrefs="2-248" />
+			</w>
+			<w n="1-255">
+				<text>potestatem</text>
+				<refs nrefs="2-249" />
+			</w>
+			<w n="1-256">
+				<text>figere</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-257">
+				<text>te</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-258">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-259">
+				<text>crucem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-260">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-235">
+				<text>dicit</text>
+				<refs nrefs="1-241" />
+			</w>
+			<w n="2-236">
+				<text>ergo</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-237">
+				<text>ei</text>
+				<refs nrefs="1-242" />
+			</w>
+			<w n="2-238">
+				<text>pilatus</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-239">
+				<text>mihi</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-240">
+				<text>non</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-241">
+				<text>loqueris</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-242">
+				<text>nescis</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-243">
+				<text>quia</text>
+				<refs nrefs="1-249" />
+			</w>
+			<w n="2-244">
+				<text>potestatem</text>
+				<refs nrefs="1-250" />
+			</w>
+			<w n="2-245">
+				<text>habeo</text>
+				<refs nrefs="1-251" />
+			</w>
+			<w n="2-246">
+				<text>crucifigendi</text>
+				<refs nrefs="1-256" />
+			</w>
+			<w n="2-247">
+				<text>te</text>
+				<refs nrefs="1-257" />
+			</w>
+			<w n="2-248">
+				<text>et</text>
+				<refs nrefs="1-254" />
+			</w>
+			<w n="2-249">
+				<text>potestatem</text>
+				<refs nrefs="1-255" />
+			</w>
+			<w n="2-250">
+				<text>habeo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-251">
+				<text>dimittendi</text>
+				<refs nrefs="1-252" />
+			</w>
+			<w n="2-252">
+				<text>te</text>
+				<refs nrefs="1-253" />
+			</w>
+			<w n="2-253">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

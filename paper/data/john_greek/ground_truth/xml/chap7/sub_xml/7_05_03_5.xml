@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="5"><wds lnum="L1"><w n="1-82">
+				<text>μη</text>
+				<refs nrefs="2-80" />
+			</w>
+			<w n="1-83">
+				<text>τις</text>
+				<refs nrefs="2-81" />
+			</w>
+			<w n="1-84">
+				<text>εκ</text>
+				<refs nrefs="2-82" />
+			</w>
+			<w n="1-85">
+				<text>των</text>
+				<refs nrefs="2-83" />
+			</w>
+			<w n="1-86">
+				<text>αρχοντων</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-87">
+				<text>πιστευει</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-88">
+				<text>εις</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-89">
+				<text>αυτον</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-90">
+				<text>η</text>
+				<refs nrefs="2-88" />
+			</w>
+			<w n="1-91">
+				<text>εκ</text>
+				<refs nrefs="2-89" />
+			</w>
+			<w n="1-92">
+				<text>των</text>
+				<refs nrefs="2-90" />
+			</w>
+			<w n="1-93">
+				<text>φαρισαιων</text>
+				<refs nrefs="2-91" />
+			</w>
+			<w n="1-94">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-80">
+				<text>μη</text>
+				<refs nrefs="1-82" />
+			</w>
+			<w n="2-81">
+				<text>τις</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-82">
+				<text>εκ</text>
+				<refs nrefs="1-84" />
+			</w>
+			<w n="2-83">
+				<text>των</text>
+				<refs nrefs="1-85" />
+			</w>
+			<w n="2-84">
+				<text>αρχοντων</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-85">
+				<text>επιστευσεν</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-86">
+				<text>εις</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-87">
+				<text>αυτον</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-88">
+				<text>η</text>
+				<refs nrefs="1-90" />
+			</w>
+			<w n="2-89">
+				<text>εκ</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-90">
+				<text>των</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-91">
+				<text>φαρεισαιων</text>
+				<refs nrefs="1-93" />
+			</w>
+			<w n="2-92">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

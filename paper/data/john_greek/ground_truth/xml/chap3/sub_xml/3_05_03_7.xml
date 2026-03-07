@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="7"><wds lnum="L1"><w n="1-134">
+				<text>εκεινον</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-135">
+				<text>δει</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-136">
+				<text>αυξανειν</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-137">
+				<text>εμε</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-138">
+				<text>δε</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-139">
+				<text>ελαττουσθαι</text>
+				<refs nrefs="2-138" />
+			</w>
+			<w n="1-140">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-133">
+				<text>εκεινον</text>
+				<refs nrefs="1-134" />
+			</w>
+			<w n="2-134">
+				<text>δει</text>
+				<refs nrefs="1-135" />
+			</w>
+			<w n="2-135">
+				<text>αυξανειν</text>
+				<refs nrefs="1-136" />
+			</w>
+			<w n="2-136">
+				<text>εμε</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-137">
+				<text>δε</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-138">
+				<text>ελαττουσθαι</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-139">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

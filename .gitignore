@@ -1,0 +1,16 @@
+**/venv
+.venv/
+**/__pycache__
+tests/__pycache__
+.pytest_cache
+leftovers.py
+*working.ipynb
+.DS_Store
+models/**
+paper/results/backup_revision/
+paper/results/fix/
+paper/models/
+paper/benchmarking/nohup.out
+.vscode/*
+stanza_models
+notebooks/

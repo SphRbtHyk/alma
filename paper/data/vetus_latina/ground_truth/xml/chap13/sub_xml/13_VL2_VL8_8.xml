@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-114">
+				<text>dicit</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-115">
+				<text>illi</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-116">
+				<text>petrus</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-117">
+				<text>non</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-118">
+				<text>labas</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-119">
+				<text>mihi</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-120">
+				<text>pedes</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-121">
+				<text>in</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-122">
+				<text>eternum</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-123">
+				<text>respondit</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-124">
+				<text>iesus</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-125">
+				<text>nisi</text>
+				<refs nrefs="2-130 2-131" />
+			</w>
+			<w n="1-126">
+				<text>labero</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-127">
+				<text>tibi</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-128">
+				<text>pedes</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-129">
+				<text>non</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-130">
+				<text>habebis</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-131">
+				<text>partem</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-132">
+				<text>mecum</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-133">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-118">
+				<text>dicit</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-119">
+				<text>ei</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-120">
+				<text>petrus</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-121">
+				<text>non</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-122">
+				<text>lauabis</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-123">
+				<text>mihi</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-124">
+				<text>pedes</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-125">
+				<text>in</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-126">
+				<text>eternum</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-127">
+				<text>respondit</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-128">
+				<text>illi</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-129">
+				<text>iesus</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-130">
+				<text>si</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-131">
+				<text>non</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-132">
+				<text>lauero</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-133">
+				<text>te</text>
+				<refs nrefs="1-127 1-128" />
+			</w>
+			<w n="2-134">
+				<text>non</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-135">
+				<text>habebis</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-136">
+				<text>partem</text>
+				<refs nrefs="1-131" />
+			</w>
+			<w n="2-137">
+				<text>mecum</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-138">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

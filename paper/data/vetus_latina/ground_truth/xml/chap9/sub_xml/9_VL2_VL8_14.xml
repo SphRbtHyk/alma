@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-228">
+				<text>iterum</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-229">
+				<text>ergo</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-230">
+				<text>interrogauerunt</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-231">
+				<text>eum</text>
+				<refs nrefs="2-240" />
+			</w>
+			<w n="1-232">
+				<text>farisei</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-233">
+				<text>quomodo</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-234">
+				<text>lumen</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-235">
+				<text>recepisti</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-236">
+				<text>ille</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-237">
+				<text>autem</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-238">
+				<text>dixit</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-239">
+				<text>homo</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-240">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-241">
+				<text>dicitur</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-242">
+				<text>iesus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-243">
+				<text>lutum</text>
+				<refs nrefs="2-248" />
+			</w>
+			<w n="1-244">
+				<text>inposuit</text>
+				<refs nrefs="2-249" />
+			</w>
+			<w n="1-245">
+				<text>mihi</text>
+				<refs nrefs="2-250" />
+			</w>
+			<w n="1-246">
+				<text>super</text>
+				<refs nrefs="2-251" />
+			</w>
+			<w n="1-247">
+				<text>oculos</text>
+				<refs nrefs="2-252" />
+			</w>
+			<w n="1-248">
+				<text>et</text>
+				<refs nrefs="2-253" />
+			</w>
+			<w n="1-249">
+				<text>laui</text>
+				<refs nrefs="2-254" />
+			</w>
+			<w n="1-250">
+				<text>oculos</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-251">
+				<text>et</text>
+				<refs nrefs="2-255" />
+			</w>
+			<w n="1-252">
+				<text>uideo</text>
+				<refs nrefs="2-257" />
+			</w>
+			<w n="1-253">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-237">
+				<text>iterum</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-238">
+				<text>ergo</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-239">
+				<text>interrogabant</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-240">
+				<text>eum</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-241">
+				<text>pharisei</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-242">
+				<text>quomodo</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-243">
+				<text>uidisti</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-244">
+				<text>ille</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-245">
+				<text>autem</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-246">
+				<text>dixit</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-247">
+				<text>eis</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-248">
+				<text>lutum</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-249">
+				<text>posuit</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-250">
+				<text>mihi</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-251">
+				<text>super</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-252">
+				<text>oculus</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-253">
+				<text>et</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-254">
+				<text>laui</text>
+				<refs nrefs="1-249" />
+			</w>
+			<w n="2-255">
+				<text>et</text>
+				<refs nrefs="1-251" />
+			</w>
+			<w n="2-256">
+				<text>ecce</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-257">
+				<text>uideo</text>
+				<refs nrefs="1-252" />
+			</w>
+			<w n="2-258">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="6"><wds lnum="L1"><w n="1-75">
+				<text>itaque</text>
+				<refs nrefs="2-80" />
+			</w>
+			<w n="1-76">
+				<text>farisei</text>
+				<refs nrefs="2-79" />
+			</w>
+			<w n="1-77">
+				<text>dixerunt</text>
+				<refs nrefs="2-81" />
+			</w>
+			<w n="1-78">
+				<text>ad</text>
+				<refs nrefs="2-82" />
+			</w>
+			<w n="1-79">
+				<text>il</text>
+				<refs nrefs="2-83" />
+			</w>
+			<w n="1-80">
+				<text>los</text>
+				<refs nrefs="2-83" />
+			</w>
+			<w n="1-81">
+				<text>uidetis</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-82">
+				<text>quod</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-83">
+				<text>nihil</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-84">
+				<text>procitis</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-85">
+				<text>ecce</text>
+				<refs nrefs="2-88" />
+			</w>
+			<w n="1-86">
+				<text>post</text>
+				<refs nrefs="2-92" />
+			</w>
+			<w n="1-87">
+				<text>illum</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-88">
+				<text>uniuersus</text>
+				<refs nrefs="2-89" />
+			</w>
+			<w n="1-89">
+				<text>mundus</text>
+				<refs nrefs="2-90" />
+			</w>
+			<w n="1-90">
+				<text>abiit</text>
+				<refs nrefs="2-91" />
+			</w>
+			<w n="1-91">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-79">
+				<text>pharisei</text>
+				<refs nrefs="1-76" />
+			</w>
+			<w n="2-80">
+				<text>autem</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-81">
+				<text>dixerunt</text>
+				<refs nrefs="1-77" />
+			</w>
+			<w n="2-82">
+				<text>ad</text>
+				<refs nrefs="1-78" />
+			</w>
+			<w n="2-83">
+				<text>semetipsos</text>
+				<refs nrefs="1-79 1-80" />
+			</w>
+			<w n="2-84">
+				<text>uidetis</text>
+				<refs nrefs="1-81" />
+			</w>
+			<w n="2-85">
+				<text>quia</text>
+				<refs nrefs="1-82" />
+			</w>
+			<w n="2-86">
+				<text>nihil</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-87">
+				<text>profecit</text>
+				<refs nrefs="1-84" />
+			</w>
+			<w n="2-88">
+				<text>ecce</text>
+				<refs nrefs="1-85" />
+			</w>
+			<w n="2-89">
+				<text>unus</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-90">
+				<text>populus</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-91">
+				<text>sequitur</text>
+				<refs nrefs="1-90" />
+			</w>
+			<w n="2-92">
+				<text>post</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-93">
+				<text>illum</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-94">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

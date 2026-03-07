@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="5"><wds lnum="L1"><w n="1-58">
+				<text>et</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-59">
+				<text>statim</text>
+				<refs nrefs="2-64 2-65" />
+			</w>
+			<w n="1-60">
+				<text>intrauit</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-61">
+				<text>in</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-62">
+				<text>eum</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-63">
+				<text>satanas</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-64">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-65">
+				<text>dicit</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-66">
+				<text>ei</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-67">
+				<text>iesus</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-68">
+				<text>quod</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-69">
+				<text>facies</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-70">
+				<text>citius</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-71">
+				<text>fac</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-72">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-63">
+				<text>et</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-64">
+				<text>post</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-65">
+				<text>bucellam</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-66">
+				<text>introiuit</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-67">
+				<text>in</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-68">
+				<text>illum</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-69">
+				<text>satanas</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-70">
+				<text>dicit</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-71">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-72">
+				<text>ei</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-73">
+				<text>iesus</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-74">
+				<text>quod</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-75">
+				<text>facis</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-76">
+				<text>fac</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-77">
+				<text>celerius</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-78">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

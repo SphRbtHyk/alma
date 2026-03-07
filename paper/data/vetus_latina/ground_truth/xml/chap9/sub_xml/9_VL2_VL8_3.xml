@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="3"><wds lnum="L1"><w n="1-48">
+				<text>responderunt</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-49">
+				<text>parentes</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-50">
+				<text>eius</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-51">
+				<text>et</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-52">
+				<text>dixerunt</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-53">
+				<text>hic</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-54">
+				<text>est</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-55">
+				<text>filius</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-56">
+				<text>noster</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-57">
+				<text>qui</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-58">
+				<text>natus</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-59">
+				<text>est</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-60">
+				<text>cecus</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-61">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-49">
+				<text>responderunt</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-50">
+				<text>parentes</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-51">
+				<text>eius</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-52">
+				<text>et</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-53">
+				<text>dixerunt</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-54">
+				<text>scimus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-55">
+				<text>quia</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-56">
+				<text>hic</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-57">
+				<text>filius</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-58">
+				<text>noster</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-59">
+				<text>est</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-60">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-61">
+				<text>quoniam</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-62">
+				<text>cecus</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-63">
+				<text>natus</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-64">
+				<text>est</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-65">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

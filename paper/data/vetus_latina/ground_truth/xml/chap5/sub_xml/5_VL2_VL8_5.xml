@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="5"><wds lnum="L1"><w n="1-78">
+				<text>angelus</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-79">
+				<text>enim</text>
+				<refs nrefs="2-78" />
+			</w>
+			<w n="1-80">
+				<text>cata</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-81">
+				<text>tempus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-82">
+				<text>discendebat</text>
+				<refs nrefs="2-79" />
+			</w>
+			<w n="1-83">
+				<text>in</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-84">
+				<text>natatoria</text>
+				<refs nrefs="2-88" />
+			</w>
+			<w n="1-85">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-86">
+				<text>turbabat</text>
+				<refs nrefs="2-81" />
+			</w>
+			<w n="1-87">
+				<text>aquam</text>
+				<refs nrefs="2-82" />
+			</w>
+			<w n="1-88">
+				<text>qui</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-89">
+				<text>primus</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-90">
+				<text>igitur</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-91">
+				<text>discendisset</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-92">
+				<text>post</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-93">
+				<text>turbationem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-94">
+				<text>aque</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-95">
+				<text>sanus</text>
+				<refs nrefs="2-89" />
+			</w>
+			<w n="1-96">
+				<text>efficiebatur</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-97">
+				<text>de</text>
+				<refs nrefs="2-91" />
+			</w>
+			<w n="1-98">
+				<text>quacumque</text>
+				<refs nrefs="2-92" />
+			</w>
+			<w n="1-99">
+				<text>tentus</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-100">
+				<text>fuisset</text>
+				<refs nrefs="2-90" />
+			</w>
+			<w n="1-101">
+				<text>infirmitate</text>
+				<refs nrefs="2-94" />
+			</w>
+			<w n="1-102">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-77">
+				<text>angelus</text>
+				<refs nrefs="1-78" />
+			</w>
+			<w n="2-78">
+				<text>autem</text>
+				<refs nrefs="1-79" />
+			</w>
+			<w n="2-79">
+				<text>descendebat</text>
+				<refs nrefs="1-82" />
+			</w>
+			<w n="2-80">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-81">
+				<text>mouebat</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-82">
+				<text>aquam</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-83">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-84">
+				<text>quicumque</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-85">
+				<text>prior</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-86">
+				<text>descendisset</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-87">
+				<text>in</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-88">
+				<text>natatoria</text>
+				<refs nrefs="1-84" />
+			</w>
+			<w n="2-89">
+				<text>sanus</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-90">
+				<text>fiebat</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-91">
+				<text>a</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-92">
+				<text>quacumque</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-93">
+				<text>tenebatur</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-94">
+				<text>infirmitate</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-95">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

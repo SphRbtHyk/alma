@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-50">
+				<text>de</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-51">
+				<text>iustitia</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-52">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-53">
+				<text>quia</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-54">
+				<text>ad</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-55">
+				<text>patrem</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-56">
+				<text>uado</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-57">
+				<text>et</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-58">
+				<text>iam</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-59">
+				<text>non</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-60">
+				<text>uidebitis</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-61">
+				<text>me</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-62">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-52">
+				<text>de</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-53">
+				<text>iustitia</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-54">
+				<text>uero</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-55">
+				<text>quia</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-56">
+				<text>ad</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-57">
+				<text>patrem</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-58">
+				<text>uado</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-59">
+				<text>et</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-60">
+				<text>iam</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-61">
+				<text>non</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-62">
+				<text>uidebitis</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-63">
+				<text>me</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-64">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

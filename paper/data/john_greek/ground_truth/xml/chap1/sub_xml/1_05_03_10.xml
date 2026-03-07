@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="10"><wds lnum="L1"><w n="1-140">
+				<text>παντα</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-141">
+				<text>δι</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-142">
+				<text>αυτου</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-143">
+				<text>ενεγετο</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-144">
+				<text>και</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-145">
+				<text>χωρις</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-146">
+				<text>αυτου</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-147">
+				<text>εγενετο</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-148">
+				<text>ουδεν</text>
+				<refs nrefs="2-149 2-150" />
+			</w>
+			<w n="1-149">
+				<text>ο</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-150">
+				<text>γεγονεν</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-151">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-141">
+				<text>παντα</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-142">
+				<text>δι</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-143">
+				<text>αυτου</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-144">
+				<text>εγενετο</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-145">
+				<text>και</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-146">
+				<text>χωρις</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-147">
+				<text>αυτου</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-148">
+				<text>εγενετο</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-149">
+				<text>ουδε</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-150">
+				<text>εν</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-151">
+				<text>ο</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-152">
+				<text>γεγονεν</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-153">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

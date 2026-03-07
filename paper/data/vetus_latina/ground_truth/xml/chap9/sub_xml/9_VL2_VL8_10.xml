@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-166">
+				<text>dum</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-167">
+				<text>sum</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-168">
+				<text>in</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-169">
+				<text>seculo</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-170">
+				<text>lux</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-171">
+				<text>sum</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-172">
+				<text>seculi</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-173">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-172">
+				<text>cum</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-173">
+				<text>in</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-174">
+				<text>hoc</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-175">
+				<text>mundo</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-176">
+				<text>sum</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-177">
+				<text>lux</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-178">
+				<text>sum</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-179">
+				<text>huius</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-180">
+				<text>mundi</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-181">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

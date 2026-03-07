@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-146">
+				<text>et</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-147">
+				<text>lacrimatus</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-148">
+				<text>est</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-149">
+				<text>iesus</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-150">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-153">
+				<text>et</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-154">
+				<text>lacrimatus</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-155">
+				<text>est</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-156">
+				<text>iesus</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-157">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

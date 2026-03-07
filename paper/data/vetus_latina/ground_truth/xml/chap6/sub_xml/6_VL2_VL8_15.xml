@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="15"><wds lnum="L1"><w n="1-227">
+				<text>patres</text>
+				<refs nrefs="2-228" />
+			</w>
+			<w n="1-228">
+				<text>nostri</text>
+				<refs nrefs="2-227" />
+			</w>
+			<w n="1-229">
+				<text>mannam</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-230">
+				<text>manducauerunt</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-231">
+				<text>in</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-232">
+				<text>deserto</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-233">
+				<text>sicut</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-234">
+				<text>scriptum</text>
+				<refs nrefs="2-234" />
+			</w>
+			<w n="1-235">
+				<text>est</text>
+				<refs nrefs="2-235" />
+			</w>
+			<w n="1-236">
+				<text>panem</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-237">
+				<text>de</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-238">
+				<text>celo</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-239">
+				<text>dedit</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-240">
+				<text>illis</text>
+				<refs nrefs="2-240" />
+			</w>
+			<w n="1-241">
+				<text>manducare</text>
+				<refs nrefs="2-241" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-227">
+				<text>nostri</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-228">
+				<text>patres</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-229">
+				<text>manducauerunt</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-230">
+				<text>mannam</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-231">
+				<text>in</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-232">
+				<text>deserto</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-233">
+				<text>sicut</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-234">
+				<text>scriptum</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-235">
+				<text>est</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-236">
+				<text>panem</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-237">
+				<text>de</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-238">
+				<text>celo</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-239">
+				<text>dedit</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-240">
+				<text>eis</text>
+				<refs nrefs="1-240" />
+			</w>
+			<w n="2-241">
+				<text>manducare</text>
+				<refs nrefs="1-241" />
+			</w>
+		</wds></sentence></aligned-text>

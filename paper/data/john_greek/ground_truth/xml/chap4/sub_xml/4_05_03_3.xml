@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="3"><wds lnum="L1"><w n="1-25">
+				<text>αφηκεν</text>
+				<refs nrefs="2-25" />
+			</w>
+			<w n="1-26">
+				<text>την</text>
+				<refs nrefs="2-26" />
+			</w>
+			<w n="1-27">
+				<text>ιουδαιαν</text>
+				<refs nrefs="2-27" />
+			</w>
+			<w n="1-28">
+				<text>γην</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-29">
+				<text>και</text>
+				<refs nrefs="2-28" />
+			</w>
+			<w n="1-30">
+				<text>απηλθεν</text>
+				<refs nrefs="2-29" />
+			</w>
+			<w n="1-31">
+				<text>παλιν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-32">
+				<text>εις</text>
+				<refs nrefs="2-30" />
+			</w>
+			<w n="1-33">
+				<text>την</text>
+				<refs nrefs="2-31" />
+			</w>
+			<w n="1-34">
+				<text>γαλιλαιαν</text>
+				<refs nrefs="2-32" />
+			</w>
+			<w n="1-35">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-25">
+				<text>αφηκεν</text>
+				<refs nrefs="1-25" />
+			</w>
+			<w n="2-26">
+				<text>την</text>
+				<refs nrefs="1-26" />
+			</w>
+			<w n="2-27">
+				<text>ιουδαιαν</text>
+				<refs nrefs="1-27" />
+			</w>
+			<w n="2-28">
+				<text>και</text>
+				<refs nrefs="1-29" />
+			</w>
+			<w n="2-29">
+				<text>απηλ</text>
+				<refs nrefs="1-30" />
+			</w>
+			<w n="2-30">
+				<text>εις</text>
+				<refs nrefs="1-32" />
+			</w>
+			<w n="2-31">
+				<text>την</text>
+				<refs nrefs="1-33" />
+			</w>
+			<w n="2-32">
+				<text>γαλειλαιαν</text>
+				<refs nrefs="1-34" />
+			</w>
+			<w n="2-33">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

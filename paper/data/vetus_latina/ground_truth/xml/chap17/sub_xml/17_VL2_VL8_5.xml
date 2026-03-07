@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="5"><wds lnum="L1"><w n="1-83">
+				<text>hec</text>
+				<refs nrefs="2-83" />
+			</w>
+			<w n="1-84">
+				<text>locutus</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-85">
+				<text>est</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-86">
+				<text>iesus</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-87">
+				<text>et</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-88">
+				<text>adleuauit</text>
+				<refs nrefs="2-88" />
+			</w>
+			<w n="1-89">
+				<text>oculos</text>
+				<refs nrefs="2-89" />
+			</w>
+			<w n="1-90">
+				<text>in</text>
+				<refs nrefs="2-91" />
+			</w>
+			<w n="1-91">
+				<text>celo</text>
+				<refs nrefs="2-92" />
+			</w>
+			<w n="1-92">
+				<text>et</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-93">
+				<text>dixit</text>
+				<refs nrefs="2-94" />
+			</w>
+			<w n="1-94">
+				<text>pater</text>
+				<refs nrefs="2-95" />
+			</w>
+			<w n="1-95">
+				<text>uenit</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-96">
+				<text>hora</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-97">
+				<text>clarifica</text>
+				<refs nrefs="2-98" />
+			</w>
+			<w n="1-98">
+				<text>filium</text>
+				<refs nrefs="2-99" />
+			</w>
+			<w n="1-99">
+				<text>tuum</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-100">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-101">
+				<text>filius</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-102">
+				<text>clarificet</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-103">
+				<text>te</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-104">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-83">
+				<text>hec</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-84">
+				<text>locutus</text>
+				<refs nrefs="1-84" />
+			</w>
+			<w n="2-85">
+				<text>est</text>
+				<refs nrefs="1-85" />
+			</w>
+			<w n="2-86">
+				<text>iesus</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-87">
+				<text>et</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-88">
+				<text>leuauit</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-89">
+				<text>oculus</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-90">
+				<text>suos</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-91">
+				<text>in</text>
+				<refs nrefs="1-90" />
+			</w>
+			<w n="2-92">
+				<text>celum</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-93">
+				<text>et</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-94">
+				<text>dixit</text>
+				<refs nrefs="1-93" />
+			</w>
+			<w n="2-95">
+				<text>pater</text>
+				<refs nrefs="1-94" />
+			</w>
+			<w n="2-96">
+				<text>uenit</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-97">
+				<text>hora</text>
+				<refs nrefs="1-96" />
+			</w>
+			<w n="2-98">
+				<text>clarifica</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-99">
+				<text>filium</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-100">
+				<text>tuum</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-101">
+				<text>ut</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-102">
+				<text>filius</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-103">
+				<text>clarificet</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-104">
+				<text>te</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-105">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

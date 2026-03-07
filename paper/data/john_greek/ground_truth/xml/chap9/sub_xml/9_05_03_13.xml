@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="13"><wds lnum="L1"><w n="1-205">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-206">
+				<text>ηκουσεν</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-207">
+				<text>ο</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-208">
+				<text>ιησους</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-209">
+				<text>οτι</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-210">
+				<text>εξεβαλον</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-211">
+				<text>αυτον</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-212">
+				<text>και</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-213">
+				<text>ευρεν</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-214">
+				<text>αυτον</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-215">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-216">
+				<text>ειπεν</text>
+				<refs nrefs="2-216" />
+			</w>
+			<w n="1-217">
+				<text>συ</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-218">
+				<text>πιστευεις</text>
+				<refs nrefs="2-218" />
+			</w>
+			<w n="1-219">
+				<text>εις</text>
+				<refs nrefs="2-219" />
+			</w>
+			<w n="1-220">
+				<text>τον</text>
+				<refs nrefs="2-220" />
+			</w>
+			<w n="1-221">
+				<text>υιον</text>
+				<refs nrefs="2-221" />
+			</w>
+			<w n="1-222">
+				<text>του</text>
+				<refs nrefs="2-222" />
+			</w>
+			<w n="1-223">
+				<text>ανθρωπου</text>
+				<refs nrefs="2-223" />
+			</w>
+			<w n="1-224">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-207">
+				<text>ηκουσεν</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-208">
+				<text>ιησους</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-209">
+				<text>οτι</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-210">
+				<text>εξεβαλον</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-211">
+				<text>αυτον</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-212">
+				<text>εξω</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-213">
+				<text>και</text>
+				<refs nrefs="1-212" />
+			</w>
+			<w n="2-214">
+				<text>ευρων</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-215">
+				<text>αυτον</text>
+				<refs nrefs="1-214" />
+			</w>
+			<w n="2-216">
+				<text>ειπεν</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-217">
+				<text>συ</text>
+				<refs nrefs="1-217" />
+			</w>
+			<w n="2-218">
+				<text>πιστευεις</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-219">
+				<text>εις</text>
+				<refs nrefs="1-219" />
+			</w>
+			<w n="2-220">
+				<text>τον</text>
+				<refs nrefs="1-220" />
+			</w>
+			<w n="2-221">
+				<text>υιον</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-222">
+				<text>του</text>
+				<refs nrefs="1-222" />
+			</w>
+			<w n="2-223">
+				<text>ανθρωπου</text>
+				<refs nrefs="1-223" />
+			</w>
+			<w n="2-224">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

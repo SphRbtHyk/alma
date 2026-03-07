@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="6"><wds lnum="L1"><w n="1-99">
+				<text>πατερ</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-100">
+				<text>δοξασον</text>
+				<refs nrefs="2-101" />
+			</w>
+			<w n="1-101">
+				<text>σου</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-102">
+				<text>το</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-103">
+				<text>ονομα</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-104">
+				<text>εν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-105">
+				<text>τη</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-106">
+				<text>δοξη</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-107">
+				<text>η</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-108">
+				<text>ειχον</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-109">
+				<text>παρα</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-110">
+				<text>σοι</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-111">
+				<text>προ</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-112">
+				<text>του</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-113">
+				<text>τον</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-114">
+				<text>κοσμον</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-115">
+				<text>γενεσθαι</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-116">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-117">
+				<text>εγενετο</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-118">
+				<text>φωνη</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-119">
+				<text>εκ</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-120">
+				<text>του</text>
+				<refs nrefs="2-109" />
+			</w>
+			<w n="1-121">
+				<text>ουρανου</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-122">
+				<text>λεγουσα</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-123">
+				<text>και</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-124">
+				<text>εδοξασα</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-125">
+				<text>και</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-126">
+				<text>παλιν</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-127">
+				<text>δοξασω</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-128">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-100">
+				<text>πατηρ</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-101">
+				<text>δοξασον</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-102">
+				<text>μου</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-103">
+				<text>το</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-104">
+				<text>ονομα</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-105">
+				<text>ηλθεν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-106">
+				<text>ουν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-107">
+				<text>φωνη</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-108">
+				<text>εκ</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-109">
+				<text>του</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-110">
+				<text>ουρανου</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-111">
+				<text>και</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-112">
+				<text>εδοξασα</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-113">
+				<text>και</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-114">
+				<text>παλιν</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-115">
+				<text>δοξασω</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-116">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

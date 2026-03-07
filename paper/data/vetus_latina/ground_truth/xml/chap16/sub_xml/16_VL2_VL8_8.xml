@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-103">
+				<text>mulier</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-104">
+				<text>cum</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-105">
+				<text>parit</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-106">
+				<text>tristitiam</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-107">
+				<text>habet</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-108">
+				<text>quia</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-109">
+				<text>ueniet</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-110">
+				<text>dies</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-111">
+				<text>eius</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-112">
+				<text>cum</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-113">
+				<text>autem</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-114">
+				<text>natus</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-115">
+				<text>fuerit</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-116">
+				<text>infans</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-117">
+				<text>iam</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-118">
+				<text>non</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-119">
+				<text>habet</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-120">
+				<text>in</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-121">
+				<text>mentem</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-122">
+				<text>pressuram</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-123">
+				<text>propter</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-124">
+				<text>gaudium</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-125">
+				<text>quia</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-126">
+				<text>natus</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-127">
+				<text>est</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-128">
+				<text>homo</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-129">
+				<text>in</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-130">
+				<text>seculum</text>
+				<refs nrefs="2-138" />
+			</w>
+			<w n="1-131">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-112">
+				<text>mulier</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-113">
+				<text>cum</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-114">
+				<text>parit</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-115">
+				<text>tristitiam</text>
+				<refs nrefs="1-106" />
+			</w>
+			<w n="2-116">
+				<text>habet</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-117">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-118">
+				<text>quia</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-119">
+				<text>uenit</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-120">
+				<text>dies</text>
+				<refs nrefs="1-110" />
+			</w>
+			<w n="2-121">
+				<text>eius</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-122">
+				<text>cum</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-123">
+				<text>autem</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-124">
+				<text>pepererit</text>
+				<refs nrefs="1-114 1-115" />
+			</w>
+			<w n="2-125">
+				<text>puerum</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-126">
+				<text>iam</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-127">
+				<text>non</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-128">
+				<text>meminit</text>
+				<refs nrefs="1-119 1-120 1-121" />
+			</w>
+			<w n="2-129">
+				<text>pressure</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-130">
+				<text>propter</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-131">
+				<text>gaudium</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-132">
+				<text>quia</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-133">
+				<text>natus</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-134">
+				<text>est</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-135">
+				<text>homo</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-136">
+				<text>in</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-137">
+				<text>hunc</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-138">
+				<text>mundum</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-139">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

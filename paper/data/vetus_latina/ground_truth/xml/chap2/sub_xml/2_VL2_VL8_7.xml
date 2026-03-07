@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-101">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-102">
+				<text>quoniam</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-103">
+				<text>non</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-104">
+				<text>necesse</text>
+				<refs nrefs="2-105" />
+			</w>
+			<w n="1-105">
+				<text>habebat</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-106">
+				<text>quis</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-107">
+				<text>testes</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-108">
+				<text>esset</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-109">
+				<text>de</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-110">
+				<text>homine</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-111">
+				<text>ipse</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-112">
+				<text>enim</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-113">
+				<text>sciebat</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-114">
+				<text>quid</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-115">
+				<text>esset</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-116">
+				<text>in</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-117">
+				<text>hominem</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-118">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-104">
+				<text>quia</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-105">
+				<text>opus</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-106">
+				<text>ei</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-107">
+				<text>non</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-108">
+				<text>erat</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-109">
+				<text>ut</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-110">
+				<text>quis</text>
+				<refs nrefs="1-106" />
+			</w>
+			<w n="2-111">
+				<text>testimonium</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-112">
+				<text>perhiberet</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-113">
+				<text>de</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-114">
+				<text>homine</text>
+				<refs nrefs="1-110" />
+			</w>
+			<w n="2-115">
+				<text>ipse</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-116">
+				<text>enim</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-117">
+				<text>sciebat</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-118">
+				<text>quid</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-119">
+				<text>esset</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-120">
+				<text>in</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-121">
+				<text>hominem</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-122">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

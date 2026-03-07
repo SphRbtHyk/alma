@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="13"><wds lnum="L1"><w n="1-194">
+				<text>ο</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-195">
+				<text>ασθενων</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-196">
+				<text>ουκ</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-197">
+				<text>ηδει</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-198">
+				<text>τις</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-199">
+				<text>ην</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-200">
+				<text>ο</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-201">
+				<text>γαρ</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-202">
+				<text>ιησους</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-203">
+				<text>ενευσεν</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-204">
+				<text>οχλου</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-205">
+				<text>οντος</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-206">
+				<text>εν</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-207">
+				<text>τω</text>
+				<refs nrefs="2-216" />
+			</w>
+			<w n="1-208">
+				<text>τοπω</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-209">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-202">
+				<text>ο</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-203">
+				<text>δε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-204">
+				<text>ιαθεις</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-205">
+				<text>ουκ</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-206">
+				<text>ηδει</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-207">
+				<text>τις</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-208">
+				<text>εστιν</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-209">
+				<text>ο</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-210">
+				<text>γαρ</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-211">
+				<text>ιησους</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-212">
+				<text>εξενευσεν</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-213">
+				<text>οχλου</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-214">
+				<text>οντος</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-215">
+				<text>εν</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-216">
+				<text>τω</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-217">
+				<text>τοπω</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-218">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

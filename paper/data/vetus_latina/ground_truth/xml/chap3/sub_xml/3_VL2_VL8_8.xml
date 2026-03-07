@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-142">
+				<text>hic</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-143">
+				<text>uenit</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-144">
+				<text>ad</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-145">
+				<text>iesum</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-146">
+				<text>nocte</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-147">
+				<text>eit</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-148">
+				<text>illi</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-149">
+				<text>rabbi</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-150">
+				<text>scimus</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-151">
+				<text>quia</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-152">
+				<text>a</text>
+				<refs nrefs="2-138" />
+			</w>
+			<w n="1-153">
+				<text>deo</text>
+				<refs nrefs="2-139" />
+			</w>
+			<w n="1-154">
+				<text>uenisti</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-155">
+				<text>magister</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-156">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-157">
+				<text>nemo</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-158">
+				<text>potest</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-159">
+				<text>talia</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-160">
+				<text>signa</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-161">
+				<text>facere</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-162">
+				<text>que</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-163">
+				<text>tu</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-164">
+				<text>facis</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-165">
+				<text>nisi</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-166">
+				<text>fuerit</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-167">
+				<text>deus</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-168">
+				<text>cum</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-169">
+				<text>illo</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-170">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-127">
+				<text>hic</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-128">
+				<text>uenit</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-129">
+				<text>ad</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-130">
+				<text>eum</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-131">
+				<text>nocte</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-132">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-133">
+				<text>dixit</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-134">
+				<text>ei</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-135">
+				<text>rabbi</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-136">
+				<text>scimus</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-137">
+				<text>quia</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-138">
+				<text>a</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-139">
+				<text>deo</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-140">
+				<text>uenisti</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-141">
+				<text>magister</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-142">
+				<text>nemo</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-143">
+				<text>enim</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-144">
+				<text>potest</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-145">
+				<text>signa</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-146">
+				<text>hec</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-147">
+				<text>facere</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-148">
+				<text>que</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-149">
+				<text>tu</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-150">
+				<text>fecisti</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-151">
+				<text>nisi</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-152">
+				<text>fuerit</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-153">
+				<text>deus</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-154">
+				<text>cum</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-155">
+				<text>illo</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-156">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

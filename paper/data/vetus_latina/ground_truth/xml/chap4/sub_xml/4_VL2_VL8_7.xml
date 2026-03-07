@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-116">
+				<text>uenerunt</text>
+				<refs nrefs="2-120 2-121" />
+			</w>
+			<w n="1-117">
+				<text>ergo</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-118">
+				<text>ad</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-119">
+				<text>eum</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-120">
+				<text>samarites</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-121">
+				<text>obsecrantes</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-122">
+				<text>eum</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-123">
+				<text>ut</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-124">
+				<text>remaneret</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-125">
+				<text>apud</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-126">
+				<text>eos</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-127">
+				<text>et</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-128">
+				<text>remansit</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-129">
+				<text>illic</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-130">
+				<text>per</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-131">
+				<text>uiduum</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-132">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-120">
+				<text>cum</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-121">
+				<text>uenissent</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-122">
+				<text>ergo</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-123">
+				<text>ad</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-124">
+				<text>illum</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-125">
+				<text>sammaritani</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-126">
+				<text>rogauerunt</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-127">
+				<text>eum</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-128">
+				<text>ut</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-129">
+				<text>ibi</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-130">
+				<text>maneret</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-131">
+				<text>et</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-132">
+				<text>mansit</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-133">
+				<text>ibi</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-134">
+				<text>biduo</text>
+				<refs nrefs="1-130 1-131" />
+			</w>
+			<w n="2-135">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

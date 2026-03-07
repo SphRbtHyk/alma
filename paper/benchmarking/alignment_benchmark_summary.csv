@@ -1,0 +1,5 @@
+Algorithm,Average Time,Success Rate
+collatex,0.0004s,100.0%
+pos_latin,0.0659s,100.0%
+simalign_a,0.0823s,100.0%
+alma_bert,0.2157s,100.0%

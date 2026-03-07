@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-165">
+				<text>schisma</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-166">
+				<text>ergo</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-167">
+				<text>facta</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-168">
+				<text>est</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-169">
+				<text>in</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-170">
+				<text>plebe</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-171">
+				<text>propter</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-172">
+				<text>ipsum</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-173">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-160">
+				<text>dissensio</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-161">
+				<text>autem</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-162">
+				<text>facta</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-163">
+				<text>est</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-164">
+				<text>in</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-165">
+				<text>turba</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-166">
+				<text>propter</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-167">
+				<text>illum</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-168">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="13"><wds lnum="L1"><w n="1-220">
+				<text>ειπον</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-221">
+				<text>ουν</text>
+				<refs nrefs="2-218" />
+			</w>
+			<w n="1-222">
+				<text>οι</text>
+				<refs nrefs="2-219" />
+			</w>
+			<w n="1-223">
+				<text>ιουδαιοι</text>
+				<refs nrefs="2-220" />
+			</w>
+			<w n="1-224">
+				<text>προς</text>
+				<refs nrefs="2-221" />
+			</w>
+			<w n="1-225">
+				<text>εαυτους</text>
+				<refs nrefs="2-222" />
+			</w>
+			<w n="1-226">
+				<text>που</text>
+				<refs nrefs="2-223" />
+			</w>
+			<w n="1-227">
+				<text>μελλει</text>
+				<refs nrefs="2-225" />
+			</w>
+			<w n="1-228">
+				<text>ουτος</text>
+				<refs nrefs="2-224" />
+			</w>
+			<w n="1-229">
+				<text>πορευεσθαι</text>
+				<refs nrefs="2-226" />
+			</w>
+			<w n="1-230">
+				<text>οτι</text>
+				<refs nrefs="2-227" />
+			</w>
+			<w n="1-231">
+				<text>ουχ</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-232">
+				<text>ευρησομεν</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-233">
+				<text>αυτον</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-234">
+				<text>μητι</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-235">
+				<text>εις</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-236">
+				<text>την</text>
+				<refs nrefs="2-234" />
+			</w>
+			<w n="1-237">
+				<text>διασποραν</text>
+				<refs nrefs="2-235" />
+			</w>
+			<w n="1-238">
+				<text>των</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-239">
+				<text>ελληνων</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-240">
+				<text>μελλει</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-241">
+				<text>πορευεσθαι</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-242">
+				<text>και</text>
+				<refs nrefs="2-240" />
+			</w>
+			<w n="1-243">
+				<text>διδασκειν</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-244">
+				<text>τους</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-245">
+				<text>ελληνας</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-246">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-217">
+				<text>ειπον</text>
+				<refs nrefs="1-220" />
+			</w>
+			<w n="2-218">
+				<text>ουν</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-219">
+				<text>οι</text>
+				<refs nrefs="1-222" />
+			</w>
+			<w n="2-220">
+				<text>ιουδαιοι</text>
+				<refs nrefs="1-223" />
+			</w>
+			<w n="2-221">
+				<text>προς</text>
+				<refs nrefs="1-224" />
+			</w>
+			<w n="2-222">
+				<text>εαυτους</text>
+				<refs nrefs="1-225" />
+			</w>
+			<w n="2-223">
+				<text>που</text>
+				<refs nrefs="1-226" />
+			</w>
+			<w n="2-224">
+				<text>ουτος</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-225">
+				<text>μελλει</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-226">
+				<text>πορευεσθαι</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-227">
+				<text>οτι</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-228">
+				<text>ημεις</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-229">
+				<text>ουχ</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-230">
+				<text>ευρησομεν</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-231">
+				<text>αυτον</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-232">
+				<text>μη</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-233">
+				<text>εις</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-234">
+				<text>την</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-235">
+				<text>διασποραν</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-236">
+				<text>των</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-237">
+				<text>ελληνων</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-238">
+				<text>μελλει</text>
+				<refs nrefs="1-240" />
+			</w>
+			<w n="2-239">
+				<text>πορευεσθαι</text>
+				<refs nrefs="1-241" />
+			</w>
+			<w n="2-240">
+				<text>και</text>
+				<refs nrefs="1-242" />
+			</w>
+			<w n="2-241">
+				<text>διδασκειν</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-242">
+				<text>τους</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-243">
+				<text>ελληνας</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-244">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

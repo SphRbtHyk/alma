@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="6"><wds lnum="L1"><w n="1-63">
+				<text>alii</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-64">
+				<text>dicebant</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-65">
+				<text>hec</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-66">
+				<text>uerba</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-67">
+				<text>non</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-68">
+				<text>sunt</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-69">
+				<text>demonium</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-70">
+				<text>habentes</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-71">
+				<text>numquid</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-72">
+				<text>demonium</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-73">
+				<text>potest</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-74">
+				<text>oculos</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-75">
+				<text>cecorum</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-76">
+				<text>aperire</text>
+				<refs nrefs="2-78" />
+			</w>
+			<w n="1-77">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-65">
+				<text>alii</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-66">
+				<text>dicebant</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-67">
+				<text>hec</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-68">
+				<text>uerba</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-69">
+				<text>non</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-70">
+				<text>sunt</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-71">
+				<text>demonium</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-72">
+				<text>habentis</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-73">
+				<text>numquid</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-74">
+				<text>demonium</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-75">
+				<text>potest</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-76">
+				<text>cecorum</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-77">
+				<text>oculus</text>
+				<refs nrefs="1-74" />
+			</w>
+			<w n="2-78">
+				<text>aperire</text>
+				<refs nrefs="1-76" />
+			</w>
+			<w n="2-79">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

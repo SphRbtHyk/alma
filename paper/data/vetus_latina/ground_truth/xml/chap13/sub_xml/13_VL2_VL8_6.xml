@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="6"><wds lnum="L1"><w n="1-73">
+				<text>dicit</text>
+				<refs nrefs="2-79" />
+			</w>
+			<w n="1-74">
+				<text>illi</text>
+				<refs nrefs="2-80" />
+			</w>
+			<w n="1-75">
+				<text>simon</text>
+				<refs nrefs="2-81" />
+			</w>
+			<w n="1-76">
+				<text>petrus</text>
+				<refs nrefs="2-82" />
+			</w>
+			<w n="1-77">
+				<text>domine</text>
+				<refs nrefs="2-83" />
+			</w>
+			<w n="1-78">
+				<text>quo</text>
+				<refs nrefs="2-84" />
+			</w>
+			<w n="1-79">
+				<text>uadis</text>
+				<refs nrefs="2-85" />
+			</w>
+			<w n="1-80">
+				<text>respondit</text>
+				<refs nrefs="2-86" />
+			</w>
+			<w n="1-81">
+				<text>iesus</text>
+				<refs nrefs="2-87" />
+			</w>
+			<w n="1-82">
+				<text>quo</text>
+				<refs nrefs="2-90" />
+			</w>
+			<w n="1-83">
+				<text>ego</text>
+				<refs nrefs="2-91" />
+			</w>
+			<w n="1-84">
+				<text>eo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-85">
+				<text>tu</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-86">
+				<text>non</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-87">
+				<text>potes</text>
+				<refs nrefs="2-94" />
+			</w>
+			<w n="1-88">
+				<text>uenire</text>
+				<refs nrefs="2-92" />
+			</w>
+			<w n="1-89">
+				<text>modo</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-90">
+				<text>sequeris</text>
+				<refs nrefs="2-98" />
+			</w>
+			<w n="1-91">
+				<text>autem</text>
+				<refs nrefs="2-99" />
+			</w>
+			<w n="1-92">
+				<text>postea</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-93">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-79">
+				<text>dicit</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-80">
+				<text>ei</text>
+				<refs nrefs="1-74" />
+			</w>
+			<w n="2-81">
+				<text>simon</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-82">
+				<text>petrus</text>
+				<refs nrefs="1-76" />
+			</w>
+			<w n="2-83">
+				<text>domine</text>
+				<refs nrefs="1-77" />
+			</w>
+			<w n="2-84">
+				<text>quo</text>
+				<refs nrefs="1-78" />
+			</w>
+			<w n="2-85">
+				<text>uadis</text>
+				<refs nrefs="1-79" />
+			</w>
+			<w n="2-86">
+				<text>respondit</text>
+				<refs nrefs="1-80" />
+			</w>
+			<w n="2-87">
+				<text>iesus</text>
+				<refs nrefs="1-81" />
+			</w>
+			<w n="2-88">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-89">
+				<text>dixit</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-90">
+				<text>quo</text>
+				<refs nrefs="1-82" />
+			</w>
+			<w n="2-91">
+				<text>ego</text>
+				<refs nrefs="1-83" />
+			</w>
+			<w n="2-92">
+				<text>uado</text>
+				<refs nrefs="1-88" />
+			</w>
+			<w n="2-93">
+				<text>non</text>
+				<refs nrefs="1-86" />
+			</w>
+			<w n="2-94">
+				<text>potest</text>
+				<refs nrefs="1-87" />
+			</w>
+			<w n="2-95">
+				<text>me</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-96">
+				<text>modo</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-97">
+				<text>sequi</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-98">
+				<text>sequeris</text>
+				<refs nrefs="1-90" />
+			</w>
+			<w n="2-99">
+				<text>autem</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-100">
+				<text>postea</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-101">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

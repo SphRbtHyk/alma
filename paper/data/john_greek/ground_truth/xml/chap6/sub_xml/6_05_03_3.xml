@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="3"><wds lnum="L1"><w n="1-42">
+				<text>οι</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-43">
+				<text>πατερες</text>
+				<refs nrefs="2-39" />
+			</w>
+			<w n="1-44">
+				<text>ημων</text>
+				<refs nrefs="2-40" />
+			</w>
+			<w n="1-45">
+				<text>το</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-46">
+				<text>μαννα</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-47">
+				<text>εφαγον</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-48">
+				<text>εν</text>
+				<refs nrefs="2-44" />
+			</w>
+			<w n="1-49">
+				<text>τη</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-50">
+				<text>ερημω</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-51">
+				<text>καθως</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-52">
+				<text>εστιν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-53">
+				<text>γεγραμμενον</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-54">
+				<text>εστιν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-55">
+				<text>αρτον</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-56">
+				<text>εκ</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-57">
+				<text>του</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-58">
+				<text>ουρανου</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-59">
+				<text>εδωκεν</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-60">
+				<text>αυτοις</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-61">
+				<text>φαγειν</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-62">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-38">
+				<text>οι</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-39">
+				<text>πατερες</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-40">
+				<text>ημων</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-41">
+				<text>το</text>
+				<refs nrefs="1-45" />
+			</w>
+			<w n="2-42">
+				<text>μαννα</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-43">
+				<text>εφαγον</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-44">
+				<text>εν</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-45">
+				<text>τη</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-46">
+				<text>ερημω</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-47">
+				<text>καθως</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-48">
+				<text>ε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-49">
+				<text>γεγραμμενον</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-50">
+				<text>αρτον</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-51">
+				<text>εκ</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-52">
+				<text>του</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-53">
+				<text>ουρανου</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-54">
+				<text>εδωκεν</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-55">
+				<text>αυτοις</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-56">
+				<text>φαγειν</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-57">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

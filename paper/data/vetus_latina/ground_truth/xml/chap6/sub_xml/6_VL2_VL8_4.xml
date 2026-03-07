@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-49">
+				<text>et</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-50">
+				<text>non</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-51">
+				<text>credimus</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-52">
+				<text>et</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-53">
+				<text>cognouimus</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-54">
+				<text>quia</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-55">
+				<text>tu</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-56">
+				<text>es</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-57">
+				<text>christus</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-58">
+				<text>filius</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-59">
+				<text>dei</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-60">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-49">
+				<text>et</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-50">
+				<text>nos</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-51">
+				<text>credimus</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-52">
+				<text>et</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-53">
+				<text>cognouimus</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-54">
+				<text>quia</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-55">
+				<text>tu</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-56">
+				<text>es</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-57">
+				<text>christus</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-58">
+				<text>filius</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-59">
+				<text>dei</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-60">
+				<text>uiui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-61">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

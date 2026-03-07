@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="13"><wds lnum="L1"><w n="1-230">
+				<text>ετι</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-231">
+				<text>πολλα</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-232">
+				<text>εχω</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-233">
+				<text>λεγειν</text>
+				<refs nrefs="2-234" />
+			</w>
+			<w n="1-234">
+				<text>υμειν</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-235">
+				<text>αλλ</text>
+				<refs nrefs="2-235" />
+			</w>
+			<w n="1-236">
+				<text>ου</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-237">
+				<text>δυνασθε</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-238">
+				<text>αυτα</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-239">
+				<text>βασταζειν</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-240">
+				<text>αρτι</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-241">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-230">
+				<text>ετι</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-231">
+				<text>πολλα</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-232">
+				<text>εχω</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-233">
+				<text>υμιν</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-234">
+				<text>λεγειν</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-235">
+				<text>αλλ</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-236">
+				<text>ου</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-237">
+				<text>δυνασθε</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-238">
+				<text>βασταζειν</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-239">
+				<text>αρτι</text>
+				<refs nrefs="1-240" />
+			</w>
+			<w n="2-240">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

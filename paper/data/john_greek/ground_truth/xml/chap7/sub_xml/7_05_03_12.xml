@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="12"><wds lnum="L1"><w n="1-205">
+				<text>τινες</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-206">
+				<text>δε</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-207">
+				<text>ηθελον</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-208">
+				<text>εξ</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-209">
+				<text>αυτων</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-210">
+				<text>πιασαι</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-211">
+				<text>αυτον</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-212">
+				<text>αλλ</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-213">
+				<text>ουδεις</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-214">
+				<text>επεβαλεν</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-215">
+				<text>επ</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-216">
+				<text>αυτον</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-217">
+				<text>τας</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-218">
+				<text>χειρας</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-219">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-202">
+				<text>τινες</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-203">
+				<text>δε</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-204">
+				<text>ηθελον</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-205">
+				<text>εξ</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-206">
+				<text>αυτων</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-207">
+				<text>πιασαι</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-208">
+				<text>αυτον</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-209">
+				<text>αλλ</text>
+				<refs nrefs="1-212" />
+			</w>
+			<w n="2-210">
+				<text>ουδεις</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-211">
+				<text>εβαλεν</text>
+				<refs nrefs="1-214" />
+			</w>
+			<w n="2-212">
+				<text>επ</text>
+				<refs nrefs="1-215" />
+			</w>
+			<w n="2-213">
+				<text>αυτον</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-214">
+				<text>τας</text>
+				<refs nrefs="1-217" />
+			</w>
+			<w n="2-215">
+				<text>χειρας</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-216">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

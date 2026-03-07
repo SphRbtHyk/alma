@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="10"><wds lnum="L1"><w n="1-173">
+				<text>λεγει</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-174">
+				<text>αυτω</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-175">
+				<text>η</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-176">
+				<text>μαρθα</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-177">
+				<text>οιδα</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-178">
+				<text>οτι</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-179">
+				<text>αναστησεται</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-180">
+				<text>εν</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-181">
+				<text>τη</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-182">
+				<text>αναστασει</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-183">
+				<text>εν</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-184">
+				<text>τη</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-185">
+				<text>εσχατη</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-186">
+				<text>ημερα</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-187">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-172">
+				<text>λεγει</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-173">
+				<text>αυτω</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-174">
+				<text>η</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-175">
+				<text>μαρθα</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-176">
+				<text>οιδα</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-177">
+				<text>οτι</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-178">
+				<text>αναστησεται</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-179">
+				<text>εν</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-180">
+				<text>τη</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-181">
+				<text>αναστησει</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-182">
+				<text>εν</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-183">
+				<text>τη</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-184">
+				<text>εσχατη</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-185">
+				<text>ημερα</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-186">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

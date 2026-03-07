@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-212">
+				<text>et</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-213">
+				<text>ego</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-214">
+				<text>rogabo</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-215">
+				<text>patrem</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-216">
+				<text>et</text>
+				<refs nrefs="2-240" />
+			</w>
+			<w n="1-217">
+				<text>alium</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-218">
+				<text>aduocatum</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-219">
+				<text>dabit</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-220">
+				<text>uobis</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-221">
+				<text>ut</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-222">
+				<text>sit</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-223">
+				<text>uobiscum</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-224">
+				<text>in</text>
+				<refs nrefs="2-248" />
+			</w>
+			<w n="1-225">
+				<text>eternum</text>
+				<refs nrefs="2-249" />
+			</w>
+			<w n="1-226">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-236">
+				<text>et</text>
+				<refs nrefs="1-212" />
+			</w>
+			<w n="2-237">
+				<text>ego</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-238">
+				<text>rogabo</text>
+				<refs nrefs="1-214" />
+			</w>
+			<w n="2-239">
+				<text>patrem</text>
+				<refs nrefs="1-215" />
+			</w>
+			<w n="2-240">
+				<text>et</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-241">
+				<text>alium</text>
+				<refs nrefs="1-217" />
+			</w>
+			<w n="2-242">
+				<text>paraclitum</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-243">
+				<text>dabit</text>
+				<refs nrefs="1-219" />
+			</w>
+			<w n="2-244">
+				<text>uobis</text>
+				<refs nrefs="1-220" />
+			</w>
+			<w n="2-245">
+				<text>ut</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-246">
+				<text>uobiscum</text>
+				<refs nrefs="1-223" />
+			</w>
+			<w n="2-247">
+				<text>sit</text>
+				<refs nrefs="1-222" />
+			</w>
+			<w n="2-248">
+				<text>in</text>
+				<refs nrefs="1-224" />
+			</w>
+			<w n="2-249">
+				<text>eternum</text>
+				<refs nrefs="1-225" />
+			</w>
+			<w n="2-250">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

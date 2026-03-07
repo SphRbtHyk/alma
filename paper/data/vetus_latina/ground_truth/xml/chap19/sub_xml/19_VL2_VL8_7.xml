@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-114">
+				<text>tunc</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-115">
+				<text>iesus</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-116">
+				<text>cum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-117">
+				<text>sciret</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-118">
+				<text>quoniam</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-119">
+				<text>omnia</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-120">
+				<text>perfecta</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-121">
+				<text>sunt</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-122">
+				<text>ut</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-123">
+				<text>adimpleretur</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-124">
+				<text>scriptura</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-125">
+				<text>ait</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-126">
+				<text>sitio</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-127">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-110">
+				<text>posttea</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-111">
+				<text>iesus</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-112">
+				<text>sciens</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-113">
+				<text>quoniam</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-114">
+				<text>iam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-115">
+				<text>omnia</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-116">
+				<text>consummata</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-117">
+				<text>sunt</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-118">
+				<text>ut</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-119">
+				<text>scriptura</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-120">
+				<text>inpleatur</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-121">
+				<text>ait</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-122">
+				<text>sitio</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-123">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

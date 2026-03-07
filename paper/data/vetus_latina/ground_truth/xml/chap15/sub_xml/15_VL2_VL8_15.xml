@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="15"><wds lnum="L1"><w n="1-254">
+				<text>hec</text>
+				<refs nrefs="2-267" />
+			</w>
+			<w n="1-255">
+				<text>mando</text>
+				<refs nrefs="2-268" />
+			</w>
+			<w n="1-256">
+				<text>uobis</text>
+				<refs nrefs="2-269" />
+			</w>
+			<w n="1-257">
+				<text>diligite</text>
+				<refs nrefs="2-271" />
+			</w>
+			<w n="1-258">
+				<text>inuicem</text>
+				<refs nrefs="2-272" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-267">
+				<text>hec</text>
+				<refs nrefs="1-254" />
+			</w>
+			<w n="2-268">
+				<text>mando</text>
+				<refs nrefs="1-255" />
+			</w>
+			<w n="2-269">
+				<text>uobis</text>
+				<refs nrefs="1-256" />
+			</w>
+			<w n="2-270">
+				<text>ut</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-271">
+				<text>diligatis</text>
+				<refs nrefs="1-257" />
+			</w>
+			<w n="2-272">
+				<text>inuicem</text>
+				<refs nrefs="1-258" />
+			</w>
+		</wds></sentence></aligned-text>

@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-38">
+				<text>multi</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-39">
+				<text>itaque</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-40">
+				<text>ex</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-41">
+				<text>iudeis</text>
+				<refs nrefs="2-44" />
+			</w>
+			<w n="1-42">
+				<text>qui</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-43">
+				<text>uenerant</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-44">
+				<text>ad</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-45">
+				<text>mariam</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-46">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-47">
+				<text>uiderunt</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-48">
+				<text>quod</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-49">
+				<text>est</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-50">
+				<text>factum</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-51">
+				<text>crediderunt</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-52">
+				<text>in</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-53">
+				<text>illum</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-54">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-41">
+				<text>multi</text>
+				<refs nrefs="1-38" />
+			</w>
+			<w n="2-42">
+				<text>ergo</text>
+				<refs nrefs="1-39" />
+			</w>
+			<w n="2-43">
+				<text>ex</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-44">
+				<text>iudeis</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-45">
+				<text>qui</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-46">
+				<text>uenerant</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-47">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-48">
+				<text>uenerant</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-49">
+				<text>ad</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-50">
+				<text>mariam</text>
+				<refs nrefs="1-45" />
+			</w>
+			<w n="2-51">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-52">
+				<text>uiderant</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-53">
+				<text>que</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-54">
+				<text>fecit</text>
+				<refs nrefs="1-49 1-50" />
+			</w>
+			<w n="2-55">
+				<text>iesus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-56">
+				<text>crediderunt</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-57">
+				<text>in</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-58">
+				<text>eum</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-59">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

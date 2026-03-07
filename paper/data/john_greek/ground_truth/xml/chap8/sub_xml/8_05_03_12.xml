@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="12"><wds lnum="L1"><w n="1-280">
+				<text>ειπον</text>
+				<refs nrefs="2-272" />
+			</w>
+			<w n="1-281">
+				<text>ουν</text>
+				<refs nrefs="2-273" />
+			</w>
+			<w n="1-282">
+				<text>αυτω</text>
+				<refs nrefs="2-274" />
+			</w>
+			<w n="1-283">
+				<text>οι</text>
+				<refs nrefs="2-275" />
+			</w>
+			<w n="1-284">
+				<text>φαρισαιοι</text>
+				<refs nrefs="2-276" />
+			</w>
+			<w n="1-285">
+				<text>συ</text>
+				<refs nrefs="2-277" />
+			</w>
+			<w n="1-286">
+				<text>περι</text>
+				<refs nrefs="2-278" />
+			</w>
+			<w n="1-287">
+				<text>σεαυτου</text>
+				<refs nrefs="2-279" />
+			</w>
+			<w n="1-288">
+				<text>μαρτυρεις</text>
+				<refs nrefs="2-280" />
+			</w>
+			<w n="1-289">
+				<text>η</text>
+				<refs nrefs="2-281" />
+			</w>
+			<w n="1-290">
+				<text>μαρτυρια</text>
+				<refs nrefs="2-282" />
+			</w>
+			<w n="1-291">
+				<text>σου</text>
+				<refs nrefs="2-283" />
+			</w>
+			<w n="1-292">
+				<text>ουκ</text>
+				<refs nrefs="2-284" />
+			</w>
+			<w n="1-293">
+				<text>εστιν</text>
+				<refs nrefs="2-285" />
+			</w>
+			<w n="1-294">
+				<text>αληθης</text>
+				<refs nrefs="2-286" />
+			</w>
+			<w n="1-295">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-272">
+				<text>ειπον</text>
+				<refs nrefs="1-280" />
+			</w>
+			<w n="2-273">
+				<text>ουν</text>
+				<refs nrefs="1-281" />
+			</w>
+			<w n="2-274">
+				<text>αυτω</text>
+				<refs nrefs="1-282" />
+			</w>
+			<w n="2-275">
+				<text>οι</text>
+				<refs nrefs="1-283" />
+			</w>
+			<w n="2-276">
+				<text>φαρεισαιοι</text>
+				<refs nrefs="1-284" />
+			</w>
+			<w n="2-277">
+				<text>συ</text>
+				<refs nrefs="1-285" />
+			</w>
+			<w n="2-278">
+				<text>περι</text>
+				<refs nrefs="1-286" />
+			</w>
+			<w n="2-279">
+				<text>σεαυτου</text>
+				<refs nrefs="1-287" />
+			</w>
+			<w n="2-280">
+				<text>μαρτυρεις</text>
+				<refs nrefs="1-288" />
+			</w>
+			<w n="2-281">
+				<text>η</text>
+				<refs nrefs="1-289" />
+			</w>
+			<w n="2-282">
+				<text>μαρτυρια</text>
+				<refs nrefs="1-290" />
+			</w>
+			<w n="2-283">
+				<text>σου</text>
+				<refs nrefs="1-291" />
+			</w>
+			<w n="2-284">
+				<text>ουκ</text>
+				<refs nrefs="1-292" />
+			</w>
+			<w n="2-285">
+				<text>εστιν</text>
+				<refs nrefs="1-293" />
+			</w>
+			<w n="2-286">
+				<text>αληθης</text>
+				<refs nrefs="1-294" />
+			</w>
+			<w n="2-287">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

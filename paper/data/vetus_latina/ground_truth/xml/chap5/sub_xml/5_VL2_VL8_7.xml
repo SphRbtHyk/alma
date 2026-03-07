@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="7"><wds lnum="L1"><w n="1-134">
+				<text>quomodo</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-135">
+				<text>enim</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-136">
+				<text>pater</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-137">
+				<text>habet</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-138">
+				<text>uitam</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-139">
+				<text>in</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-140">
+				<text>se</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-141">
+				<text>sic</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-142">
+				<text>dedit</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-143">
+				<text>et</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-144">
+				<text>filio</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-145">
+				<text>habere</text>
+				<refs nrefs="2-138" />
+			</w>
+			<w n="1-146">
+				<text>uitam</text>
+				<refs nrefs="2-139" />
+			</w>
+			<w n="1-147">
+				<text>in</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-148">
+				<text>semetipso</text>
+				<refs nrefs="2-141 2-142" />
+			</w>
+			<w n="1-149">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-127">
+				<text>sicut</text>
+				<refs nrefs="1-134" />
+			</w>
+			<w n="2-128">
+				<text>enim</text>
+				<refs nrefs="1-135" />
+			</w>
+			<w n="2-129">
+				<text>pater</text>
+				<refs nrefs="1-136" />
+			</w>
+			<w n="2-130">
+				<text>habet</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-131">
+				<text>uitam</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-132">
+				<text>in</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-133">
+				<text>semetipso</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-134">
+				<text>sic</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-135">
+				<text>dedit</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-136">
+				<text>et</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-137">
+				<text>filio</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-138">
+				<text>habere</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-139">
+				<text>uitam</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-140">
+				<text>in</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-141">
+				<text>semet</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-142">
+				<text>ipso</text>
+				<refs nrefs="1-148" />
+			</w>
+			<w n="2-143">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

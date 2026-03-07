@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-160">
+				<text>et</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-161">
+				<text>iesus</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-162">
+				<text>uocitis</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-163">
+				<text>ad</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-164">
+				<text>se</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-165">
+				<text>ministris</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-166">
+				<text>dixit</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-167">
+				<text>illis</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-168">
+				<text>implete</text>
+				<refs nrefs="2-163" />
+			</w>
+			<w n="1-169">
+				<text>hydrias</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-170">
+				<text>aquam</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-171">
+				<text>et</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-172">
+				<text>impleuerunt</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-173">
+				<text>eas</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-174">
+				<text>usque</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-175">
+				<text>ad</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-176">
+				<text>summum</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-177">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-157">
+				<text>et</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-158">
+				<text>uocatis</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-159">
+				<text>iesus</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-160">
+				<text>ministris</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-161">
+				<text>dicit</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-162">
+				<text>eis</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-163">
+				<text>implete</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-164">
+				<text>hydrias</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-165">
+				<text>aqua</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-166">
+				<text>et</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-167">
+				<text>innpleuerunt</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-168">
+				<text>eas</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-169">
+				<text>usque</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-170">
+				<text>ad</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-171">
+				<text>summum</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-172">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

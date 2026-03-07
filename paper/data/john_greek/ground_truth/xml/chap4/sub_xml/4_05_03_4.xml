@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-36">
+				<text>λεγει</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-37">
+				<text>αυτη</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-38">
+				<text>ο</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-39">
+				<text>ιησους</text>
+				<refs nrefs="2-37" />
+			</w>
+			<w n="1-40">
+				<text>εγωs</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-41">
+				<text>ειμι</text>
+				<refs nrefs="2-39" />
+			</w>
+			<w n="1-42">
+				<text>ο</text>
+				<refs nrefs="2-40" />
+			</w>
+			<w n="1-43">
+				<text>λαλων</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-44">
+				<text>σοι</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-45">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-34">
+				<text>λεγει</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-35">
+				<text>αυτη</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-36">
+				<text>ο</text>
+				<refs nrefs="1-38" />
+			</w>
+			<w n="2-37">
+				<text>ιησους</text>
+				<refs nrefs="1-39" />
+			</w>
+			<w n="2-38">
+				<text>εγω</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-39">
+				<text>ειμι</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-40">
+				<text>ο</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-41">
+				<text>λαλων</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-42">
+				<text>σοι</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-43">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

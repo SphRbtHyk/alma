@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="2"><wds lnum="L1"><w n="1-12">
+				<text>fuit</text>
+				<refs nrefs="2-15" />
+			</w>
+			<w n="1-13">
+				<text>autem</text>
+				<refs nrefs="2-16" />
+			</w>
+			<w n="1-14">
+				<text>iesus</text>
+				<refs nrefs="2-18" />
+			</w>
+			<w n="1-15">
+				<text>uocitus</text>
+				<refs nrefs="2-14" />
+			</w>
+			<w n="1-16">
+				<text>et</text>
+				<refs nrefs="2-19" />
+			</w>
+			<w n="1-17">
+				<text>discipuli</text>
+				<refs nrefs="2-20" />
+			</w>
+			<w n="1-18">
+				<text>eius</text>
+				<refs nrefs="2-21" />
+			</w>
+			<w n="1-19">
+				<text>ad</text>
+				<refs nrefs="2-22" />
+			</w>
+			<w n="1-20">
+				<text>nuptias</text>
+				<refs nrefs="2-23" />
+			</w>
+			<w n="1-21">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-14">
+				<text>uocatus</text>
+				<refs nrefs="1-15" />
+			</w>
+			<w n="2-15">
+				<text>est</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-16">
+				<text>autem</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-17">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-18">
+				<text>iesus</text>
+				<refs nrefs="1-14" />
+			</w>
+			<w n="2-19">
+				<text>et</text>
+				<refs nrefs="1-16" />
+			</w>
+			<w n="2-20">
+				<text>discipuli</text>
+				<refs nrefs="1-17" />
+			</w>
+			<w n="2-21">
+				<text>eius</text>
+				<refs nrefs="1-18" />
+			</w>
+			<w n="2-22">
+				<text>ad</text>
+				<refs nrefs="1-19" />
+			</w>
+			<w n="2-23">
+				<text>nuptias</text>
+				<refs nrefs="1-20" />
+			</w>
+			<w n="2-24">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

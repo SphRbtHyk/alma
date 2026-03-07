@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-221">
+				<text>dicebant</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-222">
+				<text>ergo</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-223">
+				<text>ex</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-224">
+				<text>discipulis</text>
+				<refs nrefs="2-240" />
+			</w>
+			<w n="1-225">
+				<text>eius</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-226">
+				<text>ad</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-227">
+				<text>inuicem</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-228">
+				<text>quid</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-229">
+				<text>est</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-230">
+				<text>hoc</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-231">
+				<text>quod</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-232">
+				<text>dicit</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-233">
+				<text>nobis</text>
+				<refs nrefs="2-248" />
+			</w>
+			<w n="1-234">
+				<text>pusillum</text>
+				<refs nrefs="2-249" />
+			</w>
+			<w n="1-235">
+				<text>et</text>
+				<refs nrefs="2-250" />
+			</w>
+			<w n="1-236">
+				<text>non</text>
+				<refs nrefs="2-251" />
+			</w>
+			<w n="1-237">
+				<text>uidebitis</text>
+				<refs nrefs="2-252" />
+			</w>
+			<w n="1-238">
+				<text>me</text>
+				<refs nrefs="2-253" />
+			</w>
+			<w n="1-239">
+				<text>et</text>
+				<refs nrefs="2-254" />
+			</w>
+			<w n="1-240">
+				<text>iterum</text>
+				<refs nrefs="2-255" />
+			</w>
+			<w n="1-241">
+				<text>pusillum</text>
+				<refs nrefs="2-256" />
+			</w>
+			<w n="1-242">
+				<text>et</text>
+				<refs nrefs="2-257" />
+			</w>
+			<w n="1-243">
+				<text>uidebitis</text>
+				<refs nrefs="2-258" />
+			</w>
+			<w n="1-244">
+				<text>me</text>
+				<refs nrefs="2-259" />
+			</w>
+			<w n="1-245">
+				<text>et</text>
+				<refs nrefs="2-260" />
+			</w>
+			<w n="1-246">
+				<text>quoniam</text>
+				<refs nrefs="2-261" />
+			</w>
+			<w n="1-247">
+				<text>eo</text>
+				<refs nrefs="2-262" />
+			</w>
+			<w n="1-248">
+				<text>ad</text>
+				<refs nrefs="2-263" />
+			</w>
+			<w n="1-249">
+				<text>patrem</text>
+				<refs nrefs="2-264" />
+			</w>
+			<w n="1-250">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-238">
+				<text>dixerunt</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-239">
+				<text>ergo</text>
+				<refs nrefs="1-222" />
+			</w>
+			<w n="2-240">
+				<text>discipuli</text>
+				<refs nrefs="1-224" />
+			</w>
+			<w n="2-241">
+				<text>eius</text>
+				<refs nrefs="1-225" />
+			</w>
+			<w n="2-242">
+				<text>ad</text>
+				<refs nrefs="1-226" />
+			</w>
+			<w n="2-243">
+				<text>inuicem</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-244">
+				<text>quid</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-245">
+				<text>est</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-246">
+				<text>quod</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-247">
+				<text>dicit</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-248">
+				<text>nobis</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-249">
+				<text>modicum</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-250">
+				<text>et</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-251">
+				<text>non</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-252">
+				<text>uidebitis</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-253">
+				<text>me</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-254">
+				<text>et</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-255">
+				<text>iterum</text>
+				<refs nrefs="1-240" />
+			</w>
+			<w n="2-256">
+				<text>modicum</text>
+				<refs nrefs="1-241" />
+			</w>
+			<w n="2-257">
+				<text>et</text>
+				<refs nrefs="1-242" />
+			</w>
+			<w n="2-258">
+				<text>uidebitis</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-259">
+				<text>me</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-260">
+				<text>et</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-261">
+				<text>quia</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-262">
+				<text>eo</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-263">
+				<text>ad</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-264">
+				<text>patrem</text>
+				<refs nrefs="1-249" />
+			</w>
+			<w n="2-265">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

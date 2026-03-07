@@ -1,0 +1,57 @@
+services:
+
+  # ── Backend ────────────────────────────────────────────────────────────────
+  backend:
+    build:
+      # Build context is the project root so the Dockerfile can access
+      # both pyproject.toml and src/ (the alma library).
+      context: .
+      dockerfile: web_app/backend/Dockerfile
+    ports:
+      - "8000:8000"
+    # Override the production CMD to enable live-reload in development.
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      # Live-reload: edits to the backend source are reflected immediately.
+      - ./web_app/backend:/app/web_app/backend
+
+      # Live-reload: edits to the alma library source are also reflected.
+      - ./src:/app/src
+
+      # Persist downloaded stanza language models across container restarts.
+      - ./stanza_models:/root/stanza_resources
+
+      # Fine-tuned and pre-trained model files (roberta, bert, fasttext …).
+      # Mounted read-only – the container only needs to load them, not write.
+      - ./paper/models:/app/paper/models:ro
+
+      # Persist HuggingFace / transformers model cache.
+      - hf_cache:/root/.cache/huggingface
+    restart: unless-stopped
+
+  # ── Frontend ───────────────────────────────────────────────────────────────
+  frontend:
+    build:
+      context: ./web_app/frontend
+    ports:
+      # Vite dev server with Hot Module Replacement
+      - "5173:5173"
+    environment:
+      # Tells vite.config.js where to proxy API calls.
+      # Uses the Docker Compose service name, not localhost.
+      - BACKEND_URL=http://backend:8000
+    volumes:
+      # Live-reload: the entire frontend directory is mounted so that any
+      # file edit triggers HMR.
+      - ./web_app/frontend:/app
+
+      # Keep the node_modules installed inside the container image.
+      - frontend_node_modules:/app/node_modules
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+# ── Named volumes ─────────────────────────────────────────────────────────────
+volumes:
+  hf_cache:
+  frontend_node_modules:

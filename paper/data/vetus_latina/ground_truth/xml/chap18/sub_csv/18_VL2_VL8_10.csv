@@ -1,0 +1,14 @@
+source_index,source_text,target_index,target_text
+0,exclamauerunt,0,exclamauerunt
+1,omnes,2,omnes
+2,noli,3,non
+3,istum,4,hunc
+4,sed,5,sed
+5,barabban,7,barabam
+6,erat,8,erat
+7,autem,9,autem
+8,barabbas,10,barabas
+9,insignis,-,-
+10,latro,11,latro
+-,-,1,ergo
+-,-,6,rabbi

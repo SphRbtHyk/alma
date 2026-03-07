@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="13"><wds lnum="L1"><w n="1-220">
+				<text>si</text>
+				<refs nrefs="2-228" />
+			</w>
+			<w n="1-221">
+				<text>quis</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-222">
+				<text>in</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-223">
+				<text>me</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-224">
+				<text>manserit</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-225">
+				<text>proiectus</text>
+				<refs nrefs="2-234" />
+			</w>
+			<w n="1-226">
+				<text>erit</text>
+				<refs nrefs="2-235" />
+			</w>
+			<w n="1-227">
+				<text>sicut</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-228">
+				<text>sarmentum</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-229">
+				<text>et</text>
+				<refs nrefs="2-238" />
+			</w>
+			<w n="1-230">
+				<text>arefit</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-231">
+				<text>et</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-232">
+				<text>colligunt</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-233">
+				<text>illud</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-234">
+				<text>et</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-235">
+				<text>in</text>
+				<refs nrefs="2-248" />
+			</w>
+			<w n="1-236">
+				<text>ignem</text>
+				<refs nrefs="2-249" />
+			</w>
+			<w n="1-237">
+				<text>mittunt</text>
+				<refs nrefs="2-250" />
+			</w>
+			<w n="1-238">
+				<text>et</text>
+				<refs nrefs="2-251" />
+			</w>
+			<w n="1-239">
+				<text>ardet</text>
+				<refs nrefs="2-252" />
+			</w>
+			<w n="1-240">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-228">
+				<text>si</text>
+				<refs nrefs="1-220" />
+			</w>
+			<w n="2-229">
+				<text>quis</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-230">
+				<text>in</text>
+				<refs nrefs="1-222" />
+			</w>
+			<w n="2-231">
+				<text>me</text>
+				<refs nrefs="1-223" />
+			</w>
+			<w n="2-232">
+				<text>non</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-233">
+				<text>manserit</text>
+				<refs nrefs="1-224" />
+			</w>
+			<w n="2-234">
+				<text>precisus</text>
+				<refs nrefs="1-225" />
+			</w>
+			<w n="2-235">
+				<text>est</text>
+				<refs nrefs="1-226" />
+			</w>
+			<w n="2-236">
+				<text>sicut</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-237">
+				<text>palmes</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-238">
+				<text>et</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-239">
+				<text>missus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-240">
+				<text>est</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-241">
+				<text>foras</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-242">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-243">
+				<text>aruit</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-244">
+				<text>et</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-245">
+				<text>colligent</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-246">
+				<text>eos</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-247">
+				<text>et</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-248">
+				<text>in</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-249">
+				<text>ignem</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-250">
+				<text>mittunt</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-251">
+				<text>et</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-252">
+				<text>ardent</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-253">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

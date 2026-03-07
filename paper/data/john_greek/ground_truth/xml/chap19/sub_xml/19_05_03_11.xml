@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="11"><wds lnum="L1"><w n="1-171">
+				<text>οι</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-172">
+				<text>δε</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-173">
+				<text>εκραυγαζον</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-174">
+				<text>αρον</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-175">
+				<text>αρον</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-176">
+				<text>σταυρωσον</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-177">
+				<text>αυτον</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-178">
+				<text>λεγει</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-179">
+				<text>αυτοις</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-180">
+				<text>ο</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-181">
+				<text>πειλατος</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-182">
+				<text>τον</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-183">
+				<text>βασιλεα</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-184">
+				<text>υμων</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-185">
+				<text>σταυρωσω</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-186">
+				<text>απεκριθησαν</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-187">
+				<text>οι</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-188">
+				<text>αρχιερεις</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-189">
+				<text>ουκ</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-190">
+				<text>εχομεν</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-191">
+				<text>βασιλεα</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-192">
+				<text>ει</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-193">
+				<text>μη</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-194">
+				<text>καισαρα</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-195">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-170">
+				<text>εκραυγασαν</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-171">
+				<text>ουν</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-172">
+				<text>εκεινοι</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-173">
+				<text>αρον</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-174">
+				<text>αρον</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-175">
+				<text>σταυρωσον</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-176">
+				<text>αυτον</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-177">
+				<text>λεγει</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-178">
+				<text>αυτοις</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-179">
+				<text>ο</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-180">
+				<text>πειλατος</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-181">
+				<text>τον</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-182">
+				<text>βασιλεα</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-183">
+				<text>υμων</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-184">
+				<text>σταυρωσω</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-185">
+				<text>απεκριθησαν</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-186">
+				<text>οι</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-187">
+				<text>αρχιερεις</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-188">
+				<text>ουκ</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-189">
+				<text>εχομεν</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-190">
+				<text>βασιλεα</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-191">
+				<text>ει</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-192">
+				<text>μη</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-193">
+				<text>καισαρα</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-194">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="6"><wds lnum="L1"><w n="1-100">
+				<text>respondit</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-101">
+				<text>mulier</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-102">
+				<text>dicens</text>
+				<refs nrefs="2-105" />
+			</w>
+			<w n="1-103">
+				<text>non</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-104">
+				<text>habeo</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-105">
+				<text>uirum</text>
+				<refs nrefs="2-109" />
+			</w>
+			<w n="1-106">
+				<text>dicit</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-107">
+				<text>illi</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-108">
+				<text>iesus</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-109">
+				<text>bene</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-110">
+				<text>dixisti</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-111">
+				<text>quia</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-112">
+				<text>uirum</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-113">
+				<text>non</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-114">
+				<text>habes</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-115">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-102">
+				<text>respondit</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-103">
+				<text>mulier</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-104">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-105">
+				<text>dixit</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-106">
+				<text>ei</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-107">
+				<text>non</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-108">
+				<text>habeo</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-109">
+				<text>uirum</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-110">
+				<text>dicit</text>
+				<refs nrefs="1-106" />
+			</w>
+			<w n="2-111">
+				<text>ei</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-112">
+				<text>iesus</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-113">
+				<text>bene</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-114">
+				<text>dixisti</text>
+				<refs nrefs="1-110" />
+			</w>
+			<w n="2-115">
+				<text>quia</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-116">
+				<text>uirum</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-117">
+				<text>non</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-118">
+				<text>habes</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-119">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

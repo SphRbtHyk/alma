@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="10"><wds lnum="L1"><w n="1-173">
+				<text>οι</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-174">
+				<text>δε</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-175">
+				<text>γαρ</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-176">
+				<text>οι</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-177">
+				<text>αδελφοι</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-178">
+				<text>αυτου</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-179">
+				<text>επιστευσαν</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-180">
+				<text>εις</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-181">
+				<text>αυτον</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-182">
+				<text>τοτε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-183">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-171">
+				<text>ουδε</text>
+				<refs nrefs="1-173 1-174" />
+			</w>
+			<w n="2-172">
+				<text>γαρ</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-173">
+				<text>οι</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-174">
+				<text>αδελφοι</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-175">
+				<text>αυτου</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-176">
+				<text>επιστευον</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-177">
+				<text>εις</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-178">
+				<text>αυτον</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-179">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

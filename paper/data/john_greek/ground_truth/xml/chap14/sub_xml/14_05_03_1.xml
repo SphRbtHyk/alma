@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>λεγει</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>αυτω</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3">
+				<text>ιουδας</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-4">
+				<text>ουχ</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-5">
+				<text>ο</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-6">
+				<text>απο</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-7">
+				<text>καρυωτου</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-8">
+				<text>κυριε</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-9">
+				<text>τι</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-10">
+				<text>εστιν</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-11">
+				<text>οτι</text>
+				<refs nrefs="2-10" />
+			</w>
+			<w n="1-12">
+				<text>μελλεις</text>
+				<refs nrefs="2-12" />
+			</w>
+			<w n="1-13">
+				<text>ημειν</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-14">
+				<text>ενφανιζειν</text>
+				<refs nrefs="2-13" />
+			</w>
+			<w n="1-15">
+				<text>σεαυτον</text>
+				<refs nrefs="2-14" />
+			</w>
+			<w n="1-16">
+				<text>και</text>
+				<refs nrefs="2-15" />
+			</w>
+			<w n="1-17">
+				<text>ουχι</text>
+				<refs nrefs="2-16" />
+			</w>
+			<w n="1-18">
+				<text>τω</text>
+				<refs nrefs="2-17" />
+			</w>
+			<w n="1-19">
+				<text>κοσμω</text>
+				<refs nrefs="2-18" />
+			</w>
+			<w n="1-20">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>λεγει</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>αυτω</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3">
+				<text>ιουδας</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-4">
+				<text>ουχ</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-5">
+				<text>ο</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-6">
+				<text>ισκαριωτης</text>
+				<refs nrefs="1-6 1-7" />
+			</w>
+			<w n="2-7">
+				<text>κυριε</text>
+				<refs nrefs="1-8" />
+			</w>
+			<w n="2-8">
+				<text>τι</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-9">
+				<text>γεγονεν</text>
+				<refs nrefs="1-10" />
+			</w>
+			<w n="2-10">
+				<text>οτι</text>
+				<refs nrefs="1-11" />
+			</w>
+			<w n="2-11">
+				<text>ημιν</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-12">
+				<text>μελλεις</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-13">
+				<text>εμφανιζειν</text>
+				<refs nrefs="1-14" />
+			</w>
+			<w n="2-14">
+				<text>σεαυτον</text>
+				<refs nrefs="1-15" />
+			</w>
+			<w n="2-15">
+				<text>και</text>
+				<refs nrefs="1-16" />
+			</w>
+			<w n="2-16">
+				<text>ουχι</text>
+				<refs nrefs="1-17" />
+			</w>
+			<w n="2-17">
+				<text>τω</text>
+				<refs nrefs="1-18" />
+			</w>
+			<w n="2-18">
+				<text>κοσμω</text>
+				<refs nrefs="1-19" />
+			</w>
+			<w n="2-19">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-185">
+				<text>si</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-186">
+				<text>de</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-187">
+				<text>seculo</text>
+				<refs nrefs="2-192" />
+			</w>
+			<w n="1-188">
+				<text>essetis</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-189">
+				<text>seculum</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-190">
+				<text>quod</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-191">
+				<text>suum</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-192">
+				<text>esset</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-193">
+				<text>amaret</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-194">
+				<text>quia</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-195">
+				<text>de</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-196">
+				<text>seculo</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-197">
+				<text>non</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-198">
+				<text>estis</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-199">
+				<text>et</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-200">
+				<text>ego</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-201">
+				<text>elegi</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-202">
+				<text>uos</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-203">
+				<text>de</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-204">
+				<text>seculo</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-205">
+				<text>propterea</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-206">
+				<text>odit</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-207">
+				<text>uos</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-208">
+				<text>seculum</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-209">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-190">
+				<text>si</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-191">
+				<text>de</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-192">
+				<text>mundo</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-193">
+				<text>fuissetis</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-194">
+				<text>mundus</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-195">
+				<text>quod</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-196">
+				<text>suum</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-197">
+				<text>erat</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-198">
+				<text>diligeret</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-199">
+				<text>quia</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-200">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-201">
+				<text>non</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-202">
+				<text>estis</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-203">
+				<text>de</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-204">
+				<text>hoc</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-205">
+				<text>mundo</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-206">
+				<text>sed</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-207">
+				<text>ego</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-208">
+				<text>elegi</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-209">
+				<text>uos</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-210">
+				<text>de</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-211">
+				<text>mundo</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-212">
+				<text>propterea</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-213">
+				<text>odit</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-214">
+				<text>uos</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-215">
+				<text>mundus</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-216">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

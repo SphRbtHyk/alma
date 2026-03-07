@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-119">
+				<text>fuit</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-120">
+				<text>autem</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-121">
+				<text>proximum</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-122">
+				<text>pascha</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-123">
+				<text>dies</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-124">
+				<text>festus</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-125">
+				<text>iudeorum</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-126">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-120">
+				<text>erat</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-121">
+				<text>autem</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-122">
+				<text>proximum</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-123">
+				<text>phasca</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-124">
+				<text>dies</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-125">
+				<text>festus</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-126">
+				<text>iudeorum</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-127">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

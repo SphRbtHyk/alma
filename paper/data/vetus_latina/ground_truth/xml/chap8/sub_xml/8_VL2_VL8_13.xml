@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="13"><wds lnum="L1"><w n="1-182">
+				<text>iesus</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-183">
+				<text>autem</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-184">
+				<text>abiit</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-185">
+				<text>in</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-186">
+				<text>montem</text>
+				<refs nrefs="2-190" />
+			</w>
+			<w n="1-187">
+				<text>oliueti</text>
+				<refs nrefs="2-191" />
+			</w>
+			<w n="1-188">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-186">
+				<text>iesus</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-187">
+				<text>autem</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-188">
+				<text>ascendit</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-189">
+				<text>in</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-190">
+				<text>montem</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-191">
+				<text>oliueti</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-192">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

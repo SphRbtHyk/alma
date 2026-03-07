@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="2"><wds lnum="L1"><w n="1-20">
+				<text>αμην</text>
+				<refs nrefs="2-19" />
+			</w>
+			<w n="1-21">
+				<text>αμην</text>
+				<refs nrefs="2-20" />
+			</w>
+			<w n="1-22">
+				<text>λεγω</text>
+				<refs nrefs="2-21" />
+			</w>
+			<w n="1-23">
+				<text>υμειν</text>
+				<refs nrefs="2-22" />
+			</w>
+			<w n="1-24">
+				<text>ουκ</text>
+				<refs nrefs="2-23" />
+			</w>
+			<w n="1-25">
+				<text>εστιν</text>
+				<refs nrefs="2-24" />
+			</w>
+			<w n="1-26">
+				<text>δουλος</text>
+				<refs nrefs="2-25" />
+			</w>
+			<w n="1-27">
+				<text>μειζων</text>
+				<refs nrefs="2-26" />
+			</w>
+			<w n="1-28">
+				<text>του</text>
+				<refs nrefs="2-27" />
+			</w>
+			<w n="1-29">
+				<text>κυριου</text>
+				<refs nrefs="2-28" />
+			</w>
+			<w n="1-30">
+				<text>αυτου</text>
+				<refs nrefs="2-29" />
+			</w>
+			<w n="1-31">
+				<text>ουδε</text>
+				<refs nrefs="2-30" />
+			</w>
+			<w n="1-32">
+				<text>αποστολος</text>
+				<refs nrefs="2-31" />
+			</w>
+			<w n="1-33">
+				<text>μειζων</text>
+				<refs nrefs="2-32" />
+			</w>
+			<w n="1-34">
+				<text>του</text>
+				<refs nrefs="2-33" />
+			</w>
+			<w n="1-35">
+				<text>πεμψαντος</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-36">
+				<text>αυτον</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-37">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-19">
+				<text>αμην</text>
+				<refs nrefs="1-20" />
+			</w>
+			<w n="2-20">
+				<text>αμην</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-21">
+				<text>λεγω</text>
+				<refs nrefs="1-22" />
+			</w>
+			<w n="2-22">
+				<text>υμιν</text>
+				<refs nrefs="1-23" />
+			</w>
+			<w n="2-23">
+				<text>ουκ</text>
+				<refs nrefs="1-24" />
+			</w>
+			<w n="2-24">
+				<text>εστι</text>
+				<refs nrefs="1-25" />
+			</w>
+			<w n="2-25">
+				<text>δουλος</text>
+				<refs nrefs="1-26" />
+			</w>
+			<w n="2-26">
+				<text>μειζων</text>
+				<refs nrefs="1-27" />
+			</w>
+			<w n="2-27">
+				<text>του</text>
+				<refs nrefs="1-28" />
+			</w>
+			<w n="2-28">
+				<text>κυριου</text>
+				<refs nrefs="1-29" />
+			</w>
+			<w n="2-29">
+				<text>αυτου</text>
+				<refs nrefs="1-30" />
+			</w>
+			<w n="2-30">
+				<text>ουδε</text>
+				<refs nrefs="1-31" />
+			</w>
+			<w n="2-31">
+				<text>αποστολος</text>
+				<refs nrefs="1-32" />
+			</w>
+			<w n="2-32">
+				<text>μειζων</text>
+				<refs nrefs="1-33" />
+			</w>
+			<w n="2-33">
+				<text>του</text>
+				<refs nrefs="1-34" />
+			</w>
+			<w n="2-34">
+				<text>πεμψαντος</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-35">
+				<text>αυτον</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-36">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

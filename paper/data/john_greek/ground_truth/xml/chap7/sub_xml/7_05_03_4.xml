@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-66">
+				<text>λεγει</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-67">
+				<text>νεικοδημος</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-68">
+				<text>προς</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-69">
+				<text>αυτους</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-70">
+				<text>εις</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-71">
+				<text>ων</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-72">
+				<text>εξ</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-73">
+				<text>αυτων</text>
+				<refs nrefs="2-78" />
+			</w>
+			<w n="1-74">
+				<text>ο</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-75">
+				<text>ελθων</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-76">
+				<text>προς</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-77">
+				<text>αυτον</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-78">
+				<text>νυκτος</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-79">
+				<text>το</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-80">
+				<text>πρωτον</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-81">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-66">
+				<text>λεγει</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-67">
+				<text>νεικοδημος</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-68">
+				<text>προς</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-69">
+				<text>αυτους</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-70">
+				<text>ο</text>
+				<refs nrefs="1-74" />
+			</w>
+			<w n="2-71">
+				<text>ελθων</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-72">
+				<text>προς</text>
+				<refs nrefs="1-76" />
+			</w>
+			<w n="2-73">
+				<text>αυτον</text>
+				<refs nrefs="1-77" />
+			</w>
+			<w n="2-74">
+				<text>προτερον</text>
+				<refs nrefs="1-80" />
+			</w>
+			<w n="2-75">
+				<text>εις</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-76">
+				<text>ων</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-77">
+				<text>εξ</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-78">
+				<text>αυτων</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-79">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

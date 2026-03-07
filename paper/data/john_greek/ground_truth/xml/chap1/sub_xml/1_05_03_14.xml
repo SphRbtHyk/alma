@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="14"><wds lnum="L1"><w n="1-186">
+				<text>ουκ</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-187">
+				<text>εξ</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-188">
+				<text>εματων</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-189">
+				<text>ουδε</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-190">
+				<text>εκ</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-191">
+				<text>θεληματος</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-192">
+				<text>σαρκος</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-193">
+				<text>ουδε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-194">
+				<text>θεληματος</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-195">
+				<text>ανδρος</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-196">
+				<text>αλλ</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-197">
+				<text>εκ</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-198">
+				<text>θεου</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-199">
+				<text>εγεννηθησαν</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-200">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-193">
+				<text>οι</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-194">
+				<text>ουκ</text>
+				<refs nrefs="1-186" />
+			</w>
+			<w n="2-195">
+				<text>εξ</text>
+				<refs nrefs="1-187" />
+			</w>
+			<w n="2-196">
+				<text>αιματων</text>
+				<refs nrefs="1-188" />
+			</w>
+			<w n="2-197">
+				<text>ουδε</text>
+				<refs nrefs="1-189" />
+			</w>
+			<w n="2-198">
+				<text>εκ</text>
+				<refs nrefs="1-190" />
+			</w>
+			<w n="2-199">
+				<text>θεληματος</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-200">
+				<text>σαρκος</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-201">
+				<text>αλλ</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-202">
+				<text>εκ</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-203">
+				<text>θεου</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-204">
+				<text>εγενηθησαν</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-205">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

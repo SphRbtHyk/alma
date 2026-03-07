@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="15"><wds lnum="L1"><w n="1-240">
+				<text>in</text>
+				<refs nrefs="2-240" />
+			</w>
+			<w n="1-241">
+				<text>quibus</text>
+				<refs nrefs="2-241" />
+			</w>
+			<w n="1-242">
+				<text>recum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-243">
+				<text>bebat</text>
+				<refs nrefs="2-242" />
+			</w>
+			<w n="1-244">
+				<text>multitudo</text>
+				<refs nrefs="2-243" />
+			</w>
+			<w n="1-245">
+				<text>infirmantium</text>
+				<refs nrefs="2-244" />
+			</w>
+			<w n="1-246">
+				<text>cecorum</text>
+				<refs nrefs="2-245" />
+			</w>
+			<w n="1-247">
+				<text>clodorum</text>
+				<refs nrefs="2-246" />
+			</w>
+			<w n="1-248">
+				<text>aridorum</text>
+				<refs nrefs="2-247" />
+			</w>
+			<w n="1-249">
+				<text>expectantium</text>
+				<refs nrefs="2-248" />
+			</w>
+			<w n="1-250">
+				<text>motum</text>
+				<refs nrefs="2-250" />
+			</w>
+			<w n="1-251">
+				<text>aque</text>
+				<refs nrefs="2-249" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-240">
+				<text>in</text>
+				<refs nrefs="1-240" />
+			</w>
+			<w n="2-241">
+				<text>his</text>
+				<refs nrefs="1-241" />
+			</w>
+			<w n="2-242">
+				<text>decunbebat</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-243">
+				<text>multitudo</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-244">
+				<text>languentium</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-245">
+				<text>cecorum</text>
+				<refs nrefs="1-246" />
+			</w>
+			<w n="2-246">
+				<text>claudorum</text>
+				<refs nrefs="1-247" />
+			</w>
+			<w n="2-247">
+				<text>aridorum</text>
+				<refs nrefs="1-248" />
+			</w>
+			<w n="2-248">
+				<text>expectantium</text>
+				<refs nrefs="1-249" />
+			</w>
+			<w n="2-249">
+				<text>aque</text>
+				<refs nrefs="1-251" />
+			</w>
+			<w n="2-250">
+				<text>motus</text>
+				<refs nrefs="1-250" />
+			</w>
+		</wds></sentence></aligned-text>

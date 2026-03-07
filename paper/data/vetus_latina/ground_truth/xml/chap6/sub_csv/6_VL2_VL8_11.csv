@@ -1,0 +1,16 @@
+source_index,source_text,target_index,target_text
+0,exinde,1,hoc
+1,multi,3,multi
+2,ex,0,ex
+-,-,2,ergo
+3,discentibus,4,discipulorum
+4,eius,5,eius
+5,abierunt,6,abierunt
+6,retrorsum,7,retro
+7,et,8,et
+8,iam,-,-
+9,non,12,non
+-,-,9,amplius
+10,ambulabant,13,ambulabam
+11,cum,10,cum
+12,eo,11,illum

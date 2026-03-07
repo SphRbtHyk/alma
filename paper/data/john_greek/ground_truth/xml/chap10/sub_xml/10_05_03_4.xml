@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-57">
+				<text>σχισμα</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-58">
+				<text>ουν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-59">
+				<text>εγενετο</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-60">
+				<text>εν</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-61">
+				<text>τοις</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-62">
+				<text>ιουδαιοις</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-63">
+				<text>δια</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-64">
+				<text>τους</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-65">
+				<text>λογους</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-66">
+				<text>τουτους</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-67">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-62">
+				<text>σχισμα</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-63">
+				<text>παλιν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-64">
+				<text>εγενετο</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-65">
+				<text>εν</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-66">
+				<text>τοις</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-67">
+				<text>ιουδαιοις</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-68">
+				<text>δια</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-69">
+				<text>τους</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-70">
+				<text>λογους</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-71">
+				<text>τουτους</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-72">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

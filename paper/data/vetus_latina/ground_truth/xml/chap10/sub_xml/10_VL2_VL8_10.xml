@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-129">
+				<text>respondit</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-130">
+				<text>illis</text>
+				<refs nrefs="2-129" />
+			</w>
+			<w n="1-131">
+				<text>iesus</text>
+				<refs nrefs="2-130" />
+			</w>
+			<w n="1-132">
+				<text>multa</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-133">
+				<text>opera</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-134">
+				<text>bona</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-135">
+				<text>ostendi</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-136">
+				<text>uobis</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-137">
+				<text>a</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-138">
+				<text>patre</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-139">
+				<text>propter</text>
+				<refs nrefs="2-139" />
+			</w>
+			<w n="1-140">
+				<text>quid</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-141">
+				<text>me</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-142">
+				<text>lapidatis</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-143">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-128">
+				<text>respondit</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-129">
+				<text>eis</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-130">
+				<text>iesus</text>
+				<refs nrefs="1-131" />
+			</w>
+			<w n="2-131">
+				<text>multa</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-132">
+				<text>opera</text>
+				<refs nrefs="1-133" />
+			</w>
+			<w n="2-133">
+				<text>bona</text>
+				<refs nrefs="1-134" />
+			</w>
+			<w n="2-134">
+				<text>ostendi</text>
+				<refs nrefs="1-135" />
+			</w>
+			<w n="2-135">
+				<text>uobis</text>
+				<refs nrefs="1-136" />
+			</w>
+			<w n="2-136">
+				<text>ex</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-137">
+				<text>patre</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-138">
+				<text>meo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-139">
+				<text>propter</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-140">
+				<text>quod</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-141">
+				<text>eorum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-142">
+				<text>opus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-143">
+				<text>me</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-144">
+				<text>lapidatis</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-145">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

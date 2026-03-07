@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-134">
+				<text>ut</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-135">
+				<text>inpleretur</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-136">
+				<text>sermo</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-137">
+				<text>quem</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-138">
+				<text>dixit</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-139">
+				<text>quos</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-140">
+				<text>dedisti</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-141">
+				<text>mihi</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-142">
+				<text>nemine</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-143">
+				<text>perdidi</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-144">
+				<text>ex</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-145">
+				<text>illis</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-146">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-143">
+				<text>tur</text>
+				<refs nrefs="1-135" />
+			</w>
+			<w n="2-144">
+				<text>scriptura</text>
+				<refs nrefs="1-136" />
+			</w>
+			<w n="2-145">
+				<text>quem</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-146">
+				<text>dixit</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-147">
+				<text>quia</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-148">
+				<text>quos</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-149">
+				<text>dedisti</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-150">
+				<text>mihi</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-151">
+				<text>non</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-152">
+				<text>perdidi</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-153">
+				<text>ex</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-154">
+				<text>eis</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-155">
+				<text>quicquam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-156">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

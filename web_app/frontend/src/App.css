@@ -1,0 +1,11 @@
+.app-wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 2rem 3rem;
+}
+
+/* Legacy helper used in AlgoParameters and AlignmentForm */
+.inputField {
+  margin-top: 8px;
+  margin-bottom: 4px;
+}

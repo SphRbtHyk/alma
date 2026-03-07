@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="15"><wds lnum="L1"><w n="1-261">
+				<text>clamauerunt</text>
+				<refs nrefs="2-256" />
+			</w>
+			<w n="1-262">
+				<text>ergo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-263">
+				<text>tolle</text>
+				<refs nrefs="2-257" />
+			</w>
+			<w n="1-264">
+				<text>tolle</text>
+				<refs nrefs="2-258" />
+			</w>
+			<w n="1-265">
+				<text>cruci</text>
+				<refs nrefs="2-259" />
+			</w>
+			<w n="1-266">
+				<text>fige</text>
+				<refs nrefs="2-259" />
+			</w>
+			<w n="1-267">
+				<text>eum</text>
+				<refs nrefs="2-260" />
+			</w>
+			<w n="1-268">
+				<text>dicit</text>
+				<refs nrefs="2-261" />
+			</w>
+			<w n="1-269">
+				<text>illis</text>
+				<refs nrefs="2-262" />
+			</w>
+			<w n="1-270">
+				<text>pilatus</text>
+				<refs nrefs="2-263" />
+			</w>
+			<w n="1-271">
+				<text>regnum</text>
+				<refs nrefs="2-264" />
+			</w>
+			<w n="1-272">
+				<text>uestrum</text>
+				<refs nrefs="2-265" />
+			</w>
+			<w n="1-273">
+				<text>cruci</text>
+				<refs nrefs="2-266" />
+			</w>
+			<w n="1-274">
+				<text>figam</text>
+				<refs nrefs="2-266" />
+			</w>
+			<w n="1-275">
+				<text>responderunt</text>
+				<refs nrefs="2-267" />
+			</w>
+			<w n="1-276">
+				<text>sacerdotes</text>
+				<refs nrefs="2-268 2-269" />
+			</w>
+			<w n="1-277">
+				<text>nos</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-278">
+				<text>non</text>
+				<refs nrefs="2-270" />
+			</w>
+			<w n="1-279">
+				<text>habemus</text>
+				<refs nrefs="2-271" />
+			</w>
+			<w n="1-280">
+				<text>regem</text>
+				<refs nrefs="2-272" />
+			</w>
+			<w n="1-281">
+				<text>nisi</text>
+				<refs nrefs="2-273" />
+			</w>
+			<w n="1-282">
+				<text>cesarem</text>
+				<refs nrefs="2-274" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-254">
+				<text>ad</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-255">
+				<text>illi</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-256">
+				<text>exclamauerunt</text>
+				<refs nrefs="1-261" />
+			</w>
+			<w n="2-257">
+				<text>tolle</text>
+				<refs nrefs="1-263" />
+			</w>
+			<w n="2-258">
+				<text>tolle</text>
+				<refs nrefs="1-264" />
+			</w>
+			<w n="2-259">
+				<text>crucifige</text>
+				<refs nrefs="1-265 1-266" />
+			</w>
+			<w n="2-260">
+				<text>eum</text>
+				<refs nrefs="1-267" />
+			</w>
+			<w n="2-261">
+				<text>ait</text>
+				<refs nrefs="1-268" />
+			</w>
+			<w n="2-262">
+				<text>illis</text>
+				<refs nrefs="1-269" />
+			</w>
+			<w n="2-263">
+				<text>pilatus</text>
+				<refs nrefs="1-270" />
+			</w>
+			<w n="2-264">
+				<text>regem</text>
+				<refs nrefs="1-271" />
+			</w>
+			<w n="2-265">
+				<text>uestrum</text>
+				<refs nrefs="1-272" />
+			</w>
+			<w n="2-266">
+				<text>crucifigam</text>
+				<refs nrefs="1-273 1-274" />
+			</w>
+			<w n="2-267">
+				<text>responderunt</text>
+				<refs nrefs="1-275" />
+			</w>
+			<w n="2-268">
+				<text>principis</text>
+				<refs nrefs="1-276" />
+			</w>
+			<w n="2-269">
+				<text>sacerdotum</text>
+				<refs nrefs="1-276" />
+			</w>
+			<w n="2-270">
+				<text>non</text>
+				<refs nrefs="1-278" />
+			</w>
+			<w n="2-271">
+				<text>habemus</text>
+				<refs nrefs="1-279" />
+			</w>
+			<w n="2-272">
+				<text>regem</text>
+				<refs nrefs="1-280" />
+			</w>
+			<w n="2-273">
+				<text>nisi</text>
+				<refs nrefs="1-281" />
+			</w>
+			<w n="2-274">
+				<text>cesarem</text>
+				<refs nrefs="1-282" />
+			</w>
+		</wds></sentence></aligned-text>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-94">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-95">
+				<text>ego</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-96">
+				<text>et</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-97">
+				<text>pater</text>
+				<refs nrefs="2-98" />
+			</w>
+			<w n="1-98">
+				<text>meus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-99">
+				<text>unum</text>
+				<refs nrefs="2-99" />
+			</w>
+			<w n="1-100">
+				<text>sumus</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-101">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-96">
+				<text>ego</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-97">
+				<text>et</text>
+				<refs nrefs="1-96" />
+			</w>
+			<w n="2-98">
+				<text>pater</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-99">
+				<text>unum</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-100">
+				<text>sumus</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-101">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

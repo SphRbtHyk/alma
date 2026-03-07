@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-94">
+				<text>sciebat</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-95">
+				<text>enim</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-96">
+				<text>ab</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-97">
+				<text>initio</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-98">
+				<text>quis</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-99">
+				<text>esset</text>
+				<refs nrefs="2-105" />
+			</w>
+			<w n="1-100">
+				<text>qui</text>
+				<refs nrefs="2-106" />
+			</w>
+			<w n="1-101">
+				<text>eum</text>
+				<refs nrefs="2-109" />
+			</w>
+			<w n="1-102">
+				<text>traditurus</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-103">
+				<text>erat</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-104">
+				<text>propterea</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-105">
+				<text>dixit</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-106">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-107">
+				<text>uos</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-108">
+				<text>mundi</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-109">
+				<text>estis</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-110">
+				<text>sed</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-111">
+				<text>non</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-112">
+				<text>omnes</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-113">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-102">
+				<text>sciebat</text>
+				<refs nrefs="1-94" />
+			</w>
+			<w n="2-103">
+				<text>enim</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-104">
+				<text>quidnam</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-105">
+				<text>esset</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-106">
+				<text>qui</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-107">
+				<text>traditurus</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-108">
+				<text>erat</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-109">
+				<text>eum</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-110">
+				<text>propterea</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-111">
+				<text>dixit</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-112">
+				<text>quia</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-113">
+				<text>non</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-114">
+				<text>estis</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-115">
+				<text>mundi</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-116">
+				<text>omnes</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-117">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

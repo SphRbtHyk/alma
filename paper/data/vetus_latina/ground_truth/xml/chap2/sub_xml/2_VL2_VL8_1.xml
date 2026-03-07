@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>ipse</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>autem</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3">
+				<text>non</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-4">
+				<text>credebat</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-5">
+				<text>se</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-6">
+				<text>illis</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-7">
+				<text>quia</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-8">
+				<text>ipse</text>
+				<refs nrefs="2-10" />
+			</w>
+			<w n="1-9">
+				<text>sciebat</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-10">
+				<text>omnes</text>
+				<refs nrefs="2-12" />
+			</w>
+			<w n="1-11">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>ipse</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>autem</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3">
+				<text>iesus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-4">
+				<text>non</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-5">
+				<text>credebat</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-6">
+				<text>semetipsum</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-7">
+				<text>eis</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-8">
+				<text>eo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-9">
+				<text>quod</text>
+				<refs nrefs="1-7" />
+			</w>
+			<w n="2-10">
+				<text>ipse</text>
+				<refs nrefs="1-8" />
+			</w>
+			<w n="2-11">
+				<text>nosset</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-12">
+				<text>omnes</text>
+				<refs nrefs="1-10" />
+			</w>
+			<w n="2-13">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

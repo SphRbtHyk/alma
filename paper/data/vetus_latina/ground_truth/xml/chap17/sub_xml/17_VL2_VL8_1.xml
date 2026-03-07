@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>hec</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>autem</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-3">
+				<text>est</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-4">
+				<text>uita</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-5">
+				<text>eterna</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-6">
+				<text>ut</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-7">
+				<text>cognoscant</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-8">
+				<text>te</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-9">
+				<text>solum</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-10">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-11">
+				<text>uerum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-12">
+				<text>deum</text>
+				<refs nrefs="2-10" />
+			</w>
+			<w n="1-13">
+				<text>et</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-14">
+				<text>quem</text>
+				<refs nrefs="2-12" />
+			</w>
+			<w n="1-15">
+				<text>misisti</text>
+				<refs nrefs="2-13" />
+			</w>
+			<w n="1-16">
+				<text>iesum</text>
+				<refs nrefs="2-14" />
+			</w>
+			<w n="1-17">
+				<text>christum</text>
+				<refs nrefs="2-15" />
+			</w>
+			<w n="1-18">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>hec</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>est</text>
+				<refs nrefs="1-3" />
+			</w>
+			<w n="2-3">
+				<text>autem</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-4">
+				<text>uita</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-5">
+				<text>eternam</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-6">
+				<text>ut</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-7">
+				<text>cognoscant</text>
+				<refs nrefs="1-7" />
+			</w>
+			<w n="2-8">
+				<text>te</text>
+				<refs nrefs="1-8" />
+			</w>
+			<w n="2-9">
+				<text>solum</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-10">
+				<text>deum</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-11">
+				<text>et</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-12">
+				<text>quem</text>
+				<refs nrefs="1-14" />
+			</w>
+			<w n="2-13">
+				<text>misisti</text>
+				<refs nrefs="1-15" />
+			</w>
+			<w n="2-14">
+				<text>iesum</text>
+				<refs nrefs="1-16" />
+			</w>
+			<w n="2-15">
+				<text>christum</text>
+				<refs nrefs="1-17" />
+			</w>
+			<w n="2-16">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

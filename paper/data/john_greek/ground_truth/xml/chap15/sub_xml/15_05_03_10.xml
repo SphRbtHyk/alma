@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="10"><wds lnum="L1"><w n="1-150">
+				<text>παν</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-151">
+				<text>κλημα</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-152">
+				<text>εν</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-153">
+				<text>εμοι</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-154">
+				<text>μη</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-155">
+				<text>φερον</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-156">
+				<text>καρπον</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-157">
+				<text>αιρει</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-158">
+				<text>αυτο</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-159">
+				<text>και</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-160">
+				<text>παν</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-161">
+				<text>το</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-162">
+				<text>καρποφορον</text>
+				<refs nrefs="2-180 2-181" />
+			</w>
+			<w n="1-163">
+				<text>καθαριει</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-164">
+				<text>αυτο</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-165">
+				<text>ινα</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-166">
+				<text>πλειονα</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-167">
+				<text>καρπον</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-168">
+				<text>φερη</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-169">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-169">
+				<text>παν</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-170">
+				<text>κλημα</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-171">
+				<text>εν</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-172">
+				<text>εμοι</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-173">
+				<text>μη</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-174">
+				<text>φερον</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-175">
+				<text>καρπον</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-176">
+				<text>αιρει</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-177">
+				<text>αυτοκαι</text>
+				<refs nrefs="1-158 1-159" />
+			</w>
+			<w n="2-178">
+				<text>παν</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-179">
+				<text>το</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-180">
+				<text>καρπον</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-181">
+				<text>φερον</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-182">
+				<text>καθαιρει</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-183">
+				<text>αυτο</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-184">
+				<text>ινα</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-185">
+				<text>καρπον</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-186">
+				<text>πλειονα</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-187">
+				<text>φερη</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-188">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

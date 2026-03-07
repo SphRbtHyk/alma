@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="2"><wds lnum="L1"><w n="1-21">
+				<text>οτε</text>
+				<refs nrefs="2-22" />
+			</w>
+			<w n="1-22">
+				<text>ουν</text>
+				<refs nrefs="2-23" />
+			</w>
+			<w n="1-23">
+				<text>εκουσεν</text>
+				<refs nrefs="2-24" />
+			</w>
+			<w n="1-24">
+				<text>ο</text>
+				<refs nrefs="2-25" />
+			</w>
+			<w n="1-25">
+				<text>πειλατος</text>
+				<refs nrefs="2-26" />
+			</w>
+			<w n="1-26">
+				<text>τουτον</text>
+				<refs nrefs="2-27" />
+			</w>
+			<w n="1-27">
+				<text>τον</text>
+				<refs nrefs="2-28" />
+			</w>
+			<w n="1-28">
+				<text>λογων</text>
+				<refs nrefs="2-29" />
+			</w>
+			<w n="1-29">
+				<text>μαλλον</text>
+				<refs nrefs="2-30" />
+			</w>
+			<w n="1-30">
+				<text>εφοβηθη</text>
+				<refs nrefs="2-31" />
+			</w>
+			<w n="1-31">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-22">
+				<text>οτε</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-23">
+				<text>ουν</text>
+				<refs nrefs="1-22" />
+			</w>
+			<w n="2-24">
+				<text>ηκουσεν</text>
+				<refs nrefs="1-23" />
+			</w>
+			<w n="2-25">
+				<text>ο</text>
+				<refs nrefs="1-24" />
+			</w>
+			<w n="2-26">
+				<text>πει</text>
+				<refs nrefs="1-25" />
+			</w>
+			<w n="2-27">
+				<text>τουτον</text>
+				<refs nrefs="1-26" />
+			</w>
+			<w n="2-28">
+				<text>τον</text>
+				<refs nrefs="1-27" />
+			</w>
+			<w n="2-29">
+				<text>λογον</text>
+				<refs nrefs="1-28" />
+			</w>
+			<w n="2-30">
+				<text>μαλλον</text>
+				<refs nrefs="1-29" />
+			</w>
+			<w n="2-31">
+				<text>εφοβηθη</text>
+				<refs nrefs="1-30" />
+			</w>
+			<w n="2-32">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

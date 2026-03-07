@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-55">
+				<text>non</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-56">
+				<text>potest</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-57">
+				<text>seculum</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-58">
+				<text>odisse</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-59">
+				<text>uos</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-60">
+				<text>me</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-61">
+				<text>autem</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-62">
+				<text>odit</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-63">
+				<text>quia</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-64">
+				<text>ego</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-65">
+				<text>testis</text>
+				<refs nrefs="2-65 2-66" />
+			</w>
+			<w n="1-66">
+				<text>sum</text>
+				<refs nrefs="2-65 2-66" />
+			</w>
+			<w n="1-67">
+				<text>de</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-68">
+				<text>eo</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-69">
+				<text>quia</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-70">
+				<text>facta</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-71">
+				<text>eius</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-72">
+				<text>mala</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-73">
+				<text>sunt</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-74">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-55">
+				<text>non</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-56">
+				<text>potest</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-57">
+				<text>mundus</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-58">
+				<text>odire</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-59">
+				<text>uos</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-60">
+				<text>me</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-61">
+				<text>autem</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-62">
+				<text>odit</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-63">
+				<text>quoniam</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-64">
+				<text>ego</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-65">
+				<text>testimonium</text>
+				<refs nrefs="1-65 1-66" />
+			</w>
+			<w n="2-66">
+				<text>perhibeo</text>
+				<refs nrefs="1-65 1-66" />
+			</w>
+			<w n="2-67">
+				<text>de</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-68">
+				<text>illo</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-69">
+				<text>quia</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-70">
+				<text>opera</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-71">
+				<text>eius</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-72">
+				<text>mala</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-73">
+				<text>sunt</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-74">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

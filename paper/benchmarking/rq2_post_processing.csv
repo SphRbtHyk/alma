@@ -1,0 +1,3 @@
+Model Variant,Description,Parameters
+ALMA -Uniqueness,The uniqueness constraint applied after the POS and Dependency matching steps is omitted.,"{'lemma_match': True, 'semantic_match': True, 'pos_match': True, 'dependency_match': True, 'dependency2_match': False, 'pruning': True, 'unique_alignment': False}"
+ALMA -Proximity,The final proximity-based pruning step is omitted.,"{'lemma_match': True, 'semantic_match': True, 'pos_match': True, 'dependency_match': True, 'dependency2_match': False, 'pruning': False, 'unique_alignment': True}"

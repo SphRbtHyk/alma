@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="3"><wds lnum="L1"><w n="1-35">
+				<text>ne</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-36">
+				<text>tu</text>
+				<refs nrefs="2-37" />
+			</w>
+			<w n="1-37">
+				<text>maior</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-38">
+				<text>es</text>
+				<refs nrefs="2-39" />
+			</w>
+			<w n="1-39">
+				<text>abrahe</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-40">
+				<text>et</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-41">
+				<text>profetis</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-42">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-43">
+				<text>iam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-44">
+				<text>mortui</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-45">
+				<text>sunt</text>
+				<refs nrefs="2-48" />
+			</w>
+			<w n="1-46">
+				<text>quem</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-47">
+				<text>te</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-48">
+				<text>facis</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-49">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-36">
+				<text>numquit</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-37">
+				<text>tu</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-38">
+				<text>maior</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-39">
+				<text>es</text>
+				<refs nrefs="1-38" />
+			</w>
+			<w n="2-40">
+				<text>quam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-41">
+				<text>abraham</text>
+				<refs nrefs="1-39" />
+			</w>
+			<w n="2-42">
+				<text>qui</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-43">
+				<text>mortuus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-44">
+				<text>est</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-45">
+				<text>et</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-46">
+				<text>prophete</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-47">
+				<text>mortui</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-48">
+				<text>sunt</text>
+				<refs nrefs="1-45" />
+			</w>
+			<w n="2-49">
+				<text>quem</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-50">
+				<text>teipsum</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-51">
+				<text>facis</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-52">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

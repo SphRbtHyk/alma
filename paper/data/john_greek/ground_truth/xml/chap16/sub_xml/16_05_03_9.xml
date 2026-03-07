@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="9"><wds lnum="L1"><w n="1-153">
+				<text>περι</text>
+				<refs nrefs="2-153" />
+			</w>
+			<w n="1-154">
+				<text>δε</text>
+				<refs nrefs="2-154" />
+			</w>
+			<w n="1-155">
+				<text>κρισεως</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-156">
+				<text>οτι</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-157">
+				<text>ο</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-158">
+				<text>αρχων</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-159">
+				<text>του</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-160">
+				<text>κοσμου</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-161">
+				<text>τουτου</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-162">
+				<text>κεκριται</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-163">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-153">
+				<text>περι</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-154">
+				<text>δε</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-155">
+				<text>κρισεως</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-156">
+				<text>οτι</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-157">
+				<text>ο</text>
+				<refs nrefs="1-157" />
+			</w>
+			<w n="2-158">
+				<text>αρχων</text>
+				<refs nrefs="1-158" />
+			</w>
+			<w n="2-159">
+				<text>του</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-160">
+				<text>κοσμου</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-161">
+				<text>τουτου</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-162">
+				<text>κεκριται</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-163">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

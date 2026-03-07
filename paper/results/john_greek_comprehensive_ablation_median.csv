@@ -1,0 +1,14 @@
+model,chapter,aer,precision,recall,proposed_alignments,gold_alignments,correct_alignments,AER_diff,total_differing_pairs_in_truth,correct_differing_pairs
+Baseline_No_matching_greek_greberta_sentences_threshold1_ratio0.7,11.0,4.545454545454541,3.4482758620689653,6.666666666666667,33.0,17.0,1.0,0.0,1.0,0.0
+POS_Only_greek_greberta_sentences_threshold1_ratio0.7,11.0,27.334993773349936,16.794871794871796,82.35294117647058,80.0,17.0,14.0,80.0,1.0,1.0
+Lemma_Only_greek_greberta_sentences_threshold1_ratio0.7,11.0,72.5705329153605,64.40092165898618,84.21052631578947,23.0,17.0,14.5,0.0,1.0,0.0
+Dependency_Only_greek_greberta_sentences_threshold1_ratio0.7,11.0,75.7088122605364,68.0909090909091,85.71428571428571,22.0,17.0,14.0,50.0,1.0,1.0
+ALMA_-Uniqueness_greek_greberta_sentences_threshold1_ratio0.7,11.0,86.57657657657657,81.64983164983165,94.73684210526315,21.0,17.0,16.0,100.0,1.0,1.0
+ALMA_-Semantic_greek_greberta_sentences_threshold1_ratio0.7,11.0,88.88888888888889,87.5,90.9090909090909,18.0,17.0,16.0,80.0,1.0,1.0
+Semantic_Only_greek_greberta_sentences_threshold1_ratio0.7,11.0,92.3076923076923,91.83333333333333,92.85714285714286,18.0,17.0,16.0,100.0,1.0,1.0
+ALMA_-Dependency_greek_greberta_sentences_threshold1_ratio0.7,11.0,100.0,100.0,100.0,18.0,17.0,17.0,100.0,1.0,1.0
+ALMA_-Lemma_greek_greberta_sentences_threshold1_ratio0.7,11.0,100.0,100.0,100.0,17.0,17.0,17.0,100.0,1.0,1.0
+ALMA_-POS_greek_greberta_sentences_threshold1_ratio0.7,11.0,100.0,100.0,100.0,17.5,17.0,17.0,100.0,1.0,1.0
+ALMA_-Proximity_greek_greberta_sentences_threshold1_ratio0.7,11.0,100.0,100.0,100.0,17.5,17.0,17.0,100.0,1.0,1.0
+ALMA_-_POS+Dependency_greek_greberta_sentences_threshold1_ratio0.7,11.0,100.0,100.0,100.0,18.0,17.0,17.0,100.0,1.0,1.0
+Standard_ALMA_greek_greberta_sentences_threshold1_ratio0.7,11.0,100.0,100.0,100.0,17.5,17.0,17.0,100.0,1.0,1.0

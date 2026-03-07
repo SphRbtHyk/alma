@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-162">
+				<text>hec</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-163">
+				<text>non</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-164">
+				<text>cognouerunt</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-165">
+				<text>prius</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-166">
+				<text>discipuli</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-167">
+				<text>eius</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-168">
+				<text>sed</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-169">
+				<text>cum</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-170">
+				<text>glorificatus</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-171">
+				<text>esset</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-172">
+				<text>iesus</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-173">
+				<text>rememorati</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-174">
+				<text>sunt</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-175">
+				<text>quod</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-176">
+				<text>hec</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-177">
+				<text>erant</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-178">
+				<text>scripta</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-179">
+				<text>et</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-180">
+				<text>hec</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-181">
+				<text>fecerunt</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-182">
+				<text>illi</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-183">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-164">
+				<text>hec</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-165">
+				<text>non</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-166">
+				<text>cognouerunt</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-167">
+				<text>primum</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-168">
+				<text>discipuli</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-169">
+				<text>eius</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-170">
+				<text>sed</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-171">
+				<text>cum</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-172">
+				<text>clarificatus</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-173">
+				<text>est</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-174">
+				<text>iesus</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-175">
+				<text>recordati</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-176">
+				<text>sunt</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-177">
+				<text>quia</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-178">
+				<text>hec</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-179">
+				<text>erant</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-180">
+				<text>scripta</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-181">
+				<text>de</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-182">
+				<text>illo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-183">
+				<text>et</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-184">
+				<text>hec</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-185">
+				<text>fecerunt</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-186">
+				<text>ei</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-187">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

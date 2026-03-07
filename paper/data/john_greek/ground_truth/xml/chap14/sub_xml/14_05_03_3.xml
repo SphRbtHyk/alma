@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="3"><wds lnum="L1"><w n="1-41">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-42">
+				<text>ειπεν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-43">
+				<text>τοις</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-44">
+				<text>μαθηταις</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-45">
+				<text>αυτου</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-46">
+				<text>μη</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-47">
+				<text>ταρασσεσθω</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-48">
+				<text>υμων</text>
+				<refs nrefs="2-44" />
+			</w>
+			<w n="1-49">
+				<text>η</text>
+				<refs nrefs="2-45" />
+			</w>
+			<w n="1-50">
+				<text>καρδια</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-51">
+				<text>πιστευετε</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-52">
+				<text>εις</text>
+				<refs nrefs="2-48" />
+			</w>
+			<w n="1-53">
+				<text>τον</text>
+				<refs nrefs="2-49" />
+			</w>
+			<w n="1-54">
+				<text>θεον</text>
+				<refs nrefs="2-50" />
+			</w>
+			<w n="1-55">
+				<text>και</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-56">
+				<text>εις</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-57">
+				<text>εμε</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-58">
+				<text>πιστευετε</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-59">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-42">
+				<text>μη</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-43">
+				<text>ταρασσεσθω</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-44">
+				<text>υμων</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-45">
+				<text>η</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-46">
+				<text>καρδια</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-47">
+				<text>πιστευετε</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-48">
+				<text>εις</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-49">
+				<text>τον</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-50">
+				<text>θεον</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-51">
+				<text>και</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-52">
+				<text>εις</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-53">
+				<text>εμε</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-54">
+				<text>πιστευετε</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-55">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,14 @@
+model,chapter,aer,precision,recall,proposed_alignments,gold_alignments,correct_alignments,AER_diff,total_differing_pairs_in_truth,correct_differing_pairs
+Baseline_No_matching_latin_laberta_sentences_threshold1_ratio0.7,10.0,5.970149253731338,4.545454545454546,8.695652173913043,31.0,17.0,1.0,0.0,3.0,0.0
+POS_Only_latin_laberta_sentences_threshold1_ratio0.7,10.0,43.65726227795193,29.427899686520377,84.61538461538461,46.0,17.0,14.0,85.71428571428571,3.0,2.0
+Dependency_Only_latin_laberta_sentences_threshold1_ratio0.7,10.0,66.66666666666666,58.82352941176471,73.68421052631578,20.0,17.0,12.0,66.66666666666666,3.0,2.0
+Lemma_Only_latin_laberta_sentences_threshold1_ratio0.7,10.0,68.18181818181817,60.0,79.58333333333333,21.5,17.0,13.0,33.33333333333333,3.0,1.0
+ALMA_-Uniqueness_latin_laberta_sentences_threshold1_ratio0.7,10.0,82.92682926829268,77.27272727272727,90.9090909090909,19.0,17.0,15.0,100.0,3.0,3.0
+Semantic_Only_latin_laberta_sentences_threshold1_ratio0.7,10.0,89.47368421052632,88.88888888888889,89.47368421052632,17.0,17.0,14.0,100.0,3.0,3.0
+ALMA_-Semantic_latin_laberta_sentences_threshold1_ratio0.7,10.0,92.77003484320558,92.15384615384616,94.11764705882352,17.0,17.0,15.0,88.88888888888889,3.0,3.0
+ALMA_-_POS+Dependency_latin_laberta_sentences_threshold1_ratio0.7,10.0,94.22863485016649,94.11764705882352,95.45454545454545,17.0,17.0,15.0,100.0,3.0,3.0
+ALMA_-Dependency_latin_laberta_sentences_threshold1_ratio0.7,10.0,94.33962264150944,94.11764705882352,95.45454545454545,17.0,17.0,15.0,100.0,3.0,3.0
+ALMA_-Lemma_latin_laberta_sentences_threshold1_ratio0.7,10.0,100.0,100.0,100.0,17.0,17.0,15.0,100.0,3.0,3.0
+ALMA_-POS_latin_laberta_sentences_threshold1_ratio0.7,10.0,100.0,100.0,100.0,17.0,17.0,15.0,100.0,3.0,3.0
+ALMA_-Proximity_latin_laberta_sentences_threshold1_ratio0.7,10.0,100.0,100.0,100.0,17.0,17.0,15.0,100.0,3.0,3.0
+Standard_ALMA_latin_laberta_sentences_threshold1_ratio0.7,10.0,100.0,100.0,100.0,17.0,17.0,15.0,100.0,3.0,3.0

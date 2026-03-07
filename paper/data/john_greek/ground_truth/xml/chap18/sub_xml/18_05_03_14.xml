@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="14"><wds lnum="L1"><w n="1-282">
+				<text>ταυτα</text>
+				<refs nrefs="2-278" />
+			</w>
+			<w n="1-283">
+				<text>δε</text>
+				<refs nrefs="2-279" />
+			</w>
+			<w n="1-284">
+				<text>αυτου</text>
+				<refs nrefs="2-280" />
+			</w>
+			<w n="1-285">
+				<text>ειποντος</text>
+				<refs nrefs="2-281" />
+			</w>
+			<w n="1-286">
+				<text>εις</text>
+				<refs nrefs="2-282" />
+			</w>
+			<w n="1-287">
+				<text>των</text>
+				<refs nrefs="2-284" />
+			</w>
+			<w n="1-288">
+				<text>υπηρετων</text>
+				<refs nrefs="2-285" />
+			</w>
+			<w n="1-289">
+				<text>παρεστηκως</text>
+				<refs nrefs="2-283" />
+			</w>
+			<w n="1-290">
+				<text>εδωκεν</text>
+				<refs nrefs="2-286" />
+			</w>
+			<w n="1-291">
+				<text>ραπισμα</text>
+				<refs nrefs="2-287" />
+			</w>
+			<w n="1-292">
+				<text>τω</text>
+				<refs nrefs="2-288" />
+			</w>
+			<w n="1-293">
+				<text>ιησου</text>
+				<refs nrefs="2-289" />
+			</w>
+			<w n="1-294">
+				<text>ειπων</text>
+				<refs nrefs="2-290" />
+			</w>
+			<w n="1-295">
+				<text>ουτως</text>
+				<refs nrefs="2-291" />
+			</w>
+			<w n="1-296">
+				<text>αποκρινη</text>
+				<refs nrefs="2-292" />
+			</w>
+			<w n="1-297">
+				<text>τω</text>
+				<refs nrefs="2-293" />
+			</w>
+			<w n="1-298">
+				<text>αρχιερει</text>
+				<refs nrefs="2-294" />
+			</w>
+			<w n="1-299">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-278">
+				<text>ταυτα</text>
+				<refs nrefs="1-282" />
+			</w>
+			<w n="2-279">
+				<text>δε</text>
+				<refs nrefs="1-283" />
+			</w>
+			<w n="2-280">
+				<text>αυτου</text>
+				<refs nrefs="1-284" />
+			</w>
+			<w n="2-281">
+				<text>ειποντος</text>
+				<refs nrefs="1-285" />
+			</w>
+			<w n="2-282">
+				<text>εις</text>
+				<refs nrefs="1-286" />
+			</w>
+			<w n="2-283">
+				<text>παρεστηκως</text>
+				<refs nrefs="1-289" />
+			</w>
+			<w n="2-284">
+				<text>των</text>
+				<refs nrefs="1-287" />
+			</w>
+			<w n="2-285">
+				<text>υπηρετων</text>
+				<refs nrefs="1-288" />
+			</w>
+			<w n="2-286">
+				<text>εδωκε</text>
+				<refs nrefs="1-290" />
+			</w>
+			<w n="2-287">
+				<text>ραπισμα</text>
+				<refs nrefs="1-291" />
+			</w>
+			<w n="2-288">
+				<text>τω</text>
+				<refs nrefs="1-292" />
+			</w>
+			<w n="2-289">
+				<text>ιησου</text>
+				<refs nrefs="1-293" />
+			</w>
+			<w n="2-290">
+				<text>ειπων</text>
+				<refs nrefs="1-294" />
+			</w>
+			<w n="2-291">
+				<text>ουτως</text>
+				<refs nrefs="1-295" />
+			</w>
+			<w n="2-292">
+				<text>αποκρεινη</text>
+				<refs nrefs="1-296" />
+			</w>
+			<w n="2-293">
+				<text>τω</text>
+				<refs nrefs="1-297" />
+			</w>
+			<w n="2-294">
+				<text>αρχιερει</text>
+				<refs nrefs="1-298" />
+			</w>
+			<w n="2-295">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-192">
+				<text>pater</text>
+				<refs nrefs="2-193" />
+			</w>
+			<w n="1-193">
+				<text>quod</text>
+				<refs nrefs="2-194" />
+			</w>
+			<w n="1-194">
+				<text>dedit</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-195">
+				<text>mihi</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-196">
+				<text>maius</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-197">
+				<text>est</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-198">
+				<text>omnibus</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-199">
+				<text>et</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-200">
+				<text>nemo</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-201">
+				<text>potest</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-202">
+				<text>rapere</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-203">
+				<text>illud</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-204">
+				<text>de</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-205">
+				<text>manu</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-206">
+				<text>patris</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-207">
+				<text>mei</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-208">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-193">
+				<text>pater</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-194">
+				<text>quod</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-195">
+				<text>dedit</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-196">
+				<text>mihi</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-197">
+				<text>maius</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-198">
+				<text>omnibus</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-199">
+				<text>est</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-200">
+				<text>et</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-201">
+				<text>nemo</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-202">
+				<text>potest</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-203">
+				<text>rapere</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-204">
+				<text>de</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-205">
+				<text>manu</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-206">
+				<text>patris</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-207">
+				<text>mei</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-208">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

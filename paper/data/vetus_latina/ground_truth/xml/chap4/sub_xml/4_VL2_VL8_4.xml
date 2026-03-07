@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-50">
+				<text>quomodo</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-51">
+				<text>ergo</text>
+				<refs nrefs="2-52" />
+			</w>
+			<w n="1-52">
+				<text>uenit</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-53">
+				<text>in</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-54">
+				<text>galileam</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-55">
+				<text>exceperunt</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-56">
+				<text>eum</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-57">
+				<text>galilei</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-58">
+				<text>omnes</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-59">
+				<text>audierant</text>
+				<refs nrefs="2-60 2-61" />
+			</w>
+			<w n="1-60">
+				<text>enim</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-61">
+				<text>omnia</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-62">
+				<text>que</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-63">
+				<text>fecerat</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-64">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-65">
+				<text>hierosolymis</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-66">
+				<text>die</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-67">
+				<text>festo</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-68">
+				<text>et</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-69">
+				<text>ipsi</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-70">
+				<text>enim</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-71">
+				<text>uenerant</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-72">
+				<text>in</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-73">
+				<text>die</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-74">
+				<text>festo</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-75">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-51">
+				<text>cum</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-52">
+				<text>ergo</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-53">
+				<text>uenit</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-54">
+				<text>in</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-55">
+				<text>galileam</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-56">
+				<text>exceperunt</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-57">
+				<text>illum</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-58">
+				<text>galilei</text>
+				<refs nrefs="1-57" />
+			</w>
+			<w n="2-59">
+				<text>uniuersi</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-60">
+				<text>cum</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-61">
+				<text>uidissent</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-62">
+				<text>omnia</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-63">
+				<text>que</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-64">
+				<text>fecit</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-65">
+				<text>iherosolimis</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-66">
+				<text>in</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-67">
+				<text>die</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-68">
+				<text>festo</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-69">
+				<text>et</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-70">
+				<text>ipsi</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-71">
+				<text>eum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-72">
+				<text>uenerat</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-73">
+				<text>in</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-74">
+				<text>diem</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-75">
+				<text>festum</text>
+				<refs nrefs="1-74" />
+			</w>
+			<w n="2-76">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

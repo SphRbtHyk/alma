@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-195">
+				<text>ipse</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-196">
+				<text>enim</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-197">
+				<text>pater</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-198">
+				<text>diligit</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-199">
+				<text>uos</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-200">
+				<text>quia</text>
+				<refs nrefs="2-216" />
+			</w>
+			<w n="1-201">
+				<text>uos</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-202">
+				<text>me</text>
+				<refs nrefs="2-218" />
+			</w>
+			<w n="1-203">
+				<text>dilixistis</text>
+				<refs nrefs="2-219" />
+			</w>
+			<w n="1-204">
+				<text>et</text>
+				<refs nrefs="2-220" />
+			</w>
+			<w n="1-205">
+				<text>credidistis</text>
+				<refs nrefs="2-221" />
+			</w>
+			<w n="1-206">
+				<text>quia</text>
+				<refs nrefs="2-222" />
+			</w>
+			<w n="1-207">
+				<text>ego</text>
+				<refs nrefs="2-223" />
+			</w>
+			<w n="1-208">
+				<text>a</text>
+				<refs nrefs="2-224" />
+			</w>
+			<w n="1-209">
+				<text>deo</text>
+				<refs nrefs="2-225" />
+			</w>
+			<w n="1-210">
+				<text>exiui</text>
+				<refs nrefs="2-227" />
+			</w>
+			<w n="1-211">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-211">
+				<text>ipse</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-212">
+				<text>enim</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-213">
+				<text>pater</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-214">
+				<text>amat</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-215">
+				<text>uos</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-216">
+				<text>quia</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-217">
+				<text>uos</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-218">
+				<text>me</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-219">
+				<text>amatis</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-220">
+				<text>et</text>
+				<refs nrefs="1-204" />
+			</w>
+			<w n="2-221">
+				<text>creditis</text>
+				<refs nrefs="1-205" />
+			</w>
+			<w n="2-222">
+				<text>quia</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-223">
+				<text>ego</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-224">
+				<text>a</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-225">
+				<text>deo</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-226">
+				<text>patre</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-227">
+				<text>exiui</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-228">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

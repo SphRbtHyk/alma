@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="9"><wds lnum="L1"><w n="1-159">
+				<text>ο</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-160">
+				<text>εωρακεν</text>
+				<refs nrefs="2-160" />
+			</w>
+			<w n="1-161">
+				<text>και</text>
+				<refs nrefs="2-161" />
+			</w>
+			<w n="1-162">
+				<text>ηκουσεν</text>
+				<refs nrefs="2-162" />
+			</w>
+			<w n="1-163">
+				<text>μαρτυρει</text>
+				<refs nrefs="2-164" />
+			</w>
+			<w n="1-164">
+				<text>και</text>
+				<refs nrefs="2-165" />
+			</w>
+			<w n="1-165">
+				<text>την</text>
+				<refs nrefs="2-166" />
+			</w>
+			<w n="1-166">
+				<text>μαρτυριαν</text>
+				<refs nrefs="2-167" />
+			</w>
+			<w n="1-167">
+				<text>αυτου</text>
+				<refs nrefs="2-168" />
+			</w>
+			<w n="1-168">
+				<text>ουδεις</text>
+				<refs nrefs="2-169" />
+			</w>
+			<w n="1-169">
+				<text>λαμβανει</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-170">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-159">
+				<text>ο</text>
+				<refs nrefs="1-159" />
+			</w>
+			<w n="2-160">
+				<text>εωρακεν</text>
+				<refs nrefs="1-160" />
+			</w>
+			<w n="2-161">
+				<text>και</text>
+				<refs nrefs="1-161" />
+			</w>
+			<w n="2-162">
+				<text>ηκουσεν</text>
+				<refs nrefs="1-162" />
+			</w>
+			<w n="2-163">
+				<text>τουτο</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-164">
+				<text>μαρτυρει</text>
+				<refs nrefs="1-163" />
+			</w>
+			<w n="2-165">
+				<text>και</text>
+				<refs nrefs="1-164" />
+			</w>
+			<w n="2-166">
+				<text>την</text>
+				<refs nrefs="1-165" />
+			</w>
+			<w n="2-167">
+				<text>μαρτυριαν</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-168">
+				<text>αυτου</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-169">
+				<text>ουδεις</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-170">
+				<text>λαμβανει</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-171">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-89">
+				<text>pacem</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-90">
+				<text>meam</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-91">
+				<text>remitto</text>
+				<refs nrefs="2-98" />
+			</w>
+			<w n="1-92">
+				<text>uobis</text>
+				<refs nrefs="2-99" />
+			</w>
+			<w n="1-93">
+				<text>pacem</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-94">
+				<text>meam</text>
+				<refs nrefs="2-101" />
+			</w>
+			<w n="1-95">
+				<text>deo</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-96">
+				<text>uobis</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-97">
+				<text>non</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-98">
+				<text>conturbetur</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-99">
+				<text>cor</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-100">
+				<text>uestrum</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-101">
+				<text>neque</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-102">
+				<text>trepidet</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-103">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-96">
+				<text>pacem</text>
+				<refs nrefs="1-89" />
+			</w>
+			<w n="2-97">
+				<text>meam</text>
+				<refs nrefs="1-90" />
+			</w>
+			<w n="2-98">
+				<text>relinquo</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-99">
+				<text>uobis</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-100">
+				<text>pacem</text>
+				<refs nrefs="1-93" />
+			</w>
+			<w n="2-101">
+				<text>meam</text>
+				<refs nrefs="1-94" />
+			</w>
+			<w n="2-102">
+				<text>deo</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-103">
+				<text>uobis</text>
+				<refs nrefs="1-96" />
+			</w>
+			<w n="2-104">
+				<text>non</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-105">
+				<text>quomodo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-106">
+				<text>hic</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-107">
+				<text>mundus</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-108">
+				<text>dat</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-109">
+				<text>ego</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-110">
+				<text>deo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-111">
+				<text>uobis</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-112">
+				<text>non</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-113">
+				<text>conturbetur</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-114">
+				<text>cor</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-115">
+				<text>uestrum</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-116">
+				<text>neque</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-117">
+				<text>formidet</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-118">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="11"><wds lnum="L1"><w n="1-191">
+				<text>ο</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-192">
+				<text>πατηρ</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-193">
+				<text>αγαπα</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-194">
+				<text>τον</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-195">
+				<text>υιον</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-196">
+				<text>και</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-197">
+				<text>παντα</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-198">
+				<text>εδωκεν</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-199">
+				<text>εν</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-200">
+				<text>τη</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-201">
+				<text>χειρι</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-202">
+				<text>αυτου</text>
+				<refs nrefs="2-211" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-200">
+				<text>ο</text>
+				<refs nrefs="1-191" />
+			</w>
+			<w n="2-201">
+				<text>πατηρ</text>
+				<refs nrefs="1-192" />
+			</w>
+			<w n="2-202">
+				<text>αγαπα</text>
+				<refs nrefs="1-193" />
+			</w>
+			<w n="2-203">
+				<text>τον</text>
+				<refs nrefs="1-194" />
+			</w>
+			<w n="2-204">
+				<text>υιον</text>
+				<refs nrefs="1-195" />
+			</w>
+			<w n="2-205">
+				<text>και</text>
+				<refs nrefs="1-196" />
+			</w>
+			<w n="2-206">
+				<text>παντα</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-207">
+				<text>δεδωκεν</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-208">
+				<text>εν</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-209">
+				<text>τη</text>
+				<refs nrefs="1-200" />
+			</w>
+			<w n="2-210">
+				<text>χειρι</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-211">
+				<text>αυτου</text>
+				<refs nrefs="1-202" />
+			</w>
+		</wds></sentence></aligned-text>

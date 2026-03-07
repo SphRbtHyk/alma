@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="13"><wds lnum="L1"><w n="1-206">
+				<text>et</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-207">
+				<text>continuo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-208">
+				<text>commonefacti</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-209">
+				<text>sunt</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-210">
+				<text>discipuli</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-211">
+				<text>eius</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-212">
+				<text>quoniam</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-213">
+				<text>scriptum</text>
+				<refs nrefs="2-208" />
+			</w>
+			<w n="1-214">
+				<text>est</text>
+				<refs nrefs="2-209" />
+			</w>
+			<w n="1-215">
+				<text>gelus</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-216">
+				<text>domus</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-217">
+				<text>tue</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-218">
+				<text>comedit</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-219">
+				<text>me</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-220">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-202">
+				<text>et</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-203">
+				<text>rememorati</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-204">
+				<text>sunt</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-205">
+				<text>discipuli</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-206">
+				<text>eius</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-207">
+				<text>quia</text>
+				<refs nrefs="1-212" />
+			</w>
+			<w n="2-208">
+				<text>scriptum</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-209">
+				<text>est</text>
+				<refs nrefs="1-214" />
+			</w>
+			<w n="2-210">
+				<text>zelus</text>
+				<refs nrefs="1-215" />
+			</w>
+			<w n="2-211">
+				<text>domus</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-212">
+				<text>tue</text>
+				<refs nrefs="1-217" />
+			</w>
+			<w n="2-213">
+				<text>comedit</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-214">
+				<text>me</text>
+				<refs nrefs="1-219" />
+			</w>
+			<w n="2-215">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

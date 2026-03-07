@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="6"><wds lnum="L1"><w n="1-103">
+				<text>amen</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-104">
+				<text>amen</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-105">
+				<text>dico</text>
+				<refs nrefs="2-98" />
+			</w>
+			<w n="1-106">
+				<text>uobis</text>
+				<refs nrefs="2-99" />
+			</w>
+			<w n="1-107">
+				<text>quoniam</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-108">
+				<text>qui</text>
+				<refs nrefs="2-101" />
+			</w>
+			<w n="1-109">
+				<text>sermonem</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-110">
+				<text>meum</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-111">
+				<text>audit</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-112">
+				<text>et</text>
+				<refs nrefs="2-105" />
+			</w>
+			<w n="1-113">
+				<text>credit</text>
+				<refs nrefs="2-106" />
+			</w>
+			<w n="1-114">
+				<text>ei</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-115">
+				<text>qui</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-116">
+				<text>me</text>
+				<refs nrefs="2-109" />
+			</w>
+			<w n="1-117">
+				<text>misit</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-118">
+				<text>habet</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-119">
+				<text>uitam</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-120">
+				<text>eternam</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-121">
+				<text>et</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-122">
+				<text>in</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-123">
+				<text>iudicio</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-124">
+				<text>damnationis</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-125">
+				<text>non</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-126">
+				<text>ueniet</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-127">
+				<text>sed</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-128">
+				<text>transiet</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-129">
+				<text>a</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-130">
+				<text>morte</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-131">
+				<text>ad</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-132">
+				<text>uitam</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-133">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-96">
+				<text>amen</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-97">
+				<text>amen</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-98">
+				<text>dico</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-99">
+				<text>uobis</text>
+				<refs nrefs="1-106" />
+			</w>
+			<w n="2-100">
+				<text>quoniam</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-101">
+				<text>qui</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-102">
+				<text>uerbum</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-103">
+				<text>meum</text>
+				<refs nrefs="1-110" />
+			</w>
+			<w n="2-104">
+				<text>audit</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-105">
+				<text>et</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-106">
+				<text>credit</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-107">
+				<text>ei</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-108">
+				<text>qui</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-109">
+				<text>me</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-110">
+				<text>misit</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-111">
+				<text>habet</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-112">
+				<text>uitam</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-113">
+				<text>eternam</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-114">
+				<text>et</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-115">
+				<text>in</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-116">
+				<text>iudicio</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-117">
+				<text>non</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-118">
+				<text>ueniet</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-119">
+				<text>sed</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-120">
+				<text>transiet</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-121">
+				<text>a</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-122">
+				<text>morte</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-123">
+				<text>in</text>
+				<refs nrefs="1-131" />
+			</w>
+			<w n="2-124">
+				<text>uitam</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-125">
+				<text>eternam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-126">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

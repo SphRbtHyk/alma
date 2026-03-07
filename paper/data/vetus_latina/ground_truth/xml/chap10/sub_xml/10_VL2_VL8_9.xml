@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="9"><wds lnum="L1"><w n="1-102">
+				<text>nemo</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-103">
+				<text>tollit</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-104">
+				<text>eam</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-105">
+				<text>a</text>
+				<refs nrefs="2-105" />
+			</w>
+			<w n="1-106">
+				<text>me</text>
+				<refs nrefs="2-106" />
+			</w>
+			<w n="1-107">
+				<text>sed</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-108">
+				<text>ego</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-109">
+				<text>ponam</text>
+				<refs nrefs="2-109" />
+			</w>
+			<w n="1-110">
+				<text>illam</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-111">
+				<text>a</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-112">
+				<text>meipso</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-113">
+				<text>potestatem</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-114">
+				<text>habeo</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-115">
+				<text>ponendi</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-116">
+				<text>eam</text>
+				<refs nrefs="2-116" />
+			</w>
+			<w n="1-117">
+				<text>et</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-118">
+				<text>potestatem</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-119">
+				<text>habeo</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-120">
+				<text>sumendi</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-121">
+				<text>eam</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-122">
+				<text>hoc</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-123">
+				<text>mandatum</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-124">
+				<text>accepi</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-125">
+				<text>a</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-126">
+				<text>patre</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-127">
+				<text>meo</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-128">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-102">
+				<text>nemo</text>
+				<refs nrefs="1-102" />
+			</w>
+			<w n="2-103">
+				<text>tollit</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-104">
+				<text>eam</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-105">
+				<text>a</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-106">
+				<text>me</text>
+				<refs nrefs="1-106" />
+			</w>
+			<w n="2-107">
+				<text>sed</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-108">
+				<text>ego</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-109">
+				<text>pono</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-110">
+				<text>eam</text>
+				<refs nrefs="1-110" />
+			</w>
+			<w n="2-111">
+				<text>a</text>
+				<refs nrefs="1-111" />
+			</w>
+			<w n="2-112">
+				<text>meipso</text>
+				<refs nrefs="1-112" />
+			</w>
+			<w n="2-113">
+				<text>potestatem</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-114">
+				<text>habeo</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-115">
+				<text>ponendi</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-116">
+				<text>eam</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-117">
+				<text>et</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-118">
+				<text>potestatem</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-119">
+				<text>habeo</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-120">
+				<text>sumendi</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-121">
+				<text>eam</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-122">
+				<text>hoc</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-123">
+				<text>preceptum</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-124">
+				<text>adcepi</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-125">
+				<text>a</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-126">
+				<text>patre</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-127">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

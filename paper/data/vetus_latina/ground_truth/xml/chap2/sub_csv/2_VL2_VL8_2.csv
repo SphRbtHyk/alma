@@ -1,0 +1,11 @@
+source_index,source_text,target_index,target_text
+0,fuit,1,est
+1,autem,2,autem
+2,iesus,4,iesus
+3,uocitus,0,uocatus
+4,et,5,et
+-,-,3,et
+5,discipuli,6,discipuli
+6,eius,7,eius
+7,ad,8,ad
+8,nuptias,9,nuptias

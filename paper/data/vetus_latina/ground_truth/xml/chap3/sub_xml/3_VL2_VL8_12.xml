@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="12"><wds lnum="L1"><w n="1-229">
+				<text>amen</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-230">
+				<text>amen</text>
+				<refs nrefs="2-218" />
+			</w>
+			<w n="1-231">
+				<text>dico</text>
+				<refs nrefs="2-219" />
+			</w>
+			<w n="1-232">
+				<text>tibi</text>
+				<refs nrefs="2-220" />
+			</w>
+			<w n="1-233">
+				<text>quod</text>
+				<refs nrefs="2-222" />
+			</w>
+			<w n="1-234">
+				<text>scimus</text>
+				<refs nrefs="2-223" />
+			</w>
+			<w n="1-235">
+				<text>loquimur</text>
+				<refs nrefs="2-224" />
+			</w>
+			<w n="1-236">
+				<text>et</text>
+				<refs nrefs="2-225" />
+			</w>
+			<w n="1-237">
+				<text>quod</text>
+				<refs nrefs="2-226" />
+			</w>
+			<w n="1-238">
+				<text>uidimus</text>
+				<refs nrefs="2-227" />
+			</w>
+			<w n="1-239">
+				<text>testimonium</text>
+				<refs nrefs="2-228" />
+			</w>
+			<w n="1-240">
+				<text>dicimus</text>
+				<refs nrefs="2-228" />
+			</w>
+			<w n="1-241">
+				<text>et</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-242">
+				<text>testimonium</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-243">
+				<text>nostrum</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-244">
+				<text>non</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-245">
+				<text>accipitis</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-246">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-217">
+				<text>amen</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-218">
+				<text>amen</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-219">
+				<text>dico</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-220">
+				<text>tibi</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-221">
+				<text>quia</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-222">
+				<text>quod</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-223">
+				<text>scimus</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-224">
+				<text>loquimur</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-225">
+				<text>et</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-226">
+				<text>quod</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-227">
+				<text>uidimus</text>
+				<refs nrefs="1-238" />
+			</w>
+			<w n="2-228">
+				<text>testificamur</text>
+				<refs nrefs="1-239 1-240" />
+			</w>
+			<w n="2-229">
+				<text>et</text>
+				<refs nrefs="1-241" />
+			</w>
+			<w n="2-230">
+				<text>testimonium</text>
+				<refs nrefs="1-242" />
+			</w>
+			<w n="2-231">
+				<text>nostrum</text>
+				<refs nrefs="1-243" />
+			</w>
+			<w n="2-232">
+				<text>non</text>
+				<refs nrefs="1-244" />
+			</w>
+			<w n="2-233">
+				<text>adcipitis</text>
+				<refs nrefs="1-245" />
+			</w>
+			<w n="2-234">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

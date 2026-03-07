@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="2"><wds lnum="L1"><w n="1-28">
+				<text>ipse</text>
+				<refs nrefs="2-29" />
+			</w>
+			<w n="1-29">
+				<text>autem</text>
+				<refs nrefs="2-30" />
+			</w>
+			<w n="1-30">
+				<text>iesus</text>
+				<refs nrefs="2-31" />
+			</w>
+			<w n="1-31">
+				<text>testabatur</text>
+				<refs nrefs="2-32 2-33" />
+			</w>
+			<w n="1-32">
+				<text>dicens</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-33">
+				<text>quia</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-34">
+				<text>profeta</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-35">
+				<text>in</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-36">
+				<text>patria</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-37">
+				<text>sua</text>
+				<refs nrefs="2-37" />
+			</w>
+			<w n="1-38">
+				<text>honorem</text>
+				<refs nrefs="2-39" />
+			</w>
+			<w n="1-39">
+				<text>non</text>
+				<refs nrefs="2-40" />
+			</w>
+			<w n="1-40">
+				<text>habet</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-41">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-29">
+				<text>ipse</text>
+				<refs nrefs="1-28" />
+			</w>
+			<w n="2-30">
+				<text>enim</text>
+				<refs nrefs="1-29" />
+			</w>
+			<w n="2-31">
+				<text>iesus</text>
+				<refs nrefs="1-30" />
+			</w>
+			<w n="2-32">
+				<text>testimonium</text>
+				<refs nrefs="1-31" />
+			</w>
+			<w n="2-33">
+				<text>perhibuit</text>
+				<refs nrefs="1-31" />
+			</w>
+			<w n="2-34">
+				<text>quia</text>
+				<refs nrefs="1-33" />
+			</w>
+			<w n="2-35">
+				<text>propheta</text>
+				<refs nrefs="1-34" />
+			</w>
+			<w n="2-36">
+				<text>in</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-37">
+				<text>sua</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-38">
+				<text>patria</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-39">
+				<text>honorem</text>
+				<refs nrefs="1-38" />
+			</w>
+			<w n="2-40">
+				<text>non</text>
+				<refs nrefs="1-39" />
+			</w>
+			<w n="2-41">
+				<text>habet</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-42">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

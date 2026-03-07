@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="4"><wds lnum="L1"><w n="1-47">
+				<text>recumbens</text>
+				<refs nrefs="2-51" />
+			</w>
+			<w n="1-48">
+				<text>ille</text>
+				<refs nrefs="2-53" />
+			</w>
+			<w n="1-49">
+				<text>super</text>
+				<refs nrefs="2-54" />
+			</w>
+			<w n="1-50">
+				<text>pectus</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-51">
+				<text>iesum</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-52">
+				<text>ait</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-53">
+				<text>illi</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-54">
+				<text>domine</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-55">
+				<text>quis</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-56">
+				<text>est</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-57">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-51">
+				<text>recumbens</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-52">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-53">
+				<text>ille</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-54">
+				<text>super</text>
+				<refs nrefs="1-49" />
+			</w>
+			<w n="2-55">
+				<text>pectus</text>
+				<refs nrefs="1-50" />
+			</w>
+			<w n="2-56">
+				<text>iesu</text>
+				<refs nrefs="1-51" />
+			</w>
+			<w n="2-57">
+				<text>dicit</text>
+				<refs nrefs="1-52" />
+			</w>
+			<w n="2-58">
+				<text>ei</text>
+				<refs nrefs="1-53" />
+			</w>
+			<w n="2-59">
+				<text>domine</text>
+				<refs nrefs="1-54" />
+			</w>
+			<w n="2-60">
+				<text>quis</text>
+				<refs nrefs="1-55" />
+			</w>
+			<w n="2-61">
+				<text>est</text>
+				<refs nrefs="1-56" />
+			</w>
+			<w n="2-62">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

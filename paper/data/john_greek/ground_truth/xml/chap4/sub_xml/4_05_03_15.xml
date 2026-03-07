@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="15"><wds lnum="L1"><w n="1-228">
+				<text>αυτος</text>
+				<refs nrefs="2-228" />
+			</w>
+			<w n="1-229">
+				<text>γαρ</text>
+				<refs nrefs="2-229" />
+			</w>
+			<w n="1-230">
+				<text>ιησους</text>
+				<refs nrefs="2-230" />
+			</w>
+			<w n="1-231">
+				<text>εμαρτυρησεν</text>
+				<refs nrefs="2-231" />
+			</w>
+			<w n="1-232">
+				<text>οτι</text>
+				<refs nrefs="2-232" />
+			</w>
+			<w n="1-233">
+				<text>προφητης</text>
+				<refs nrefs="2-233" />
+			</w>
+			<w n="1-234">
+				<text>εν</text>
+				<refs nrefs="2-234" />
+			</w>
+			<w n="1-235">
+				<text>τη</text>
+				<refs nrefs="2-235" />
+			</w>
+			<w n="1-236">
+				<text>ιδια</text>
+				<refs nrefs="2-236" />
+			</w>
+			<w n="1-237">
+				<text>πατριδι</text>
+				<refs nrefs="2-237" />
+			</w>
+			<w n="1-238">
+				<text>τειμην</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-239">
+				<text>ουκ</text>
+				<refs nrefs="2-239" />
+			</w>
+			<w n="1-240">
+				<text>εχει</text>
+				<refs nrefs="" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-228">
+				<text>αυτος</text>
+				<refs nrefs="1-228" />
+			</w>
+			<w n="2-229">
+				<text>γαρ</text>
+				<refs nrefs="1-229" />
+			</w>
+			<w n="2-230">
+				<text>ιησους</text>
+				<refs nrefs="1-230" />
+			</w>
+			<w n="2-231">
+				<text>εμαρτυρησεν</text>
+				<refs nrefs="1-231" />
+			</w>
+			<w n="2-232">
+				<text>οτι</text>
+				<refs nrefs="1-232" />
+			</w>
+			<w n="2-233">
+				<text>προφητης</text>
+				<refs nrefs="1-233" />
+			</w>
+			<w n="2-234">
+				<text>εν</text>
+				<refs nrefs="1-234" />
+			</w>
+			<w n="2-235">
+				<text>τη</text>
+				<refs nrefs="1-235" />
+			</w>
+			<w n="2-236">
+				<text>ιδια</text>
+				<refs nrefs="1-236" />
+			</w>
+			<w n="2-237">
+				<text>πατριδι</text>
+				<refs nrefs="1-237" />
+			</w>
+			<w n="2-238">
+				<text>τει</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-239">
+				<text>ουκ</text>
+				<refs nrefs="1-239" />
+			</w>
+			<w n="2-240">
+				<text>εχει</text>
+				<refs nrefs="" />
+			</w>
+		</wds></sentence></aligned-text>

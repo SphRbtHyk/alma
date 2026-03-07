@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="10"><wds lnum="L1"><w n="1-197">
+				<text>τουτο</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-198">
+				<text>ειπων</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-199">
+				<text>ενεφυσησεν</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-200">
+				<text>αυτοις</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-201">
+				<text>και</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-202">
+				<text>λεγει</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-203">
+				<text>αυτοις</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-204">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-197">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-198">
+				<text>τουτο</text>
+				<refs nrefs="1-197" />
+			</w>
+			<w n="2-199">
+				<text>ειπων</text>
+				<refs nrefs="1-198" />
+			</w>
+			<w n="2-200">
+				<text>ενεφυσησε</text>
+				<refs nrefs="1-199" />
+			</w>
+			<w n="2-201">
+				<text>και</text>
+				<refs nrefs="1-201" />
+			</w>
+			<w n="2-202">
+				<text>λεγει</text>
+				<refs nrefs="1-202" />
+			</w>
+			<w n="2-203">
+				<text>αυτοις</text>
+				<refs nrefs="1-203" />
+			</w>
+			<w n="2-204">
+				<text>λαβετε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-205">
+				<text>πνευμα</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-206">
+				<text>αγιον</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-207">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

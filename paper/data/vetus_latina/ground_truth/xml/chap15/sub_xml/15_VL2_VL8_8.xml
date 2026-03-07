@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-127">
+				<text>non</text>
+				<refs nrefs="2-131" />
+			</w>
+			<w n="1-128">
+				<text>uos</text>
+				<refs nrefs="2-132" />
+			</w>
+			<w n="1-129">
+				<text>me</text>
+				<refs nrefs="2-133" />
+			</w>
+			<w n="1-130">
+				<text>elegis</text>
+				<refs nrefs="2-134" />
+			</w>
+			<w n="1-131">
+				<text>sed</text>
+				<refs nrefs="2-135" />
+			</w>
+			<w n="1-132">
+				<text>ego</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-133">
+				<text>uos</text>
+				<refs nrefs="2-138" />
+			</w>
+			<w n="1-134">
+				<text>elegi</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-135">
+				<text>posui</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-136">
+				<text>uos</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-137">
+				<text>ut</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-138">
+				<text>uos</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-139">
+				<text>eatis</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-140">
+				<text>et</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-141">
+				<text>fructum</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-142">
+				<text>adferatis</text>
+				<refs nrefs="2-145" />
+			</w>
+			<w n="1-143">
+				<text>et</text>
+				<refs nrefs="2-146" />
+			</w>
+			<w n="1-144">
+				<text>fructus</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-145">
+				<text>uester</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-146">
+				<text>est</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-147">
+				<text>ut</text>
+				<refs nrefs="2-150" />
+			</w>
+			<w n="1-148">
+				<text>si</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-149">
+				<text>quid</text>
+				<refs nrefs="2-151" />
+			</w>
+			<w n="1-150">
+				<text>petieritis</text>
+				<refs nrefs="2-152" />
+			</w>
+			<w n="1-151">
+				<text>patrem</text>
+				<refs nrefs="2-153 2-154" />
+			</w>
+			<w n="1-152">
+				<text>in</text>
+				<refs nrefs="2-155" />
+			</w>
+			<w n="1-153">
+				<text>nomine</text>
+				<refs nrefs="2-156" />
+			</w>
+			<w n="1-154">
+				<text>meo</text>
+				<refs nrefs="2-157" />
+			</w>
+			<w n="1-155">
+				<text>det</text>
+				<refs nrefs="2-158" />
+			</w>
+			<w n="1-156">
+				<text>uobis</text>
+				<refs nrefs="2-159" />
+			</w>
+			<w n="1-157">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-131">
+				<text>non</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-132">
+				<text>uos</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-133">
+				<text>me</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-134">
+				<text>elegistis</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-135">
+				<text>sed</text>
+				<refs nrefs="1-131" />
+			</w>
+			<w n="2-136">
+				<text>ego</text>
+				<refs nrefs="1-132" />
+			</w>
+			<w n="2-137">
+				<text>elegi</text>
+				<refs nrefs="1-134" />
+			</w>
+			<w n="2-138">
+				<text>uos</text>
+				<refs nrefs="1-133" />
+			</w>
+			<w n="2-139">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-140">
+				<text>posui</text>
+				<refs nrefs="1-135" />
+			</w>
+			<w n="2-141">
+				<text>uos</text>
+				<refs nrefs="1-136" />
+			</w>
+			<w n="2-142">
+				<text>ut</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-143">
+				<text>eatis</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-144">
+				<text>et</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-145">
+				<text>fructificetis</text>
+				<refs nrefs="1-141 1-142" />
+			</w>
+			<w n="2-146">
+				<text>et</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-147">
+				<text>fructus</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-148">
+				<text>uester</text>
+				<refs nrefs="1-145" />
+			</w>
+			<w n="2-149">
+				<text>maneat</text>
+				<refs nrefs="1-146" />
+			</w>
+			<w n="2-150">
+				<text>ut</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-151">
+				<text>quodcumque</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-152">
+				<text>petieritis</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-153">
+				<text>a</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-154">
+				<text>patre</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-155">
+				<text>in</text>
+				<refs nrefs="1-152" />
+			</w>
+			<w n="2-156">
+				<text>nomine</text>
+				<refs nrefs="1-153" />
+			</w>
+			<w n="2-157">
+				<text>meo</text>
+				<refs nrefs="1-154" />
+			</w>
+			<w n="2-158">
+				<text>det</text>
+				<refs nrefs="1-155" />
+			</w>
+			<w n="2-159">
+				<text>uobis</text>
+				<refs nrefs="1-156" />
+			</w>
+			<w n="2-160">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

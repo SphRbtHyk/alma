@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="8"><wds lnum="L1"><w n="1-137">
+				<text>ως</text>
+				<refs nrefs="2-136" />
+			</w>
+			<w n="1-138">
+				<text>ουν</text>
+				<refs nrefs="2-137" />
+			</w>
+			<w n="1-139">
+				<text>ηκουσεν</text>
+				<refs nrefs="2-138" />
+			</w>
+			<w n="1-140">
+				<text>οτι</text>
+				<refs nrefs="2-139" />
+			</w>
+			<w n="1-141">
+				<text>ασθενει</text>
+				<refs nrefs="2-140" />
+			</w>
+			<w n="1-142">
+				<text>τοτε</text>
+				<refs nrefs="2-141" />
+			</w>
+			<w n="1-143">
+				<text>μεν</text>
+				<refs nrefs="2-142" />
+			</w>
+			<w n="1-144">
+				<text>εμεινεν</text>
+				<refs nrefs="2-143" />
+			</w>
+			<w n="1-145">
+				<text>ο</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-146">
+				<text>ιησους</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-147">
+				<text>επι</text>
+				<refs nrefs="2-144" />
+			</w>
+			<w n="1-148">
+				<text>τω</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-149">
+				<text>τοπω</text>
+				<refs nrefs="2-147" />
+			</w>
+			<w n="1-150">
+				<text>δυο</text>
+				<refs nrefs="2-148" />
+			</w>
+			<w n="1-151">
+				<text>ημερας</text>
+				<refs nrefs="2-149" />
+			</w>
+			<w n="1-152">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-136">
+				<text>ως</text>
+				<refs nrefs="1-137" />
+			</w>
+			<w n="2-137">
+				<text>ουν</text>
+				<refs nrefs="1-138" />
+			</w>
+			<w n="2-138">
+				<text>ηκουσεν</text>
+				<refs nrefs="1-139" />
+			</w>
+			<w n="2-139">
+				<text>οτι</text>
+				<refs nrefs="1-140" />
+			</w>
+			<w n="2-140">
+				<text>ασθενει</text>
+				<refs nrefs="1-141" />
+			</w>
+			<w n="2-141">
+				<text>τοτε</text>
+				<refs nrefs="1-142" />
+			</w>
+			<w n="2-142">
+				<text>μεν</text>
+				<refs nrefs="1-143" />
+			</w>
+			<w n="2-143">
+				<text>εμεινεν</text>
+				<refs nrefs="1-144" />
+			</w>
+			<w n="2-144">
+				<text>εν</text>
+				<refs nrefs="1-147" />
+			</w>
+			<w n="2-145">
+				<text>ω</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-146">
+				<text>ην</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-147">
+				<text>τοπω</text>
+				<refs nrefs="1-149" />
+			</w>
+			<w n="2-148">
+				<text>δυο</text>
+				<refs nrefs="1-150" />
+			</w>
+			<w n="2-149">
+				<text>ημερας</text>
+				<refs nrefs="1-151" />
+			</w>
+			<w n="2-150">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

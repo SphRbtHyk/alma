@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-60">
+				<text>λεγει</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-61">
+				<text>αυτω</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-62">
+				<text>φιλιππος</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-63">
+				<text>κυριε</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-64">
+				<text>δειξον</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-65">
+				<text>ημειν</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-66">
+				<text>τον</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-67">
+				<text>πατερα</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-68">
+				<text>και</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-69">
+				<text>αρκει</text>
+				<refs nrefs="2-65" />
+			</w>
+			<w n="1-70">
+				<text>ημειν</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-71">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-56">
+				<text>λεγει</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-57">
+				<text>αυτω</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-58">
+				<text>φιλιππος</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-59">
+				<text>κυριε</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-60">
+				<text>δειξον</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-61">
+				<text>ημιν</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-62">
+				<text>τον</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-63">
+				<text>πατερα</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-64">
+				<text>και</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-65">
+				<text>αρκει</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-66">
+				<text>ημιν</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-67">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

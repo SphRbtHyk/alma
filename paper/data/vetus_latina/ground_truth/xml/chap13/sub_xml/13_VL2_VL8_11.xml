@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-166">
+				<text>non</text>
+				<refs nrefs="2-170" />
+			</w>
+			<w n="1-167">
+				<text>de</text>
+				<refs nrefs="2-171" />
+			</w>
+			<w n="1-168">
+				<text>omnibus</text>
+				<refs nrefs="2-172" />
+			</w>
+			<w n="1-169">
+				<text>uobis</text>
+				<refs nrefs="2-173" />
+			</w>
+			<w n="1-170">
+				<text>dico</text>
+				<refs nrefs="2-174" />
+			</w>
+			<w n="1-171">
+				<text>ego</text>
+				<refs nrefs="2-175" />
+			</w>
+			<w n="1-172">
+				<text>scio</text>
+				<refs nrefs="2-176" />
+			</w>
+			<w n="1-173">
+				<text>quos</text>
+				<refs nrefs="2-177" />
+			</w>
+			<w n="1-174">
+				<text>elegi</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-175">
+				<text>sed</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-176">
+				<text>ut</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-177">
+				<text>scriptura</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-178">
+				<text>adimpleatur</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-179">
+				<text>qui</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-180">
+				<text>manducat</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-181">
+				<text>panem</text>
+				<refs nrefs="2-186" />
+			</w>
+			<w n="1-182">
+				<text>mecum</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-183">
+				<text>adampliauit</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-184">
+				<text>super</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-185">
+				<text>me</text>
+				<refs nrefs="2-189" />
+			</w>
+			<w n="1-186">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-170">
+				<text>non</text>
+				<refs nrefs="1-166" />
+			</w>
+			<w n="2-171">
+				<text>de</text>
+				<refs nrefs="1-167" />
+			</w>
+			<w n="2-172">
+				<text>omnibus</text>
+				<refs nrefs="1-168" />
+			</w>
+			<w n="2-173">
+				<text>uobis</text>
+				<refs nrefs="1-169" />
+			</w>
+			<w n="2-174">
+				<text>dico</text>
+				<refs nrefs="1-170" />
+			</w>
+			<w n="2-175">
+				<text>ego</text>
+				<refs nrefs="1-171" />
+			</w>
+			<w n="2-176">
+				<text>scio</text>
+				<refs nrefs="1-172" />
+			</w>
+			<w n="2-177">
+				<text>quos</text>
+				<refs nrefs="1-173" />
+			</w>
+			<w n="2-178">
+				<text>elegerim</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-179">
+				<text>sed</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-180">
+				<text>ut</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-181">
+				<text>inpleatur</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-182">
+				<text>scriptura</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-183">
+				<text>qui</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-184">
+				<text>manducat</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-185">
+				<text>mecum</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-186">
+				<text>panem</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-187">
+				<text>leuauit</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-188">
+				<text>super</text>
+				<refs nrefs="1-184" />
+			</w>
+			<w n="2-189">
+				<text>me</text>
+				<refs nrefs="1-185" />
+			</w>
+			<w n="2-190">
+				<text>calcaneum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-191">
+				<text>suum</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-192">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

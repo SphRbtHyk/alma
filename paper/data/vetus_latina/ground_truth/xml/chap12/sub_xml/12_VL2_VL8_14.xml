@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="14"><wds lnum="L1"><w n="1-206">
+				<text>cogitauerunt</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-207">
+				<text>autem</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-208">
+				<text>principis</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-209">
+				<text>sacerdotum</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-210">
+				<text>et</text>
+				<refs nrefs="2-216" />
+			</w>
+			<w n="1-211">
+				<text>ut</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-212">
+				<text>larum</text>
+				<refs nrefs="2-217" />
+			</w>
+			<w n="1-213">
+				<text>occiderent</text>
+				<refs nrefs="2-218" />
+			</w>
+			<w n="1-214">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-211">
+				<text>cogitauerunt</text>
+				<refs nrefs="1-206" />
+			</w>
+			<w n="2-212">
+				<text>autem</text>
+				<refs nrefs="1-207" />
+			</w>
+			<w n="2-213">
+				<text>principes</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-214">
+				<text>sacerdotum</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-215">
+				<text>ut</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-216">
+				<text>et</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-217">
+				<text>lazarum</text>
+				<refs nrefs="1-212" />
+			</w>
+			<w n="2-218">
+				<text>interficeret</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-219">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

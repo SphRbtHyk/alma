@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="3"><wds lnum="L1"><w n="1-35">
+				<text>acceperunt</text>
+				<refs nrefs="2-34" />
+			</w>
+			<w n="1-36">
+				<text>ergo</text>
+				<refs nrefs="2-35" />
+			</w>
+			<w n="1-37">
+				<text>corpus</text>
+				<refs nrefs="2-36" />
+			</w>
+			<w n="1-38">
+				<text>iesum</text>
+				<refs nrefs="2-37" />
+			</w>
+			<w n="1-39">
+				<text>et</text>
+				<refs nrefs="2-38" />
+			</w>
+			<w n="1-40">
+				<text>ligauerunt</text>
+				<refs nrefs="2-39" />
+			</w>
+			<w n="1-41">
+				<text>eum</text>
+				<refs nrefs="2-40" />
+			</w>
+			<w n="1-42">
+				<text>cum</text>
+				<refs nrefs="2-41" />
+			</w>
+			<w n="1-43">
+				<text>aromatis</text>
+				<refs nrefs="2-42" />
+			</w>
+			<w n="1-44">
+				<text>sicut</text>
+				<refs nrefs="2-43" />
+			</w>
+			<w n="1-45">
+				<text>moyses</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-46">
+				<text>iudeis</text>
+				<refs nrefs="2-46" />
+			</w>
+			<w n="1-47">
+				<text>sepilire</text>
+				<refs nrefs="2-47" />
+			</w>
+			<w n="1-48">
+				<text>iussit</text>
+				<refs nrefs="2-44 2-45" />
+			</w>
+			<w n="1-49">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-34">
+				<text>acceperunt</text>
+				<refs nrefs="1-35" />
+			</w>
+			<w n="2-35">
+				<text>ergo</text>
+				<refs nrefs="1-36" />
+			</w>
+			<w n="2-36">
+				<text>corpus</text>
+				<refs nrefs="1-37" />
+			</w>
+			<w n="2-37">
+				<text>iesu</text>
+				<refs nrefs="1-38" />
+			</w>
+			<w n="2-38">
+				<text>et</text>
+				<refs nrefs="1-39" />
+			</w>
+			<w n="2-39">
+				<text>adligauerunt</text>
+				<refs nrefs="1-40" />
+			</w>
+			<w n="2-40">
+				<text>eum</text>
+				<refs nrefs="1-41" />
+			</w>
+			<w n="2-41">
+				<text>cum</text>
+				<refs nrefs="1-42" />
+			</w>
+			<w n="2-42">
+				<text>aromatibus</text>
+				<refs nrefs="1-43" />
+			</w>
+			<w n="2-43">
+				<text>sicut</text>
+				<refs nrefs="1-44" />
+			</w>
+			<w n="2-44">
+				<text>est</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-45">
+				<text>consuetudo</text>
+				<refs nrefs="1-48" />
+			</w>
+			<w n="2-46">
+				<text>iudeis</text>
+				<refs nrefs="1-46" />
+			</w>
+			<w n="2-47">
+				<text>sepellire</text>
+				<refs nrefs="1-47" />
+			</w>
+			<w n="2-48">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

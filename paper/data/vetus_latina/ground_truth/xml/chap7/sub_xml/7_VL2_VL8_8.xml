@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="8"><wds lnum="L1"><w n="1-113">
+				<text>uos</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-114">
+				<text>ascendite</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-115">
+				<text>ad</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-116">
+				<text>diem</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-117">
+				<text>festum</text>
+				<refs nrefs="2-114" />
+			</w>
+			<w n="1-118">
+				<text>ego</text>
+				<refs nrefs="2-115" />
+			</w>
+			<w n="1-119">
+				<text>non</text>
+				<refs nrefs="2-117" />
+			</w>
+			<w n="1-120">
+				<text>ascendo</text>
+				<refs nrefs="2-118" />
+			</w>
+			<w n="1-121">
+				<text>ad</text>
+				<refs nrefs="2-119" />
+			</w>
+			<w n="1-122">
+				<text>diem</text>
+				<refs nrefs="2-120" />
+			</w>
+			<w n="1-123">
+				<text>festum</text>
+				<refs nrefs="2-121" />
+			</w>
+			<w n="1-124">
+				<text>istum</text>
+				<refs nrefs="2-122" />
+			</w>
+			<w n="1-125">
+				<text>quia</text>
+				<refs nrefs="2-123" />
+			</w>
+			<w n="1-126">
+				<text>tempus</text>
+				<refs nrefs="2-124" />
+			</w>
+			<w n="1-127">
+				<text>meum</text>
+				<refs nrefs="2-125" />
+			</w>
+			<w n="1-128">
+				<text>nondum</text>
+				<refs nrefs="2-126" />
+			</w>
+			<w n="1-129">
+				<text>impletum</text>
+				<refs nrefs="2-127" />
+			</w>
+			<w n="1-130">
+				<text>est</text>
+				<refs nrefs="2-128" />
+			</w>
+			<w n="1-131">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-110">
+				<text>uos</text>
+				<refs nrefs="1-113" />
+			</w>
+			<w n="2-111">
+				<text>ascendite</text>
+				<refs nrefs="1-114" />
+			</w>
+			<w n="2-112">
+				<text>ad</text>
+				<refs nrefs="1-115" />
+			</w>
+			<w n="2-113">
+				<text>diem</text>
+				<refs nrefs="1-116" />
+			</w>
+			<w n="2-114">
+				<text>festum</text>
+				<refs nrefs="1-117" />
+			</w>
+			<w n="2-115">
+				<text>ego</text>
+				<refs nrefs="1-118" />
+			</w>
+			<w n="2-116">
+				<text>autem</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-117">
+				<text>non</text>
+				<refs nrefs="1-119" />
+			</w>
+			<w n="2-118">
+				<text>ascendo</text>
+				<refs nrefs="1-120" />
+			</w>
+			<w n="2-119">
+				<text>ad</text>
+				<refs nrefs="1-121" />
+			</w>
+			<w n="2-120">
+				<text>diem</text>
+				<refs nrefs="1-122" />
+			</w>
+			<w n="2-121">
+				<text>festum</text>
+				<refs nrefs="1-123" />
+			</w>
+			<w n="2-122">
+				<text>hunc</text>
+				<refs nrefs="1-124" />
+			</w>
+			<w n="2-123">
+				<text>quia</text>
+				<refs nrefs="1-125" />
+			</w>
+			<w n="2-124">
+				<text>tempus</text>
+				<refs nrefs="1-126" />
+			</w>
+			<w n="2-125">
+				<text>meum</text>
+				<refs nrefs="1-127" />
+			</w>
+			<w n="2-126">
+				<text>nondum</text>
+				<refs nrefs="1-128" />
+			</w>
+			<w n="2-127">
+				<text>inpletum</text>
+				<refs nrefs="1-129" />
+			</w>
+			<w n="2-128">
+				<text>est</text>
+				<refs nrefs="1-130" />
+			</w>
+			<w n="2-129">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="13"><wds lnum="L1"><w n="1-296">
+				<text>απεκριθησαν</text>
+				<refs nrefs="2-288" />
+			</w>
+			<w n="1-297">
+				<text>προς</text>
+				<refs nrefs="2-289" />
+			</w>
+			<w n="1-298">
+				<text>αυτον</text>
+				<refs nrefs="2-290" />
+			</w>
+			<w n="1-299">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-300">
+				<text>ειπον</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-301">
+				<text>σπερμα</text>
+				<refs nrefs="2-291" />
+			</w>
+			<w n="1-302">
+				<text>αβρααμ</text>
+				<refs nrefs="2-292" />
+			</w>
+			<w n="1-303">
+				<text>εσμεν</text>
+				<refs nrefs="2-293" />
+			</w>
+			<w n="1-304">
+				<text>και</text>
+				<refs nrefs="2-294" />
+			</w>
+			<w n="1-305">
+				<text>ου</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-306">
+				<text>δεδουλευκαμεν</text>
+				<refs nrefs="2-296" />
+			</w>
+			<w n="1-307">
+				<text>ουδενι</text>
+				<refs nrefs="2-295" />
+			</w>
+			<w n="1-308">
+				<text>πωποτε</text>
+				<refs nrefs="2-297" />
+			</w>
+			<w n="1-309">
+				<text>πως</text>
+				<refs nrefs="2-298" />
+			</w>
+			<w n="1-310">
+				<text>συ</text>
+				<refs nrefs="2-299" />
+			</w>
+			<w n="1-311">
+				<text>λεγεις</text>
+				<refs nrefs="2-300" />
+			</w>
+			<w n="1-312">
+				<text>οτι</text>
+				<refs nrefs="2-301" />
+			</w>
+			<w n="1-313">
+				<text>ελευθεροι</text>
+				<refs nrefs="2-302" />
+			</w>
+			<w n="1-314">
+				<text>γενησεσθε</text>
+				<refs nrefs="2-303" />
+			</w>
+		</wds><wds lnum="L2"><w n="2-288">
+				<text>απεκριθησαν</text>
+				<refs nrefs="1-296" />
+			</w>
+			<w n="2-289">
+				<text>προς</text>
+				<refs nrefs="1-297" />
+			</w>
+			<w n="2-290">
+				<text>αυτον</text>
+				<refs nrefs="1-298" />
+			</w>
+			<w n="2-291">
+				<text>σπερμα</text>
+				<refs nrefs="1-301" />
+			</w>
+			<w n="2-292">
+				<text>αβρααμ</text>
+				<refs nrefs="1-302" />
+			</w>
+			<w n="2-293">
+				<text>εσμεν</text>
+				<refs nrefs="1-303" />
+			</w>
+			<w n="2-294">
+				<text>και</text>
+				<refs nrefs="1-304" />
+			</w>
+			<w n="2-295">
+				<text>ουδενι</text>
+				<refs nrefs="1-307" />
+			</w>
+			<w n="2-296">
+				<text>δεδουλευκαμεν</text>
+				<refs nrefs="1-306" />
+			</w>
+			<w n="2-297">
+				<text>πωποτε</text>
+				<refs nrefs="1-308" />
+			</w>
+			<w n="2-298">
+				<text>πως</text>
+				<refs nrefs="1-309" />
+			</w>
+			<w n="2-299">
+				<text>συ</text>
+				<refs nrefs="1-310" />
+			</w>
+			<w n="2-300">
+				<text>λεγεις</text>
+				<refs nrefs="1-311" />
+			</w>
+			<w n="2-301">
+				<text>οτι</text>
+				<refs nrefs="1-312" />
+			</w>
+			<w n="2-302">
+				<text>ελευθεροι</text>
+				<refs nrefs="1-313" />
+			</w>
+			<w n="2-303">
+				<text>γενησεσθε</text>
+				<refs nrefs="1-314" />
+			</w>
+		</wds></sentence></aligned-text>

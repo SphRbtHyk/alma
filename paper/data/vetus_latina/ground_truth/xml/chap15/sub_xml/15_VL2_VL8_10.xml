@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="10"><wds lnum="L1"><w n="1-174">
+				<text>hoc</text>
+				<refs nrefs="2-178" />
+			</w>
+			<w n="1-175">
+				<text>est</text>
+				<refs nrefs="2-179" />
+			</w>
+			<w n="1-176">
+				<text>mandatum</text>
+				<refs nrefs="2-180" />
+			</w>
+			<w n="1-177">
+				<text>meum</text>
+				<refs nrefs="2-181" />
+			</w>
+			<w n="1-178">
+				<text>ut</text>
+				<refs nrefs="2-182" />
+			</w>
+			<w n="1-179">
+				<text>diligatis</text>
+				<refs nrefs="2-183" />
+			</w>
+			<w n="1-180">
+				<text>inuicem</text>
+				<refs nrefs="2-184" />
+			</w>
+			<w n="1-181">
+				<text>sicut</text>
+				<refs nrefs="2-185" />
+			</w>
+			<w n="1-182">
+				<text>dilexi</text>
+				<refs nrefs="2-187" />
+			</w>
+			<w n="1-183">
+				<text>uos</text>
+				<refs nrefs="2-188" />
+			</w>
+			<w n="1-184">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-178">
+				<text>hoc</text>
+				<refs nrefs="1-174" />
+			</w>
+			<w n="2-179">
+				<text>est</text>
+				<refs nrefs="1-175" />
+			</w>
+			<w n="2-180">
+				<text>preceptum</text>
+				<refs nrefs="1-176" />
+			</w>
+			<w n="2-181">
+				<text>meum</text>
+				<refs nrefs="1-177" />
+			</w>
+			<w n="2-182">
+				<text>ut</text>
+				<refs nrefs="1-178" />
+			</w>
+			<w n="2-183">
+				<text>diligatis</text>
+				<refs nrefs="1-179" />
+			</w>
+			<w n="2-184">
+				<text>inuicem</text>
+				<refs nrefs="1-180" />
+			</w>
+			<w n="2-185">
+				<text>qua</text>
+				<refs nrefs="1-181" />
+			</w>
+			<w n="2-186">
+				<text>dilectione</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-187">
+				<text>dilexi</text>
+				<refs nrefs="1-182" />
+			</w>
+			<w n="2-188">
+				<text>uos</text>
+				<refs nrefs="1-183" />
+			</w>
+			<w n="2-189">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

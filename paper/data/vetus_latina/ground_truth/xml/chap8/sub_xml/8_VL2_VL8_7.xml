@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="7"><wds lnum="L1"><w n="1-91">
+				<text>dixi</text>
+				<refs nrefs="2-93" />
+			</w>
+			<w n="1-92">
+				<text>uobis</text>
+				<refs nrefs="2-95" />
+			</w>
+			<w n="1-93">
+				<text>quia</text>
+				<refs nrefs="2-96" />
+			</w>
+			<w n="1-94">
+				<text>moriemini</text>
+				<refs nrefs="2-97" />
+			</w>
+			<w n="1-95">
+				<text>in</text>
+				<refs nrefs="2-100" />
+			</w>
+			<w n="1-96">
+				<text>peccatis</text>
+				<refs nrefs="2-101" />
+			</w>
+			<w n="1-97">
+				<text>uestris</text>
+				<refs nrefs="2-102" />
+			</w>
+			<w n="1-98">
+				<text>si</text>
+				<refs nrefs="2-103" />
+			</w>
+			<w n="1-99">
+				<text>enim</text>
+				<refs nrefs="2-104" />
+			</w>
+			<w n="1-100">
+				<text>non</text>
+				<refs nrefs="2-105" />
+			</w>
+			<w n="1-101">
+				<text>credideritis</text>
+				<refs nrefs="2-106" />
+			</w>
+			<w n="1-102">
+				<text>mihi</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-103">
+				<text>quia</text>
+				<refs nrefs="2-107" />
+			</w>
+			<w n="1-104">
+				<text>ego</text>
+				<refs nrefs="2-108" />
+			</w>
+			<w n="1-105">
+				<text>sum</text>
+				<refs nrefs="2-109" />
+			</w>
+			<w n="1-106">
+				<text>moriemini</text>
+				<refs nrefs="2-110" />
+			</w>
+			<w n="1-107">
+				<text>in</text>
+				<refs nrefs="2-111" />
+			</w>
+			<w n="1-108">
+				<text>peccatis</text>
+				<refs nrefs="2-112" />
+			</w>
+			<w n="1-109">
+				<text>uestris</text>
+				<refs nrefs="2-113" />
+			</w>
+			<w n="1-110">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-93">
+				<text>dixi</text>
+				<refs nrefs="1-91" />
+			</w>
+			<w n="2-94">
+				<text>enim</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-95">
+				<text>uobis</text>
+				<refs nrefs="1-92" />
+			</w>
+			<w n="2-96">
+				<text>quia</text>
+				<refs nrefs="1-93" />
+			</w>
+			<w n="2-97">
+				<text>memoris</text>
+				<refs nrefs="1-94" />
+			</w>
+			<w n="2-98">
+				<text>non</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-99">
+				<text>estis</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-100">
+				<text>in</text>
+				<refs nrefs="1-95" />
+			</w>
+			<w n="2-101">
+				<text>peccatis</text>
+				<refs nrefs="1-96" />
+			</w>
+			<w n="2-102">
+				<text>uestris</text>
+				<refs nrefs="1-97" />
+			</w>
+			<w n="2-103">
+				<text>si</text>
+				<refs nrefs="1-98" />
+			</w>
+			<w n="2-104">
+				<text>ergo</text>
+				<refs nrefs="1-99" />
+			</w>
+			<w n="2-105">
+				<text>non</text>
+				<refs nrefs="1-100" />
+			</w>
+			<w n="2-106">
+				<text>credideritis</text>
+				<refs nrefs="1-101" />
+			</w>
+			<w n="2-107">
+				<text>quia</text>
+				<refs nrefs="1-103" />
+			</w>
+			<w n="2-108">
+				<text>ego</text>
+				<refs nrefs="1-104" />
+			</w>
+			<w n="2-109">
+				<text>sum</text>
+				<refs nrefs="1-105" />
+			</w>
+			<w n="2-110">
+				<text>moriemini</text>
+				<refs nrefs="1-106" />
+			</w>
+			<w n="2-111">
+				<text>in</text>
+				<refs nrefs="1-107" />
+			</w>
+			<w n="2-112">
+				<text>peccato</text>
+				<refs nrefs="1-108" />
+			</w>
+			<w n="2-113">
+				<text>uestro</text>
+				<refs nrefs="1-109" />
+			</w>
+			<w n="2-114">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-63">
+				<text>η</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-64">
+				<text>γαρ</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-65">
+				<text>σαρξ</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-66">
+				<text>μου</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-67">
+				<text>αληθως</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-68">
+				<text>εστι</text>
+				<refs nrefs="2-63" />
+			</w>
+			<w n="1-69">
+				<text>βρωσις</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-70">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-58">
+				<text>η</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-59">
+				<text>γαρ</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-60">
+				<text>σαρξ</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-61">
+				<text>μου</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-62">
+				<text>αληθης</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-63">
+				<text>εστιν</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-64">
+				<text>βρωσις</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-65">
+				<text>και</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-66">
+				<text>το</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-67">
+				<text>αιμα</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-68">
+				<text>μου</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-69">
+				<text>αληθης</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-70">
+				<text>εστιν</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-71">
+				<text>ποσις</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-72">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

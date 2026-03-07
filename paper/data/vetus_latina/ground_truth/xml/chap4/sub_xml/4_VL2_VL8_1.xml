@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="1"><wds lnum="L1"><w n="1-1">
+				<text>respondit</text>
+				<refs nrefs="2-1" />
+			</w>
+			<w n="1-2">
+				<text>iesus</text>
+				<refs nrefs="2-2" />
+			</w>
+			<w n="1-3">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-4">
+				<text>dit</text>
+				<refs nrefs="2-3" />
+			</w>
+			<w n="1-5">
+				<text>illi</text>
+				<refs nrefs="2-4" />
+			</w>
+			<w n="1-6">
+				<text>si</text>
+				<refs nrefs="2-5" />
+			</w>
+			<w n="1-7">
+				<text>scires</text>
+				<refs nrefs="2-6" />
+			</w>
+			<w n="1-8">
+				<text>donum</text>
+				<refs nrefs="2-7" />
+			</w>
+			<w n="1-9">
+				<text>dei</text>
+				<refs nrefs="2-8" />
+			</w>
+			<w n="1-10">
+				<text>et</text>
+				<refs nrefs="2-9" />
+			</w>
+			<w n="1-11">
+				<text>quis</text>
+				<refs nrefs="2-10" />
+			</w>
+			<w n="1-12">
+				<text>est</text>
+				<refs nrefs="2-11" />
+			</w>
+			<w n="1-13">
+				<text>qui</text>
+				<refs nrefs="2-12" />
+			</w>
+			<w n="1-14">
+				<text>tibi</text>
+				<refs nrefs="2-14" />
+			</w>
+			<w n="1-15">
+				<text>dicit</text>
+				<refs nrefs="2-13" />
+			</w>
+			<w n="1-16">
+				<text>da</text>
+				<refs nrefs="2-15" />
+			</w>
+			<w n="1-17">
+				<text>mihi</text>
+				<refs nrefs="2-16" />
+			</w>
+			<w n="1-18">
+				<text>bibere</text>
+				<refs nrefs="2-17" />
+			</w>
+			<w n="1-19">
+				<text>tu</text>
+				<refs nrefs="2-18" />
+			</w>
+			<w n="1-20">
+				<text>petisses</text>
+				<refs nrefs="2-20" />
+			</w>
+			<w n="1-21">
+				<text>eum</text>
+				<refs nrefs="2-21 2-22" />
+			</w>
+			<w n="1-22">
+				<text>et</text>
+				<refs nrefs="2-23" />
+			</w>
+			<w n="1-23">
+				<text>dedisset</text>
+				<refs nrefs="2-24" />
+			</w>
+			<w n="1-24">
+				<text>tibi</text>
+				<refs nrefs="2-25" />
+			</w>
+			<w n="1-25">
+				<text>aquam</text>
+				<refs nrefs="2-26" />
+			</w>
+			<w n="1-26">
+				<text>uibam</text>
+				<refs nrefs="2-27" />
+			</w>
+			<w n="1-27">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-1">
+				<text>respondit</text>
+				<refs nrefs="1-1" />
+			</w>
+			<w n="2-2">
+				<text>iesus</text>
+				<refs nrefs="1-2" />
+			</w>
+			<w n="2-3">
+				<text>dixit</text>
+				<refs nrefs="1-4" />
+			</w>
+			<w n="2-4">
+				<text>eius</text>
+				<refs nrefs="1-5" />
+			</w>
+			<w n="2-5">
+				<text>si</text>
+				<refs nrefs="1-6" />
+			</w>
+			<w n="2-6">
+				<text>sciris</text>
+				<refs nrefs="1-7" />
+			</w>
+			<w n="2-7">
+				<text>donum</text>
+				<refs nrefs="1-8" />
+			</w>
+			<w n="2-8">
+				<text>dei</text>
+				<refs nrefs="1-9" />
+			</w>
+			<w n="2-9">
+				<text>et</text>
+				<refs nrefs="1-10" />
+			</w>
+			<w n="2-10">
+				<text>quis</text>
+				<refs nrefs="1-11" />
+			</w>
+			<w n="2-11">
+				<text>est</text>
+				<refs nrefs="1-12" />
+			</w>
+			<w n="2-12">
+				<text>qui</text>
+				<refs nrefs="1-13" />
+			</w>
+			<w n="2-13">
+				<text>dicet</text>
+				<refs nrefs="1-15" />
+			</w>
+			<w n="2-14">
+				<text>tibi</text>
+				<refs nrefs="1-14" />
+			</w>
+			<w n="2-15">
+				<text>da</text>
+				<refs nrefs="1-16" />
+			</w>
+			<w n="2-16">
+				<text>mihi</text>
+				<refs nrefs="1-17" />
+			</w>
+			<w n="2-17">
+				<text>bibere</text>
+				<refs nrefs="1-18" />
+			</w>
+			<w n="2-18">
+				<text>tu</text>
+				<refs nrefs="1-19" />
+			</w>
+			<w n="2-19">
+				<text>forsitam</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-20">
+				<text>petissis</text>
+				<refs nrefs="1-20" />
+			</w>
+			<w n="2-21">
+				<text>ab</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-22">
+				<text>eo</text>
+				<refs nrefs="1-21" />
+			</w>
+			<w n="2-23">
+				<text>et</text>
+				<refs nrefs="1-22" />
+			</w>
+			<w n="2-24">
+				<text>dedisset</text>
+				<refs nrefs="1-23" />
+			</w>
+			<w n="2-25">
+				<text>tibi</text>
+				<refs nrefs="1-24" />
+			</w>
+			<w n="2-26">
+				<text>aquam</text>
+				<refs nrefs="1-25" />
+			</w>
+			<w n="2-27">
+				<text>uiuam</text>
+				<refs nrefs="1-26" />
+			</w>
+			<w n="2-28">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="GRC" />
+	<language lnum="L2" xml:lang="GRC" />
+	<sentence n="4"><wds lnum="L1"><w n="1-58">
+				<text>ταυτα</text>
+				<refs nrefs="2-55" />
+			</w>
+			<w n="1-59">
+				<text>λελαληκα</text>
+				<refs nrefs="2-56" />
+			</w>
+			<w n="1-60">
+				<text>υμειν</text>
+				<refs nrefs="2-57" />
+			</w>
+			<w n="1-61">
+				<text>ινα</text>
+				<refs nrefs="2-58" />
+			</w>
+			<w n="1-62">
+				<text>οταν</text>
+				<refs nrefs="2-59" />
+			</w>
+			<w n="1-63">
+				<text>ελθη</text>
+				<refs nrefs="2-60" />
+			</w>
+			<w n="1-64">
+				<text>η</text>
+				<refs nrefs="2-61" />
+			</w>
+			<w n="1-65">
+				<text>ωρα</text>
+				<refs nrefs="2-62" />
+			</w>
+			<w n="1-66">
+				<text>μνημονευτε</text>
+				<refs nrefs="2-64" />
+			</w>
+			<w n="1-67">
+				<text>οτι</text>
+				<refs nrefs="2-66" />
+			</w>
+			<w n="1-68">
+				<text>εγω</text>
+				<refs nrefs="2-67" />
+			</w>
+			<w n="1-69">
+				<text>ειπον</text>
+				<refs nrefs="2-68" />
+			</w>
+			<w n="1-70">
+				<text>υμειν</text>
+				<refs nrefs="2-69" />
+			</w>
+			<w n="1-71">
+				<text>ταυτα</text>
+				<refs nrefs="2-70" />
+			</w>
+			<w n="1-72">
+				<text>δε</text>
+				<refs nrefs="2-71" />
+			</w>
+			<w n="1-73">
+				<text>εξ</text>
+				<refs nrefs="2-73" />
+			</w>
+			<w n="1-74">
+				<text>αρχης</text>
+				<refs nrefs="2-74" />
+			</w>
+			<w n="1-75">
+				<text>υμειν</text>
+				<refs nrefs="2-72" />
+			</w>
+			<w n="1-76">
+				<text>ουκ</text>
+				<refs nrefs="2-75" />
+			</w>
+			<w n="1-77">
+				<text>ειπον</text>
+				<refs nrefs="2-76" />
+			</w>
+			<w n="1-78">
+				<text>οτι</text>
+				<refs nrefs="2-77" />
+			</w>
+			<w n="1-79">
+				<text>μεθ</text>
+				<refs nrefs="2-78" />
+			</w>
+			<w n="1-80">
+				<text>υμων</text>
+				<refs nrefs="2-79" />
+			</w>
+			<w n="1-81">
+				<text>ημην</text>
+				<refs nrefs="2-80" />
+			</w>
+			<w n="1-82">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-54">
+				<text>αλλα</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-55">
+				<text>ταυτα</text>
+				<refs nrefs="1-58" />
+			</w>
+			<w n="2-56">
+				<text>λελαληκα</text>
+				<refs nrefs="1-59" />
+			</w>
+			<w n="2-57">
+				<text>υμιν</text>
+				<refs nrefs="1-60" />
+			</w>
+			<w n="2-58">
+				<text>ινα</text>
+				<refs nrefs="1-61" />
+			</w>
+			<w n="2-59">
+				<text>οταν</text>
+				<refs nrefs="1-62" />
+			</w>
+			<w n="2-60">
+				<text>ελθη</text>
+				<refs nrefs="1-63" />
+			</w>
+			<w n="2-61">
+				<text>η</text>
+				<refs nrefs="1-64" />
+			</w>
+			<w n="2-62">
+				<text>ωρα</text>
+				<refs nrefs="1-65" />
+			</w>
+			<w n="2-63">
+				<text>αυτων</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-64">
+				<text>μνημονευητε</text>
+				<refs nrefs="1-66" />
+			</w>
+			<w n="2-65">
+				<text>αυτων</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-66">
+				<text>οτι</text>
+				<refs nrefs="1-67" />
+			</w>
+			<w n="2-67">
+				<text>εγω</text>
+				<refs nrefs="1-68" />
+			</w>
+			<w n="2-68">
+				<text>ειπον</text>
+				<refs nrefs="1-69" />
+			</w>
+			<w n="2-69">
+				<text>υμιν</text>
+				<refs nrefs="1-70" />
+			</w>
+			<w n="2-70">
+				<text>ταυτα</text>
+				<refs nrefs="1-71" />
+			</w>
+			<w n="2-71">
+				<text>δε</text>
+				<refs nrefs="1-72" />
+			</w>
+			<w n="2-72">
+				<text>υμιν</text>
+				<refs nrefs="1-75" />
+			</w>
+			<w n="2-73">
+				<text>εξ</text>
+				<refs nrefs="1-73" />
+			</w>
+			<w n="2-74">
+				<text>αρχης</text>
+				<refs nrefs="1-74" />
+			</w>
+			<w n="2-75">
+				<text>ουκ</text>
+				<refs nrefs="1-76" />
+			</w>
+			<w n="2-76">
+				<text>ειπον</text>
+				<refs nrefs="1-77" />
+			</w>
+			<w n="2-77">
+				<text>οτι</text>
+				<refs nrefs="1-78" />
+			</w>
+			<w n="2-78">
+				<text>μεθ</text>
+				<refs nrefs="1-79" />
+			</w>
+			<w n="2-79">
+				<text>υμων</text>
+				<refs nrefs="1-80" />
+			</w>
+			<w n="2-80">
+				<text>ημην</text>
+				<refs nrefs="1-81" />
+			</w>
+			<w n="2-81">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>

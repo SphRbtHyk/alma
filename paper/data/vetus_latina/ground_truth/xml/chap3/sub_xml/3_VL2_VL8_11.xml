@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<aligned-text><language lnum="L1" xml:lang="LAT" />
+	<language lnum="L2" xml:lang="LAT" />
+	<sentence n="11"><wds lnum="L1"><w n="1-208">
+				<text>respondit</text>
+				<refs nrefs="2-195" />
+			</w>
+			<w n="1-209">
+				<text>iesus</text>
+				<refs nrefs="2-196" />
+			</w>
+			<w n="1-210">
+				<text>amen</text>
+				<refs nrefs="2-197" />
+			</w>
+			<w n="1-211">
+				<text>amen</text>
+				<refs nrefs="2-198" />
+			</w>
+			<w n="1-212">
+				<text>dico</text>
+				<refs nrefs="2-199" />
+			</w>
+			<w n="1-213">
+				<text>tibi</text>
+				<refs nrefs="2-200" />
+			</w>
+			<w n="1-214">
+				<text>nisi</text>
+				<refs nrefs="2-201" />
+			</w>
+			<w n="1-215">
+				<text>quis</text>
+				<refs nrefs="2-202" />
+			</w>
+			<w n="1-216">
+				<text>renatus</text>
+				<refs nrefs="2-203" />
+			</w>
+			<w n="1-217">
+				<text>fuerit</text>
+				<refs nrefs="2-204" />
+			</w>
+			<w n="1-218">
+				<text>ex</text>
+				<refs nrefs="2-205" />
+			</w>
+			<w n="1-219">
+				<text>aqua</text>
+				<refs nrefs="2-206" />
+			</w>
+			<w n="1-220">
+				<text>et</text>
+				<refs nrefs="2-207" />
+			</w>
+			<w n="1-221">
+				<text>spiritu</text>
+				<refs nrefs="2-208 2-209" />
+			</w>
+			<w n="1-222">
+				<text>non</text>
+				<refs nrefs="2-210" />
+			</w>
+			<w n="1-223">
+				<text>potest</text>
+				<refs nrefs="2-211" />
+			</w>
+			<w n="1-224">
+				<text>introire</text>
+				<refs nrefs="2-212" />
+			</w>
+			<w n="1-225">
+				<text>in</text>
+				<refs nrefs="2-213" />
+			</w>
+			<w n="1-226">
+				<text>regnum</text>
+				<refs nrefs="2-214" />
+			</w>
+			<w n="1-227">
+				<text>celorum</text>
+				<refs nrefs="2-215" />
+			</w>
+			<w n="1-228">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds><wds lnum="L2"><w n="2-194">
+				<text>et</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-195">
+				<text>respondit</text>
+				<refs nrefs="1-208" />
+			</w>
+			<w n="2-196">
+				<text>iesus</text>
+				<refs nrefs="1-209" />
+			</w>
+			<w n="2-197">
+				<text>amen</text>
+				<refs nrefs="1-210" />
+			</w>
+			<w n="2-198">
+				<text>amen</text>
+				<refs nrefs="1-211" />
+			</w>
+			<w n="2-199">
+				<text>dico</text>
+				<refs nrefs="1-212" />
+			</w>
+			<w n="2-200">
+				<text>tibi</text>
+				<refs nrefs="1-213" />
+			</w>
+			<w n="2-201">
+				<text>nisi</text>
+				<refs nrefs="1-214" />
+			</w>
+			<w n="2-202">
+				<text>quis</text>
+				<refs nrefs="1-215" />
+			</w>
+			<w n="2-203">
+				<text>renatus</text>
+				<refs nrefs="1-216" />
+			</w>
+			<w n="2-204">
+				<text>fuerit</text>
+				<refs nrefs="1-217" />
+			</w>
+			<w n="2-205">
+				<text>ex</text>
+				<refs nrefs="1-218" />
+			</w>
+			<w n="2-206">
+				<text>aqua</text>
+				<refs nrefs="1-219" />
+			</w>
+			<w n="2-207">
+				<text>et</text>
+				<refs nrefs="1-220" />
+			</w>
+			<w n="2-208">
+				<text>spiritu</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-209">
+				<text>sco</text>
+				<refs nrefs="1-221" />
+			</w>
+			<w n="2-210">
+				<text>non</text>
+				<refs nrefs="1-222" />
+			</w>
+			<w n="2-211">
+				<text>potest</text>
+				<refs nrefs="1-223" />
+			</w>
+			<w n="2-212">
+				<text>introire</text>
+				<refs nrefs="1-224" />
+			</w>
+			<w n="2-213">
+				<text>in</text>
+				<refs nrefs="1-225" />
+			</w>
+			<w n="2-214">
+				<text>regnum</text>
+				<refs nrefs="1-226" />
+			</w>
+			<w n="2-215">
+				<text>dei</text>
+				<refs nrefs="1-227" />
+			</w>
+			<w n="2-216">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			</wds></sentence></aligned-text>
