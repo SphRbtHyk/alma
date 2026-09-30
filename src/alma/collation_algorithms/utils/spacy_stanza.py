@@ -31,7 +31,8 @@ class StanzaAsSpacy:
         self.pipeline = stanza.Pipeline(
             lang=lang,
             processors=processors,
-            use_gpu=use_gpu
+            use_gpu=use_gpu,
+            **kwargs
         )
         self.vocab = spacy.blank(lang).vocab
 
